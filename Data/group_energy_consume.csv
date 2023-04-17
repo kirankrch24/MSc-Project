@@ -1,0 +1,4097 @@
+DateCode,FeatureName,Energy Consuming Sector,Value
+2005,Aberdeen City,Agriculture,11.648
+2005,Aberdeen City,Commercial,1070.127
+2005,Aberdeen City,Domestic,2243.2599999999998
+2005,Aberdeen City,Industrial,1722.1989999999998
+2005,Aberdeen City,Industrial & Commercial,880.81
+2005,Aberdeen City,Public Sector,39.452
+2005,Aberdeen City,Rail,9.817
+2005,Aberdeen City,Road Transport,1144.273
+2005,Aberdeenshire,Agriculture,361.844
+2005,Aberdeenshire,Commercial,639.256
+2005,Aberdeenshire,Domestic,2624.091
+2005,Aberdeenshire,Industrial,1297.765
+2005,Aberdeenshire,Industrial & Commercial,704.65
+2005,Aberdeenshire,Public Sector,24.944000000000003
+2005,Aberdeenshire,Rail,39.918
+2005,Aberdeenshire,Road Transport,2125.703
+2005,Angus,Agriculture,85.458
+2005,Angus,Commercial,307.517
+2005,Angus,Domestic,1187.625
+2005,Angus,Industrial,535.921
+2005,Angus,Industrial & Commercial,326.826
+2005,Angus,Public Sector,3.65
+2005,Angus,Rail,36.372
+2005,Angus,Road Transport,823.0509999999999
+2005,Argyll and Bute,Agriculture,119.033
+2005,Argyll and Bute,Commercial,185.925
+2005,Argyll and Bute,Domestic,934.15
+2005,Argyll and Bute,Industrial,455.152
+2005,Argyll and Bute,Industrial & Commercial,235.589
+2005,Argyll and Bute,Public Sector,81.212
+2005,Argyll and Bute,Rail,5.128
+2005,Argyll and Bute,Road Transport,697.408
+2005,City of Edinburgh,Agriculture,10.783
+2005,City of Edinburgh,Commercial,1835.377
+2005,City of Edinburgh,Domestic,4504.803
+2005,City of Edinburgh,Industrial,2499.2529999999997
+2005,City of Edinburgh,Industrial & Commercial,1707.051
+2005,City of Edinburgh,Public Sector,17.837999999999997
+2005,City of Edinburgh,Rail,49.354
+2005,City of Edinburgh,Road Transport,2888.9170000000004
+2005,Clackmannanshire,Agriculture,10.011000000000001
+2005,Clackmannanshire,Commercial,325.454
+2005,Clackmannanshire,Domestic,520.011
+2005,Clackmannanshire,Industrial,442.701
+2005,Clackmannanshire,Industrial & Commercial,227.82
+2005,Clackmannanshire,Public Sector,0.471
+2005,Clackmannanshire,Rail,0.205
+2005,Clackmannanshire,Road Transport,245.26399999999998
+2005,Dumfries and Galloway,Agriculture,502.679
+2005,Dumfries and Galloway,Commercial,546.428
+2005,Dumfries and Galloway,Domestic,1561.0810000000001
+2005,Dumfries and Galloway,Industrial,989.3409999999999
+2005,Dumfries and Galloway,Industrial & Commercial,578.151
+2005,Dumfries and Galloway,Public Sector,26.106
+2005,Dumfries and Galloway,Rail,26.547
+2005,Dumfries and Galloway,Road Transport,1940.304
+2005,Dundee City,Agriculture,1.053
+2005,Dundee City,Commercial,602.479
+2005,Dundee City,Domestic,1338.862
+2005,Dundee City,Industrial,948.423
+2005,Dundee City,Industrial & Commercial,495.519
+2005,Dundee City,Public Sector,1.113
+2005,Dundee City,Rail,10.678
+2005,Dundee City,Road Transport,796.148
+2005,East Ayrshire,Agriculture,97.094
+2005,East Ayrshire,Commercial,385.841
+2005,East Ayrshire,Domestic,1290.022
+2005,East Ayrshire,Industrial,702.164
+2005,East Ayrshire,Industrial & Commercial,282.958
+2005,East Ayrshire,Public Sector,8.571
+2005,East Ayrshire,Rail,4.086
+2005,East Ayrshire,Road Transport,917.3230000000001
+2005,East Dunbartonshire,Agriculture,9.068
+2005,East Dunbartonshire,Commercial,177.22899999999998
+2005,East Dunbartonshire,Domestic,1232.37
+2005,East Dunbartonshire,Industrial,281.039
+2005,East Dunbartonshire,Industrial & Commercial,196.605
+2005,East Dunbartonshire,Public Sector,1.326
+2005,East Dunbartonshire,Rail,6.423
+2005,East Dunbartonshire,Road Transport,475.303
+2005,East Lothian,Agriculture,38.588
+2005,East Lothian,Commercial,293.871
+2005,East Lothian,Domestic,959.257
+2005,East Lothian,Industrial,1103.6979999999999
+2005,East Lothian,Industrial & Commercial,288.377
+2005,East Lothian,Public Sector,2.952
+2005,East Lothian,Rail,35.49
+2005,East Lothian,Road Transport,718.103
+2005,East Renfrewshire,Agriculture,15.34
+2005,East Renfrewshire,Commercial,112.64
+2005,East Renfrewshire,Domestic,1032.656
+2005,East Renfrewshire,Industrial,154.232
+2005,East Renfrewshire,Industrial & Commercial,97.994
+2005,East Renfrewshire,Public Sector,0.914
+2005,East Renfrewshire,Rail,2.213
+2005,East Renfrewshire,Road Transport,672.6329999999999
+2005,Falkirk,Agriculture,23.363
+2005,Falkirk,Commercial,652.033
+2005,Falkirk,Domestic,1518.502
+2005,Falkirk,Industrial,21601.889000000003
+2005,Falkirk,Industrial & Commercial,474.981
+2005,Falkirk,Public Sector,10.73
+2005,Falkirk,Rail,16.12
+2005,Falkirk,Road Transport,1218.8649999999998
+2005,Fife,Agriculture,90.205
+2005,Fife,Commercial,2034.257
+2005,Fife,Domestic,3891.3559999999998
+2005,Fife,Industrial,7907.174999999999
+2005,Fife,Industrial & Commercial,1184.341
+2005,Fife,Public Sector,18.867
+2005,Fife,Rail,74.463
+2005,Fife,Road Transport,2249.2070000000003
+2005,Glasgow City,Agriculture,3.968
+2005,Glasgow City,Commercial,2340.7560000000003
+2005,Glasgow City,Domestic,5138.637000000001
+2005,Glasgow City,Industrial,3241.5600000000004
+2005,Glasgow City,Industrial & Commercial,2109.147
+2005,Glasgow City,Public Sector,7.912
+2005,Glasgow City,Rail,11.91
+2005,Glasgow City,Road Transport,3169.246
+2005,Highland,Agriculture,306.994
+2005,Highland,Commercial,784.9929999999999
+2005,Highland,Domestic,2371.812
+2005,Highland,Industrial,1841.95
+2005,Highland,Industrial & Commercial,1036.024
+2005,Highland,Public Sector,109.953
+2005,Highland,Rail,53.129
+2005,Highland,Road Transport,1927.8899999999999
+2005,Inverclyde,Agriculture,7.628
+2005,Inverclyde,Commercial,220.825
+2005,Inverclyde,Domestic,812.368
+2005,Inverclyde,Industrial,294.39399999999995
+2005,Inverclyde,Industrial & Commercial,221.668
+2005,Inverclyde,Public Sector,2.002
+2005,Inverclyde,Rail,0.196
+2005,Inverclyde,Road Transport,489.908
+2005,Midlothian,Agriculture,22.37
+2005,Midlothian,Commercial,166.447
+2005,Midlothian,Domestic,807.6600000000001
+2005,Midlothian,Industrial,269.55
+2005,Midlothian,Industrial & Commercial,164.157
+2005,Midlothian,Public Sector,3.592
+2005,Midlothian,Rail,7.527
+2005,Midlothian,Road Transport,528.3340000000001
+2005,Moray,Agriculture,94.20700000000001
+2005,Moray,Commercial,693.3760000000001
+2005,Moray,Domestic,938.804
+2005,Moray,Industrial,938.365
+2005,Moray,Industrial & Commercial,325.675
+2005,Moray,Public Sector,11.06
+2005,Moray,Rail,7.485
+2005,Moray,Road Transport,561.379
+2005,Na h-Eileanan Siar,Agriculture,36.059
+2005,Na h-Eileanan Siar,Commercial,26.916999999999998
+2005,Na h-Eileanan Siar,Domestic,282.19
+2005,Na h-Eileanan Siar,Industrial,101.977
+2005,Na h-Eileanan Siar,Industrial & Commercial,60.174
+2005,Na h-Eileanan Siar,Public Sector,11.751000000000001
+2005,Na h-Eileanan Siar,Rail,0.0
+2005,Na h-Eileanan Siar,Road Transport,159.837
+2005,North Ayrshire,Agriculture,46.6
+2005,North Ayrshire,Commercial,1190.657
+2005,North Ayrshire,Domestic,1402.04
+2005,North Ayrshire,Industrial,1878.154
+2005,North Ayrshire,Industrial & Commercial,628.136
+2005,North Ayrshire,Public Sector,4.349
+2005,North Ayrshire,Rail,2.798
+2005,North Ayrshire,Road Transport,644.243
+2005,North Lanarkshire,Agriculture,26.784
+2005,North Lanarkshire,Commercial,1072.9769999999999
+2005,North Lanarkshire,Domestic,3247.562
+2005,North Lanarkshire,Industrial,1809.351
+2005,North Lanarkshire,Industrial & Commercial,1001.762
+2005,North Lanarkshire,Public Sector,8.506
+2005,North Lanarkshire,Rail,21.463
+2005,North Lanarkshire,Road Transport,2527.517
+2005,Orkney Islands,Agriculture,123.354
+2005,Orkney Islands,Commercial,27.637
+2005,Orkney Islands,Domestic,196.135
+2005,Orkney Islands,Industrial,76.29
+2005,Orkney Islands,Industrial & Commercial,53.591
+2005,Orkney Islands,Public Sector,21.209
+2005,Orkney Islands,Rail,0.0
+2005,Orkney Islands,Road Transport,95.12400000000001
+2005,Perth and Kinross,Agriculture,165.177
+2005,Perth and Kinross,Commercial,376.968
+2005,Perth and Kinross,Domestic,1533.162
+2005,Perth and Kinross,Industrial,606.37
+2005,Perth and Kinross,Industrial & Commercial,419.087
+2005,Perth and Kinross,Public Sector,12.71
+2005,Perth and Kinross,Rail,69.399
+2005,Perth and Kinross,Road Transport,2016.681
+2005,Renfrewshire,Agriculture,18.529
+2005,Renfrewshire,Commercial,599.588
+2005,Renfrewshire,Domestic,1705.389
+2005,Renfrewshire,Industrial,894.653
+2005,Renfrewshire,Industrial & Commercial,571.475
+2005,Renfrewshire,Public Sector,2.034
+2005,Renfrewshire,Rail,1.94
+2005,Renfrewshire,Road Transport,1187.673
+2005,Scottish Borders,Agriculture,283.19599999999997
+2005,Scottish Borders,Commercial,339.961
+2005,Scottish Borders,Domestic,1195.705
+2005,Scottish Borders,Industrial,583.408
+2005,Scottish Borders,Industrial & Commercial,331.281
+2005,Scottish Borders,Public Sector,7.157
+2005,Scottish Borders,Rail,30.566
+2005,Scottish Borders,Road Transport,940.172
+2005,Shetland Islands,Agriculture,66.694
+2005,Shetland Islands,Commercial,48.759
+2005,Shetland Islands,Domestic,200.69400000000002
+2005,Shetland Islands,Industrial,153.34300000000002
+2005,Shetland Islands,Industrial & Commercial,102.042
+2005,Shetland Islands,Public Sector,14.786000000000001
+2005,Shetland Islands,Rail,0.0
+2005,Shetland Islands,Road Transport,147.59
+2005,South Ayrshire,Agriculture,104.69399999999999
+2005,South Ayrshire,Commercial,372.93899999999996
+2005,South Ayrshire,Domestic,1250.164
+2005,South Ayrshire,Industrial,654.1569999999999
+2005,South Ayrshire,Industrial & Commercial,331.06
+2005,South Ayrshire,Public Sector,3.342
+2005,South Ayrshire,Rail,4.339
+2005,South Ayrshire,Road Transport,797.333
+2005,South Lanarkshire,Agriculture,125.137
+2005,South Lanarkshire,Commercial,805.976
+2005,South Lanarkshire,Domestic,3192.718
+2005,South Lanarkshire,Industrial,1377.731
+2005,South Lanarkshire,Industrial & Commercial,849.211
+2005,South Lanarkshire,Public Sector,11.306000000000001
+2005,South Lanarkshire,Rail,32.893
+2005,South Lanarkshire,Road Transport,2368.59
+2005,Stirling,Agriculture,64.66199999999999
+2005,Stirling,Commercial,631.248
+2005,Stirling,Domestic,934.3699999999999
+2005,Stirling,Industrial,895.774
+2005,Stirling,Industrial & Commercial,349.482
+2005,Stirling,Public Sector,8.315
+2005,Stirling,Rail,18.397
+2005,Stirling,Road Transport,969.665
+2005,West Dunbartonshire,Agriculture,7.851
+2005,West Dunbartonshire,Commercial,259.916
+2005,West Dunbartonshire,Domestic,868.7
+2005,West Dunbartonshire,Industrial,371.015
+2005,West Dunbartonshire,Industrial & Commercial,250.801
+2005,West Dunbartonshire,Public Sector,1.059
+2005,West Dunbartonshire,Rail,1.044
+2005,West Dunbartonshire,Road Transport,529.4839999999999
+2005,West Lothian,Agriculture,29.218999999999998
+2005,West Lothian,Commercial,648.174
+2005,West Lothian,Domestic,1688.018
+2005,West Lothian,Industrial,975.322
+2005,West Lothian,Industrial & Commercial,627.45
+2005,West Lothian,Public Sector,3.5
+2005,West Lothian,Rail,13.794
+2005,West Lothian,Road Transport,1396.575
+2006,Aberdeen City,Agriculture,11.108
+2006,Aberdeen City,Commercial,858.155
+2006,Aberdeen City,Domestic,2198.466
+2006,Aberdeen City,Industrial,1485.9479999999999
+2006,Aberdeen City,Industrial & Commercial,851.293
+2006,Aberdeen City,Public Sector,58.599000000000004
+2006,Aberdeen City,Rail,9.808
+2006,Aberdeen City,Road Transport,1214.632
+2006,Aberdeenshire,Agriculture,344.51300000000003
+2006,Aberdeenshire,Commercial,493.577
+2006,Aberdeenshire,Domestic,2692.7929999999997
+2006,Aberdeenshire,Industrial,1107.336
+2006,Aberdeenshire,Industrial & Commercial,698.602
+2006,Aberdeenshire,Public Sector,18.166
+2006,Aberdeenshire,Rail,39.885
+2006,Aberdeenshire,Road Transport,2373.9139999999998
+2006,Angus,Agriculture,81.536
+2006,Angus,Commercial,288.166
+2006,Angus,Domestic,1184.516
+2006,Angus,Industrial,507.32599999999996
+2006,Angus,Industrial & Commercial,324.14
+2006,Angus,Public Sector,2.7560000000000002
+2006,Angus,Rail,36.365
+2006,Angus,Road Transport,900.951
+2006,Argyll and Bute,Agriculture,113.271
+2006,Argyll and Bute,Commercial,188.115
+2006,Argyll and Bute,Domestic,930.1959999999999
+2006,Argyll and Bute,Industrial,434.06899999999996
+2006,Argyll and Bute,Industrial & Commercial,237.531
+2006,Argyll and Bute,Public Sector,73.724
+2006,Argyll and Bute,Rail,5.054
+2006,Argyll and Bute,Road Transport,705.867
+2006,City of Edinburgh,Agriculture,10.388
+2006,City of Edinburgh,Commercial,1782.455
+2006,City of Edinburgh,Domestic,4374.085
+2006,City of Edinburgh,Industrial,2461.6079999999997
+2006,City of Edinburgh,Industrial & Commercial,1781.6
+2006,City of Edinburgh,Public Sector,11.417
+2006,City of Edinburgh,Rail,49.305
+2006,City of Edinburgh,Road Transport,2960.021
+2006,Clackmannanshire,Agriculture,9.532
+2006,Clackmannanshire,Commercial,321.765
+2006,Clackmannanshire,Domestic,505.503
+2006,Clackmannanshire,Industrial,439.355
+2006,Clackmannanshire,Industrial & Commercial,232.17
+2006,Clackmannanshire,Public Sector,0.366
+2006,Clackmannanshire,Rail,0.204
+2006,Clackmannanshire,Road Transport,255.34099999999998
+2006,Dumfries and Galloway,Agriculture,478.064
+2006,Dumfries and Galloway,Commercial,501.502
+2006,Dumfries and Galloway,Domestic,1524.9450000000002
+2006,Dumfries and Galloway,Industrial,898.077
+2006,Dumfries and Galloway,Industrial & Commercial,505.835
+2006,Dumfries and Galloway,Public Sector,19.357
+2006,Dumfries and Galloway,Rail,26.18
+2006,Dumfries and Galloway,Road Transport,1982.024
+2006,Dundee City,Agriculture,1.01
+2006,Dundee City,Commercial,564.472
+2006,Dundee City,Domestic,1306.459
+2006,Dundee City,Industrial,893.169
+2006,Dundee City,Industrial & Commercial,502.3
+2006,Dundee City,Public Sector,0.706
+2006,Dundee City,Rail,10.647
+2006,Dundee City,Road Transport,820.235
+2006,East Ayrshire,Agriculture,92.35900000000001
+2006,East Ayrshire,Commercial,367.805
+2006,East Ayrshire,Domestic,1264.0240000000001
+2006,East Ayrshire,Industrial,690.152
+2006,East Ayrshire,Industrial & Commercial,291.436
+2006,East Ayrshire,Public Sector,6.004
+2006,East Ayrshire,Rail,4.032
+2006,East Ayrshire,Road Transport,901.053
+2006,East Dunbartonshire,Agriculture,8.637
+2006,East Dunbartonshire,Commercial,168.029
+2006,East Dunbartonshire,Domestic,1188.163
+2006,East Dunbartonshire,Industrial,271.055
+2006,East Dunbartonshire,Industrial & Commercial,217.446
+2006,East Dunbartonshire,Public Sector,0.8190000000000001
+2006,East Dunbartonshire,Rail,6.414
+2006,East Dunbartonshire,Road Transport,485.27
+2006,East Lothian,Agriculture,36.763
+2006,East Lothian,Commercial,291.83299999999997
+2006,East Lothian,Domestic,953.4250000000001
+2006,East Lothian,Industrial,1151.388
+2006,East Lothian,Industrial & Commercial,296.146
+2006,East Lothian,Public Sector,2.242
+2006,East Lothian,Rail,35.658
+2006,East Lothian,Road Transport,751.85
+2006,East Renfrewshire,Agriculture,14.604
+2006,East Renfrewshire,Commercial,116.059
+2006,East Renfrewshire,Domestic,1002.591
+2006,East Renfrewshire,Industrial,158.67200000000003
+2006,East Renfrewshire,Industrial & Commercial,107.519
+2006,East Renfrewshire,Public Sector,0.562
+2006,East Renfrewshire,Rail,2.199
+2006,East Renfrewshire,Road Transport,626.42
+2006,Falkirk,Agriculture,22.246
+2006,Falkirk,Commercial,649.5550000000001
+2006,Falkirk,Domestic,1487.716
+2006,Falkirk,Industrial,17520.704999999998
+2006,Falkirk,Industrial & Commercial,473.69
+2006,Falkirk,Public Sector,6.805
+2006,Falkirk,Rail,16.343999999999998
+2006,Falkirk,Road Transport,1277.639
+2006,Fife,Agriculture,86.032
+2006,Fife,Commercial,2086.277
+2006,Fife,Domestic,3791.275
+2006,Fife,Industrial,8375.438
+2006,Fife,Industrial & Commercial,1136.344
+2006,Fife,Public Sector,13.963000000000001
+2006,Fife,Rail,74.451
+2006,Fife,Road Transport,2328.67
+2006,Glasgow City,Agriculture,3.781
+2006,Glasgow City,Commercial,2271.299
+2006,Glasgow City,Domestic,4957.82
+2006,Glasgow City,Industrial,3155.65
+2006,Glasgow City,Industrial & Commercial,2111.717
+2006,Glasgow City,Public Sector,5.205
+2006,Glasgow City,Rail,11.822
+2006,Glasgow City,Road Transport,3238.05
+2006,Highland,Agriculture,292.09000000000003
+2006,Highland,Commercial,766.28
+2006,Highland,Domestic,2345.521
+2006,Highland,Industrial,1616.446
+2006,Highland,Industrial & Commercial,1026.057
+2006,Highland,Public Sector,86.559
+2006,Highland,Rail,55.321999999999996
+2006,Highland,Road Transport,2000.472
+2006,Inverclyde,Agriculture,7.254
+2006,Inverclyde,Commercial,218.393
+2006,Inverclyde,Domestic,787.3820000000001
+2006,Inverclyde,Industrial,295.38699999999994
+2006,Inverclyde,Industrial & Commercial,234.81
+2006,Inverclyde,Public Sector,1.2449999999999999
+2006,Inverclyde,Rail,0.19
+2006,Inverclyde,Road Transport,490.98
+2006,Midlothian,Agriculture,21.274
+2006,Midlothian,Commercial,178.042
+2006,Midlothian,Domestic,792.607
+2006,Midlothian,Industrial,286.16999999999996
+2006,Midlothian,Industrial & Commercial,205.921
+2006,Midlothian,Public Sector,2.9960000000000004
+2006,Midlothian,Rail,7.479
+2006,Midlothian,Road Transport,550.0600000000001
+2006,Moray,Agriculture,89.691
+2006,Moray,Commercial,797.554
+2006,Moray,Domestic,961.363
+2006,Moray,Industrial,1035.9099999999999
+2006,Moray,Industrial & Commercial,332.106
+2006,Moray,Public Sector,8.025
+2006,Moray,Rail,8.349
+2006,Moray,Road Transport,584.395
+2006,Na h-Eileanan Siar,Agriculture,34.302
+2006,Na h-Eileanan Siar,Commercial,26.992
+2006,Na h-Eileanan Siar,Domestic,294.758
+2006,Na h-Eileanan Siar,Industrial,98.27600000000001
+2006,Na h-Eileanan Siar,Industrial & Commercial,60.79
+2006,Na h-Eileanan Siar,Public Sector,8.475999999999999
+2006,Na h-Eileanan Siar,Rail,0.0
+2006,Na h-Eileanan Siar,Road Transport,168.099
+2006,North Ayrshire,Agriculture,44.332
+2006,North Ayrshire,Commercial,1144.041
+2006,North Ayrshire,Domestic,1367.8419999999999
+2006,North Ayrshire,Industrial,1761.606
+2006,North Ayrshire,Industrial & Commercial,603.178
+2006,North Ayrshire,Public Sector,2.981
+2006,North Ayrshire,Rail,2.714
+2006,North Ayrshire,Road Transport,669.968
+2006,North Lanarkshire,Agriculture,25.544
+2006,North Lanarkshire,Commercial,1071.729
+2006,North Lanarkshire,Domestic,3164.65
+2006,North Lanarkshire,Industrial,1766.029
+2006,North Lanarkshire,Industrial & Commercial,1039.489
+2006,North Lanarkshire,Public Sector,1.4660000000000002
+2006,North Lanarkshire,Rail,21.157
+2006,North Lanarkshire,Road Transport,2588.641
+2006,Orkney Islands,Agriculture,117.318
+2006,Orkney Islands,Commercial,28.84
+2006,Orkney Islands,Domestic,202.67399999999998
+2006,Orkney Islands,Industrial,75.905
+2006,Orkney Islands,Industrial & Commercial,59.72
+2006,Orkney Islands,Public Sector,14.93
+2006,Orkney Islands,Rail,0.0
+2006,Orkney Islands,Road Transport,101.2
+2006,Perth and Kinross,Agriculture,157.357
+2006,Perth and Kinross,Commercial,383.802
+2006,Perth and Kinross,Domestic,1541.8490000000002
+2006,Perth and Kinross,Industrial,610.343
+2006,Perth and Kinross,Industrial & Commercial,431.008
+2006,Perth and Kinross,Public Sector,9.221
+2006,Perth and Kinross,Rail,68.652
+2006,Perth and Kinross,Road Transport,2073.594
+2006,Renfrewshire,Agriculture,17.633
+2006,Renfrewshire,Commercial,597.708
+2006,Renfrewshire,Domestic,1650.664
+2006,Renfrewshire,Industrial,899.0070000000001
+2006,Renfrewshire,Industrial & Commercial,589.583
+2006,Renfrewshire,Public Sector,1.307
+2006,Renfrewshire,Rail,1.88
+2006,Renfrewshire,Road Transport,1207.699
+2006,Scottish Borders,Agriculture,269.38800000000003
+2006,Scottish Borders,Commercial,325.561
+2006,Scottish Borders,Domestic,1204.171
+2006,Scottish Borders,Industrial,571.036
+2006,Scottish Borders,Industrial & Commercial,328.454
+2006,Scottish Borders,Public Sector,5.354
+2006,Scottish Borders,Rail,30.611
+2006,Scottish Borders,Road Transport,943.216
+2006,Shetland Islands,Agriculture,63.464000000000006
+2006,Shetland Islands,Commercial,46.882
+2006,Shetland Islands,Domestic,204.829
+2006,Shetland Islands,Industrial,145.622
+2006,Shetland Islands,Industrial & Commercial,101.262
+2006,Shetland Islands,Public Sector,10.559000000000001
+2006,Shetland Islands,Rail,0.0
+2006,Shetland Islands,Road Transport,153.785
+2006,South Ayrshire,Agriculture,99.57
+2006,South Ayrshire,Commercial,414.53099999999995
+2006,South Ayrshire,Domestic,1223.334
+2006,South Ayrshire,Industrial,724.423
+2006,South Ayrshire,Industrial & Commercial,339.177
+2006,South Ayrshire,Public Sector,2.326
+2006,South Ayrshire,Rail,4.273
+2006,South Ayrshire,Road Transport,821.6859999999999
+2006,South Lanarkshire,Agriculture,119.091
+2006,South Lanarkshire,Commercial,790.983
+2006,South Lanarkshire,Domestic,3141.937
+2006,South Lanarkshire,Industrial,1352.808
+2006,South Lanarkshire,Industrial & Commercial,902.697
+2006,South Lanarkshire,Public Sector,8.117999999999999
+2006,South Lanarkshire,Rail,32.684
+2006,South Lanarkshire,Road Transport,2445.7180000000003
+2006,Stirling,Agriculture,61.675000000000004
+2006,Stirling,Commercial,602.483
+2006,Stirling,Domestic,922.2049999999999
+2006,Stirling,Industrial,856.29
+2006,Stirling,Industrial & Commercial,367.822
+2006,Stirling,Public Sector,4.091
+2006,Stirling,Rail,18.21
+2006,Stirling,Road Transport,1023.115
+2006,West Dunbartonshire,Agriculture,7.468
+2006,West Dunbartonshire,Commercial,257.315
+2006,West Dunbartonshire,Domestic,840.518
+2006,West Dunbartonshire,Industrial,370.72
+2006,West Dunbartonshire,Industrial & Commercial,279.318
+2006,West Dunbartonshire,Public Sector,0.6880000000000001
+2006,West Dunbartonshire,Rail,1.026
+2006,West Dunbartonshire,Road Transport,543.579
+2006,West Lothian,Agriculture,27.834
+2006,West Lothian,Commercial,618.79
+2006,West Lothian,Domestic,1634.698
+2006,West Lothian,Industrial,938.9300000000001
+2006,West Lothian,Industrial & Commercial,641.674
+2006,West Lothian,Public Sector,2.354
+2006,West Lothian,Rail,13.73
+2006,West Lothian,Road Transport,1442.5110000000002
+2007,Aberdeen City,Agriculture,10.552999999999999
+2007,Aberdeen City,Commercial,842.101
+2007,Aberdeen City,Domestic,2170.9990000000003
+2007,Aberdeen City,Industrial,1453.294
+2007,Aberdeen City,Industrial & Commercial,827.73
+2007,Aberdeen City,Public Sector,31.729
+2007,Aberdeen City,Rail,10.57
+2007,Aberdeen City,Road Transport,1179.722
+2007,Aberdeenshire,Agriculture,327.175
+2007,Aberdeenshire,Commercial,492.029
+2007,Aberdeenshire,Domestic,2584.453
+2007,Aberdeenshire,Industrial,1100.458
+2007,Aberdeenshire,Industrial & Commercial,728.259
+2007,Aberdeenshire,Public Sector,18.569000000000003
+2007,Aberdeenshire,Rail,42.374
+2007,Aberdeenshire,Road Transport,2288.81
+2007,Angus,Agriculture,77.496
+2007,Angus,Commercial,299.8
+2007,Angus,Domestic,1153.069
+2007,Angus,Industrial,514.11
+2007,Angus,Industrial & Commercial,327.478
+2007,Angus,Public Sector,3.001
+2007,Angus,Rail,38.298
+2007,Angus,Road Transport,910.348
+2007,Argyll and Bute,Agriculture,107.549
+2007,Argyll and Bute,Commercial,176.804
+2007,Argyll and Bute,Domestic,884.73
+2007,Argyll and Bute,Industrial,412.438
+2007,Argyll and Bute,Industrial & Commercial,234.624
+2007,Argyll and Bute,Public Sector,74.107
+2007,Argyll and Bute,Rail,5.519
+2007,Argyll and Bute,Road Transport,713.724
+2007,City of Edinburgh,Agriculture,9.9
+2007,City of Edinburgh,Commercial,1752.424
+2007,City of Edinburgh,Domestic,4427.259
+2007,City of Edinburgh,Industrial,2408.518
+2007,City of Edinburgh,Industrial & Commercial,1778.599
+2007,City of Edinburgh,Public Sector,11.302
+2007,City of Edinburgh,Rail,52.906
+2007,City of Edinburgh,Road Transport,2994.69
+2007,Clackmannanshire,Agriculture,9.05
+2007,Clackmannanshire,Commercial,504.142
+2007,Clackmannanshire,Domestic,507.82099999999997
+2007,Clackmannanshire,Industrial,632.6179999999999
+2007,Clackmannanshire,Industrial & Commercial,243.462
+2007,Clackmannanshire,Public Sector,0.411
+2007,Clackmannanshire,Rail,0.238
+2007,Clackmannanshire,Road Transport,263.789
+2007,Dumfries and Galloway,Agriculture,453.812
+2007,Dumfries and Galloway,Commercial,519.104
+2007,Dumfries and Galloway,Domestic,1474.0790000000002
+2007,Dumfries and Galloway,Industrial,908.97
+2007,Dumfries and Galloway,Industrial & Commercial,580.581
+2007,Dumfries and Galloway,Public Sector,21.03
+2007,Dumfries and Galloway,Rail,26.873
+2007,Dumfries and Galloway,Road Transport,2122.7059999999997
+2007,Dundee City,Agriculture,0.962
+2007,Dundee City,Commercial,572.249
+2007,Dundee City,Domestic,1311.397
+2007,Dundee City,Industrial,879.933
+2007,Dundee City,Industrial & Commercial,479.842
+2007,Dundee City,Public Sector,0.637
+2007,Dundee City,Rail,11.405
+2007,Dundee City,Road Transport,849.103
+2007,East Ayrshire,Agriculture,87.679
+2007,East Ayrshire,Commercial,370.98
+2007,East Ayrshire,Domestic,1247.607
+2007,East Ayrshire,Industrial,669.669
+2007,East Ayrshire,Industrial & Commercial,285.086
+2007,East Ayrshire,Public Sector,4.948
+2007,East Ayrshire,Rail,4.561
+2007,East Ayrshire,Road Transport,941.3969999999999
+2007,East Dunbartonshire,Agriculture,8.203
+2007,East Dunbartonshire,Commercial,182.461
+2007,East Dunbartonshire,Domestic,1172.522
+2007,East Dunbartonshire,Industrial,285.262
+2007,East Dunbartonshire,Industrial & Commercial,223.936
+2007,East Dunbartonshire,Public Sector,0.867
+2007,East Dunbartonshire,Rail,7.133
+2007,East Dunbartonshire,Road Transport,500.741
+2007,East Lothian,Agriculture,34.922
+2007,East Lothian,Commercial,306.378
+2007,East Lothian,Domestic,943.899
+2007,East Lothian,Industrial,1289.755
+2007,East Lothian,Industrial & Commercial,299.821
+2007,East Lothian,Public Sector,2.321
+2007,East Lothian,Rail,34.427
+2007,East Lothian,Road Transport,779.366
+2007,East Renfrewshire,Agriculture,13.868
+2007,East Renfrewshire,Commercial,98.84
+2007,East Renfrewshire,Domestic,991.8159999999999
+2007,East Renfrewshire,Industrial,135.842
+2007,East Renfrewshire,Industrial & Commercial,86.55
+2007,East Renfrewshire,Public Sector,0.557
+2007,East Renfrewshire,Rail,2.571
+2007,East Renfrewshire,Road Transport,627.019
+2007,Falkirk,Agriculture,21.125999999999998
+2007,Falkirk,Commercial,635.373
+2007,Falkirk,Domestic,1484.285
+2007,Falkirk,Industrial,17090.221
+2007,Falkirk,Industrial & Commercial,478.958
+2007,Falkirk,Public Sector,7.127999999999999
+2007,Falkirk,Rail,17.462
+2007,Falkirk,Road Transport,1315.007
+2007,Fife,Agriculture,81.749
+2007,Fife,Commercial,2255.258
+2007,Fife,Domestic,3792.701
+2007,Fife,Industrial,8166.235
+2007,Fife,Industrial & Commercial,1048.282
+2007,Fife,Public Sector,15.06
+2007,Fife,Rail,82.66
+2007,Fife,Road Transport,2390.19
+2007,Glasgow City,Agriculture,3.591
+2007,Glasgow City,Commercial,2218.867
+2007,Glasgow City,Domestic,4886.351000000001
+2007,Glasgow City,Industrial,3073.108
+2007,Glasgow City,Industrial & Commercial,2073.431
+2007,Glasgow City,Public Sector,4.815
+2007,Glasgow City,Rail,12.989
+2007,Glasgow City,Road Transport,3295.544
+2007,Highland,Agriculture,277.32
+2007,Highland,Commercial,736.78
+2007,Highland,Domestic,2236.604
+2007,Highland,Industrial,1496.2359999999999
+2007,Highland,Industrial & Commercial,1030.779
+2007,Highland,Public Sector,87.721
+2007,Highland,Rail,59.515
+2007,Highland,Road Transport,2054.753
+2007,Inverclyde,Agriculture,6.886
+2007,Inverclyde,Commercial,193.759
+2007,Inverclyde,Domestic,778.1270000000001
+2007,Inverclyde,Industrial,262.039
+2007,Inverclyde,Industrial & Commercial,205.665
+2007,Inverclyde,Public Sector,1.363
+2007,Inverclyde,Rail,0.196
+2007,Inverclyde,Road Transport,482.461
+2007,Midlothian,Agriculture,20.194
+2007,Midlothian,Commercial,158.66000000000003
+2007,Midlothian,Domestic,796.4219999999999
+2007,Midlothian,Industrial,255.53
+2007,Midlothian,Industrial & Commercial,172.857
+2007,Midlothian,Public Sector,2.702
+2007,Midlothian,Rail,8.737
+2007,Midlothian,Road Transport,554.765
+2007,Moray,Agriculture,85.173
+2007,Moray,Commercial,767.528
+2007,Moray,Domestic,935.173
+2007,Moray,Industrial,999.6999999999999
+2007,Moray,Industrial & Commercial,338.48
+2007,Moray,Public Sector,8.941
+2007,Moray,Rail,9.190000000000001
+2007,Moray,Road Transport,636.252
+2007,Na h-Eileanan Siar,Agriculture,32.565999999999995
+2007,Na h-Eileanan Siar,Commercial,26.304000000000002
+2007,Na h-Eileanan Siar,Domestic,267.065
+2007,Na h-Eileanan Siar,Industrial,93.509
+2007,Na h-Eileanan Siar,Industrial & Commercial,59.801
+2007,Na h-Eileanan Siar,Public Sector,8.674
+2007,Na h-Eileanan Siar,Rail,0.0
+2007,Na h-Eileanan Siar,Road Transport,169.096
+2007,North Ayrshire,Agriculture,42.085
+2007,North Ayrshire,Commercial,1202.302
+2007,North Ayrshire,Domestic,1339.566
+2007,North Ayrshire,Industrial,1852.363
+2007,North Ayrshire,Industrial & Commercial,546.098
+2007,North Ayrshire,Public Sector,2.885
+2007,North Ayrshire,Rail,2.816
+2007,North Ayrshire,Road Transport,664.5790000000001
+2007,North Lanarkshire,Agriculture,24.267
+2007,North Lanarkshire,Commercial,1106.1999999999998
+2007,North Lanarkshire,Domestic,3179.233
+2007,North Lanarkshire,Industrial,1793.46
+2007,North Lanarkshire,Industrial & Commercial,1020.672
+2007,North Lanarkshire,Public Sector,1.283
+2007,North Lanarkshire,Rail,22.202
+2007,North Lanarkshire,Road Transport,2640.337
+2007,Orkney Islands,Agriculture,111.36999999999999
+2007,Orkney Islands,Commercial,30.488000000000003
+2007,Orkney Islands,Domestic,188.764
+2007,Orkney Islands,Industrial,77.816
+2007,Orkney Islands,Industrial & Commercial,64.128
+2007,Orkney Islands,Public Sector,13.657
+2007,Orkney Islands,Rail,0.0
+2007,Orkney Islands,Road Transport,103.836
+2007,Perth and Kinross,Agriculture,149.475
+2007,Perth and Kinross,Commercial,367.943
+2007,Perth and Kinross,Domestic,1484.253
+2007,Perth and Kinross,Industrial,589.006
+2007,Perth and Kinross,Industrial & Commercial,433.787
+2007,Perth and Kinross,Public Sector,9.553999999999998
+2007,Perth and Kinross,Rail,73.792
+2007,Perth and Kinross,Road Transport,2103.062
+2007,Renfrewshire,Agriculture,16.740000000000002
+2007,Renfrewshire,Commercial,583.1800000000001
+2007,Renfrewshire,Domestic,1641.017
+2007,Renfrewshire,Industrial,877.9590000000001
+2007,Renfrewshire,Industrial & Commercial,586.838
+2007,Renfrewshire,Public Sector,1.279
+2007,Renfrewshire,Rail,1.937
+2007,Renfrewshire,Road Transport,1232.796
+2007,Scottish Borders,Agriculture,255.739
+2007,Scottish Borders,Commercial,312.63599999999997
+2007,Scottish Borders,Domestic,1176.582
+2007,Scottish Borders,Industrial,533.435
+2007,Scottish Borders,Industrial & Commercial,331.943
+2007,Scottish Borders,Public Sector,5.666
+2007,Scottish Borders,Rail,31.746
+2007,Scottish Borders,Road Transport,987.331
+2007,Shetland Islands,Agriculture,60.26
+2007,Shetland Islands,Commercial,44.204
+2007,Shetland Islands,Domestic,194.01
+2007,Shetland Islands,Industrial,140.32999999999998
+2007,Shetland Islands,Industrial & Commercial,95.064
+2007,Shetland Islands,Public Sector,10.093
+2007,Shetland Islands,Rail,0.0
+2007,Shetland Islands,Road Transport,156.171
+2007,South Ayrshire,Agriculture,94.518
+2007,South Ayrshire,Commercial,428.817
+2007,South Ayrshire,Domestic,1193.091
+2007,South Ayrshire,Industrial,759.702
+2007,South Ayrshire,Industrial & Commercial,343.667
+2007,South Ayrshire,Public Sector,2.448
+2007,South Ayrshire,Rail,4.788
+2007,South Ayrshire,Road Transport,839.187
+2007,South Lanarkshire,Agriculture,113.071
+2007,South Lanarkshire,Commercial,780.656
+2007,South Lanarkshire,Domestic,3125.8630000000003
+2007,South Lanarkshire,Industrial,1316.496
+2007,South Lanarkshire,Industrial & Commercial,827.033
+2007,South Lanarkshire,Public Sector,8.823
+2007,South Lanarkshire,Rail,32.562
+2007,South Lanarkshire,Road Transport,2494.64
+2007,Stirling,Agriculture,58.599
+2007,Stirling,Commercial,631.1
+2007,Stirling,Domestic,892.346
+2007,Stirling,Industrial,876.444
+2007,Stirling,Industrial & Commercial,336.165
+2007,Stirling,Public Sector,4.817
+2007,Stirling,Rail,19.611
+2007,Stirling,Road Transport,1051.127
+2007,West Dunbartonshire,Agriculture,7.0889999999999995
+2007,West Dunbartonshire,Commercial,258.142
+2007,West Dunbartonshire,Domestic,830.1190000000001
+2007,West Dunbartonshire,Industrial,367.66200000000003
+2007,West Dunbartonshire,Industrial & Commercial,269.642
+2007,West Dunbartonshire,Public Sector,1.421
+2007,West Dunbartonshire,Rail,1.102
+2007,West Dunbartonshire,Road Transport,544.7570000000001
+2007,West Lothian,Agriculture,26.435000000000002
+2007,West Lothian,Commercial,602.7669999999999
+2007,West Lothian,Domestic,1663.136
+2007,West Lothian,Industrial,909.8040000000001
+2007,West Lothian,Industrial & Commercial,602.015
+2007,West Lothian,Public Sector,2.4610000000000003
+2007,West Lothian,Rail,14.191
+2007,West Lothian,Road Transport,1467.095
+2008,Aberdeen City,Agriculture,10.328000000000001
+2008,Aberdeen City,Commercial,835.474
+2008,Aberdeen City,Domestic,2109.4429999999998
+2008,Aberdeen City,Industrial,1422.775
+2008,Aberdeen City,Industrial & Commercial,859.201
+2008,Aberdeen City,Public Sector,30.546999999999997
+2008,Aberdeen City,Rail,10.688
+2008,Aberdeen City,Road Transport,1173.335
+2008,Aberdeenshire,Agriculture,320.09499999999997
+2008,Aberdeenshire,Commercial,491.789
+2008,Aberdeenshire,Domestic,2566.226
+2008,Aberdeenshire,Industrial,1031.409
+2008,Aberdeenshire,Industrial & Commercial,740.703
+2008,Aberdeenshire,Public Sector,15.547
+2008,Aberdeenshire,Rail,42.728
+2008,Aberdeenshire,Road Transport,2264.636
+2008,Angus,Agriculture,76.012
+2008,Angus,Commercial,299.328
+2008,Angus,Domestic,1132.771
+2008,Angus,Industrial,497.06899999999996
+2008,Angus,Industrial & Commercial,323.163
+2008,Angus,Public Sector,2.448
+2008,Angus,Rail,38.558
+2008,Angus,Road Transport,920.183
+2008,Argyll and Bute,Agriculture,105.165
+2008,Argyll and Bute,Commercial,178.688
+2008,Argyll and Bute,Domestic,882.8710000000001
+2008,Argyll and Bute,Industrial,386.34299999999996
+2008,Argyll and Bute,Industrial & Commercial,240.497
+2008,Argyll and Bute,Public Sector,71.464
+2008,Argyll and Bute,Rail,5.456
+2008,Argyll and Bute,Road Transport,707.35
+2008,City of Edinburgh,Agriculture,9.732
+2008,City of Edinburgh,Commercial,1728.074
+2008,City of Edinburgh,Domestic,4266.164000000001
+2008,City of Edinburgh,Industrial,2353.4400000000005
+2008,City of Edinburgh,Industrial & Commercial,1753.443
+2008,City of Edinburgh,Public Sector,8.65
+2008,City of Edinburgh,Rail,53.436
+2008,City of Edinburgh,Road Transport,3009.1510000000003
+2008,Clackmannanshire,Agriculture,8.846
+2008,Clackmannanshire,Commercial,508.961
+2008,Clackmannanshire,Domestic,484.93800000000005
+2008,Clackmannanshire,Industrial,634.907
+2008,Clackmannanshire,Industrial & Commercial,246.102
+2008,Clackmannanshire,Public Sector,0.333
+2008,Clackmannanshire,Rail,0.241
+2008,Clackmannanshire,Road Transport,266.472
+2008,Dumfries and Galloway,Agriculture,443.45300000000003
+2008,Dumfries and Galloway,Commercial,503.033
+2008,Dumfries and Galloway,Domestic,1466.609
+2008,Dumfries and Galloway,Industrial,868.6
+2008,Dumfries and Galloway,Industrial & Commercial,493.193
+2008,Dumfries and Galloway,Public Sector,16.887
+2008,Dumfries and Galloway,Rail,26.229
+2008,Dumfries and Galloway,Road Transport,2047.815
+2008,Dundee City,Agriculture,0.943
+2008,Dundee City,Commercial,530.5120000000001
+2008,Dundee City,Domestic,1267.8690000000001
+2008,Dundee City,Industrial,825.719
+2008,Dundee City,Industrial & Commercial,468.363
+2008,Dundee City,Public Sector,0.5640000000000001
+2008,Dundee City,Rail,11.475
+2008,Dundee City,Road Transport,848.587
+2008,East Ayrshire,Agriculture,85.684
+2008,East Ayrshire,Commercial,339.067
+2008,East Ayrshire,Domestic,1218.147
+2008,East Ayrshire,Industrial,639.4590000000001
+2008,East Ayrshire,Industrial & Commercial,277.108
+2008,East Ayrshire,Public Sector,4.931
+2008,East Ayrshire,Rail,4.554
+2008,East Ayrshire,Road Transport,925.9559999999999
+2008,East Dunbartonshire,Agriculture,8.017
+2008,East Dunbartonshire,Commercial,157.409
+2008,East Dunbartonshire,Domestic,1137.143
+2008,East Dunbartonshire,Industrial,244.261
+2008,East Dunbartonshire,Industrial & Commercial,188.964
+2008,East Dunbartonshire,Public Sector,0.5690000000000001
+2008,East Dunbartonshire,Rail,7.249
+2008,East Dunbartonshire,Road Transport,496.655
+2008,East Lothian,Agriculture,34.195
+2008,East Lothian,Commercial,313.623
+2008,East Lothian,Domestic,915.0640000000001
+2008,East Lothian,Industrial,1063.59
+2008,East Lothian,Industrial & Commercial,318.639
+2008,East Lothian,Public Sector,2.004
+2008,East Lothian,Rail,34.421
+2008,East Lothian,Road Transport,754.979
+2008,East Renfrewshire,Agriculture,13.553999999999998
+2008,East Renfrewshire,Commercial,94.708
+2008,East Renfrewshire,Domestic,968.829
+2008,East Renfrewshire,Industrial,128.46300000000002
+2008,East Renfrewshire,Industrial & Commercial,80.526
+2008,East Renfrewshire,Public Sector,0.387
+2008,East Renfrewshire,Rail,2.615
+2008,East Renfrewshire,Road Transport,633.1899999999999
+2008,Falkirk,Agriculture,20.646
+2008,Falkirk,Commercial,614.556
+2008,Falkirk,Domestic,1425.94
+2008,Falkirk,Industrial,18389.04
+2008,Falkirk,Industrial & Commercial,483.192
+2008,Falkirk,Public Sector,4.883
+2008,Falkirk,Rail,17.259
+2008,Falkirk,Road Transport,1308.2930000000001
+2008,Fife,Agriculture,80.081
+2008,Fife,Commercial,2085.389
+2008,Fife,Domestic,3645.719
+2008,Fife,Industrial,8693.972
+2008,Fife,Industrial & Commercial,1017.648
+2008,Fife,Public Sector,12.262
+2008,Fife,Rail,84.157
+2008,Fife,Road Transport,2369.279
+2008,Glasgow City,Agriculture,3.509
+2008,Glasgow City,Commercial,2290.621
+2008,Glasgow City,Domestic,4726.438
+2008,Glasgow City,Industrial,3115.1499999999996
+2008,Glasgow City,Industrial & Commercial,2167.704
+2008,Glasgow City,Public Sector,4.101
+2008,Glasgow City,Rail,13.027
+2008,Glasgow City,Road Transport,3304.38
+2008,Highland,Agriculture,271.145
+2008,Highland,Commercial,763.166
+2008,Highland,Domestic,2235.45
+2008,Highland,Industrial,1503.768
+2008,Highland,Industrial & Commercial,1010.949
+2008,Highland,Public Sector,79.57
+2008,Highland,Rail,58.921
+2008,Highland,Road Transport,2052.726
+2008,Inverclyde,Agriculture,6.726
+2008,Inverclyde,Commercial,197.552
+2008,Inverclyde,Domestic,760.0100000000001
+2008,Inverclyde,Industrial,265.685
+2008,Inverclyde,Industrial & Commercial,211.98
+2008,Inverclyde,Public Sector,0.978
+2008,Inverclyde,Rail,0.185
+2008,Inverclyde,Road Transport,495.226
+2008,Midlothian,Agriculture,19.730999999999998
+2008,Midlothian,Commercial,162.45399999999998
+2008,Midlothian,Domestic,771.6859999999999
+2008,Midlothian,Industrial,256.315
+2008,Midlothian,Industrial & Commercial,195.756
+2008,Midlothian,Public Sector,2.915
+2008,Midlothian,Rail,8.884
+2008,Midlothian,Road Transport,557.956
+2008,Moray,Agriculture,83.3
+2008,Moray,Commercial,770.504
+2008,Moray,Domestic,917.0120000000001
+2008,Moray,Industrial,979.3489999999999
+2008,Moray,Industrial & Commercial,338.317
+2008,Moray,Public Sector,7.840999999999999
+2008,Moray,Rail,9.312000000000001
+2008,Moray,Road Transport,599.188
+2008,Na h-Eileanan Siar,Agriculture,31.839
+2008,Na h-Eileanan Siar,Commercial,26.323
+2008,Na h-Eileanan Siar,Domestic,272.795
+2008,Na h-Eileanan Siar,Industrial,88.388
+2008,Na h-Eileanan Siar,Industrial & Commercial,58.918
+2008,Na h-Eileanan Siar,Public Sector,7.178000000000001
+2008,Na h-Eileanan Siar,Rail,0.0
+2008,Na h-Eileanan Siar,Road Transport,171.37300000000002
+2008,North Ayrshire,Agriculture,41.114
+2008,North Ayrshire,Commercial,1170.5720000000001
+2008,North Ayrshire,Domestic,1295.5240000000001
+2008,North Ayrshire,Industrial,1782.738
+2008,North Ayrshire,Industrial & Commercial,568.172
+2008,North Ayrshire,Public Sector,2.381
+2008,North Ayrshire,Rail,2.663
+2008,North Ayrshire,Road Transport,667.873
+2008,North Lanarkshire,Agriculture,23.732
+2008,North Lanarkshire,Commercial,989.5980000000001
+2008,North Lanarkshire,Domestic,3059.334
+2008,North Lanarkshire,Industrial,1602.58
+2008,North Lanarkshire,Industrial & Commercial,955.544
+2008,North Lanarkshire,Public Sector,1.146
+2008,North Lanarkshire,Rail,21.763
+2008,North Lanarkshire,Road Transport,2637.079
+2008,Orkney Islands,Agriculture,108.849
+2008,Orkney Islands,Commercial,26.525
+2008,Orkney Islands,Domestic,189.791
+2008,Orkney Islands,Industrial,66.45
+2008,Orkney Islands,Industrial & Commercial,54.254
+2008,Orkney Islands,Public Sector,12.291
+2008,Orkney Islands,Rail,0.0
+2008,Orkney Islands,Road Transport,104.91799999999999
+2008,Perth and Kinross,Agriculture,146.373
+2008,Perth and Kinross,Commercial,360.078
+2008,Perth and Kinross,Domestic,1466.664
+2008,Perth and Kinross,Industrial,550.499
+2008,Perth and Kinross,Industrial & Commercial,429.787
+2008,Perth and Kinross,Public Sector,7.856
+2008,Perth and Kinross,Rail,73.215
+2008,Perth and Kinross,Road Transport,2062.071
+2008,Renfrewshire,Agriculture,16.355
+2008,Renfrewshire,Commercial,526.995
+2008,Renfrewshire,Domestic,1597.046
+2008,Renfrewshire,Industrial,802.515
+2008,Renfrewshire,Industrial & Commercial,527.118
+2008,Renfrewshire,Public Sector,0.96
+2008,Renfrewshire,Rail,1.825
+2008,Renfrewshire,Road Transport,1233.249
+2008,Scottish Borders,Agriculture,249.92999999999998
+2008,Scottish Borders,Commercial,294.769
+2008,Scottish Borders,Domestic,1163.39
+2008,Scottish Borders,Industrial,517.273
+2008,Scottish Borders,Industrial & Commercial,304.659
+2008,Scottish Borders,Public Sector,4.48
+2008,Scottish Borders,Rail,31.997
+2008,Scottish Borders,Road Transport,989.039
+2008,Shetland Islands,Agriculture,58.938
+2008,Shetland Islands,Commercial,45.22
+2008,Shetland Islands,Domestic,189.999
+2008,Shetland Islands,Industrial,130.674
+2008,Shetland Islands,Industrial & Commercial,97.087
+2008,Shetland Islands,Public Sector,8.838999999999999
+2008,Shetland Islands,Rail,0.0
+2008,Shetland Islands,Road Transport,156.263
+2008,South Ayrshire,Agriculture,92.352
+2008,South Ayrshire,Commercial,422.271
+2008,South Ayrshire,Domestic,1158.781
+2008,South Ayrshire,Industrial,744.234
+2008,South Ayrshire,Industrial & Commercial,331.199
+2008,South Ayrshire,Public Sector,1.892
+2008,South Ayrshire,Rail,4.754
+2008,South Ayrshire,Road Transport,835.479
+2008,South Lanarkshire,Agriculture,110.513
+2008,South Lanarkshire,Commercial,794.465
+2008,South Lanarkshire,Domestic,3030.689
+2008,South Lanarkshire,Industrial,1283.31
+2008,South Lanarkshire,Industrial & Commercial,830.394
+2008,South Lanarkshire,Public Sector,6.867
+2008,South Lanarkshire,Rail,32.048
+2008,South Lanarkshire,Road Transport,2458.832
+2008,Stirling,Agriculture,57.345000000000006
+2008,Stirling,Commercial,557.13
+2008,Stirling,Domestic,870.1800000000001
+2008,Stirling,Industrial,823.602
+2008,Stirling,Industrial & Commercial,315.126
+2008,Stirling,Public Sector,3.79
+2008,Stirling,Rail,19.488
+2008,Stirling,Road Transport,1032.339
+2008,West Dunbartonshire,Agriculture,6.925
+2008,West Dunbartonshire,Commercial,239.96
+2008,West Dunbartonshire,Domestic,802.5310000000001
+2008,West Dunbartonshire,Industrial,335.897
+2008,West Dunbartonshire,Industrial & Commercial,234.589
+2008,West Dunbartonshire,Public Sector,1.253
+2008,West Dunbartonshire,Rail,1.079
+2008,West Dunbartonshire,Road Transport,546.057
+2008,West Lothian,Agriculture,25.845
+2008,West Lothian,Commercial,603.321
+2008,West Lothian,Domestic,1600.598
+2008,West Lothian,Industrial,897.45
+2008,West Lothian,Industrial & Commercial,610.191
+2008,West Lothian,Public Sector,1.835
+2008,West Lothian,Rail,14.128
+2008,West Lothian,Road Transport,1468.65
+2009,Aberdeen City,Agriculture,10.389
+2009,Aberdeen City,Commercial,808.722
+2009,Aberdeen City,Domestic,1968.878
+2009,Aberdeen City,Industrial,1305.124
+2009,Aberdeen City,Industrial & Commercial,827.235
+2009,Aberdeen City,Public Sector,30.058
+2009,Aberdeen City,Rail,10.712
+2009,Aberdeen City,Road Transport,1138.056
+2009,Aberdeenshire,Agriculture,322.665
+2009,Aberdeenshire,Commercial,504.55500000000006
+2009,Aberdeenshire,Domestic,2461.632
+2009,Aberdeenshire,Industrial,990.326
+2009,Aberdeenshire,Industrial & Commercial,714.795
+2009,Aberdeenshire,Public Sector,12.855
+2009,Aberdeenshire,Rail,42.782
+2009,Aberdeenshire,Road Transport,2289.411
+2009,Angus,Agriculture,75.422
+2009,Angus,Commercial,297.059
+2009,Angus,Domestic,1057.3010000000002
+2009,Angus,Industrial,471.555
+2009,Angus,Industrial & Commercial,297.183
+2009,Angus,Public Sector,2.134
+2009,Angus,Rail,38.588
+2009,Angus,Road Transport,898.73
+2009,Argyll and Bute,Agriculture,106.364
+2009,Argyll and Bute,Commercial,181.409
+2009,Argyll and Bute,Domestic,847.476
+2009,Argyll and Bute,Industrial,378.584
+2009,Argyll and Bute,Industrial & Commercial,232.287
+2009,Argyll and Bute,Public Sector,62.375
+2009,Argyll and Bute,Rail,5.417
+2009,Argyll and Bute,Road Transport,698.7829999999999
+2009,City of Edinburgh,Agriculture,9.504
+2009,City of Edinburgh,Commercial,1662.2130000000002
+2009,City of Edinburgh,Domestic,3955.257
+2009,City of Edinburgh,Industrial,2169.522
+2009,City of Edinburgh,Industrial & Commercial,1700.56
+2009,City of Edinburgh,Public Sector,4.86
+2009,City of Edinburgh,Rail,53.533
+2009,City of Edinburgh,Road Transport,2994.514
+2009,Clackmannanshire,Agriculture,8.969
+2009,Clackmannanshire,Commercial,352.218
+2009,Clackmannanshire,Domestic,458.235
+2009,Clackmannanshire,Industrial,437.762
+2009,Clackmannanshire,Industrial & Commercial,228.624
+2009,Clackmannanshire,Public Sector,0.303
+2009,Clackmannanshire,Rail,0.242
+2009,Clackmannanshire,Road Transport,265.111
+2009,Dumfries and Galloway,Agriculture,450.363
+2009,Dumfries and Galloway,Commercial,449.666
+2009,Dumfries and Galloway,Domestic,1417.228
+2009,Dumfries and Galloway,Industrial,785.239
+2009,Dumfries and Galloway,Industrial & Commercial,534.169
+2009,Dumfries and Galloway,Public Sector,14.276
+2009,Dumfries and Galloway,Rail,25.924
+2009,Dumfries and Galloway,Road Transport,1979.177
+2009,Dundee City,Agriculture,0.936
+2009,Dundee City,Commercial,515.5319999999999
+2009,Dundee City,Domestic,1179.586
+2009,Dundee City,Industrial,767.316
+2009,Dundee City,Industrial & Commercial,452.933
+2009,Dundee City,Public Sector,0.545
+2009,Dundee City,Rail,11.478
+2009,Dundee City,Road Transport,828.6890000000001
+2009,East Ayrshire,Agriculture,86.978
+2009,East Ayrshire,Commercial,324.28700000000003
+2009,East Ayrshire,Domestic,1138.938
+2009,East Ayrshire,Industrial,604.259
+2009,East Ayrshire,Industrial & Commercial,252.989
+2009,East Ayrshire,Public Sector,3.9
+2009,East Ayrshire,Rail,4.537
+2009,East Ayrshire,Road Transport,891.017
+2009,East Dunbartonshire,Agriculture,8.126
+2009,East Dunbartonshire,Commercial,142.712
+2009,East Dunbartonshire,Domestic,1063.6680000000001
+2009,East Dunbartonshire,Industrial,212.71499999999997
+2009,East Dunbartonshire,Industrial & Commercial,169.148
+2009,East Dunbartonshire,Public Sector,0.29500000000000004
+2009,East Dunbartonshire,Rail,7.277
+2009,East Dunbartonshire,Road Transport,494.795
+2009,East Lothian,Agriculture,34.291
+2009,East Lothian,Commercial,281.337
+2009,East Lothian,Domestic,862.5559999999999
+2009,East Lothian,Industrial,848.0409999999999
+2009,East Lothian,Industrial & Commercial,266.677
+2009,East Lothian,Public Sector,1.7530000000000001
+2009,East Lothian,Rail,34.396
+2009,East Lothian,Road Transport,725.7950000000001
+2009,East Renfrewshire,Agriculture,13.742
+2009,East Renfrewshire,Commercial,103.195
+2009,East Renfrewshire,Domestic,902.098
+2009,East Renfrewshire,Industrial,135.242
+2009,East Renfrewshire,Industrial & Commercial,113.195
+2009,East Renfrewshire,Public Sector,0.19
+2009,East Renfrewshire,Rail,2.624
+2009,East Renfrewshire,Road Transport,628.09
+2009,Falkirk,Agriculture,20.943
+2009,Falkirk,Commercial,467.53400000000005
+2009,Falkirk,Domestic,1344.346
+2009,Falkirk,Industrial,17223.107
+2009,Falkirk,Industrial & Commercial,456.399
+2009,Falkirk,Public Sector,2.665
+2009,Falkirk,Rail,17.139
+2009,Falkirk,Road Transport,1287.53
+2009,Fife,Agriculture,80.072
+2009,Fife,Commercial,1479.183
+2009,Fife,Domestic,3371.8849999999998
+2009,Fife,Industrial,7091.972
+2009,Fife,Industrial & Commercial,939.849
+2009,Fife,Public Sector,10.558
+2009,Fife,Rail,84.541
+2009,Fife,Road Transport,2328.438
+2009,Glasgow City,Agriculture,3.558
+2009,Glasgow City,Commercial,2082.0860000000002
+2009,Glasgow City,Domestic,4409.014
+2009,Glasgow City,Industrial,2703.1420000000003
+2009,Glasgow City,Industrial & Commercial,1798.776
+2009,Glasgow City,Public Sector,3.498
+2009,Glasgow City,Rail,13.01
+2009,Glasgow City,Road Transport,3223.6800000000003
+2009,Highland,Agriculture,274.416
+2009,Highland,Commercial,746.7299999999999
+2009,Highland,Domestic,2187.462
+2009,Highland,Industrial,1458.282
+2009,Highland,Industrial & Commercial,891.712
+2009,Highland,Public Sector,70.99
+2009,Highland,Rail,58.541
+2009,Highland,Road Transport,2062.173
+2009,Inverclyde,Agriculture,6.846
+2009,Inverclyde,Commercial,176.69299999999998
+2009,Inverclyde,Domestic,707.5179999999999
+2009,Inverclyde,Industrial,224.712
+2009,Inverclyde,Industrial & Commercial,184.906
+2009,Inverclyde,Public Sector,0.622
+2009,Inverclyde,Rail,0.18
+2009,Inverclyde,Road Transport,479.128
+2009,Midlothian,Agriculture,20.052
+2009,Midlothian,Commercial,164.18900000000002
+2009,Midlothian,Domestic,710.865
+2009,Midlothian,Industrial,246.00000000000003
+2009,Midlothian,Industrial & Commercial,181.022
+2009,Midlothian,Public Sector,2.8770000000000002
+2009,Midlothian,Rail,8.914
+2009,Midlothian,Road Transport,553.466
+2009,Moray,Agriculture,84.15
+2009,Moray,Commercial,685.5160000000001
+2009,Moray,Domestic,862.4300000000001
+2009,Moray,Industrial,866.093
+2009,Moray,Industrial & Commercial,333.201
+2009,Moray,Public Sector,7.072
+2009,Moray,Rail,9.336
+2009,Moray,Road Transport,583.1139999999999
+2009,Na h-Eileanan Siar,Agriculture,32.234
+2009,Na h-Eileanan Siar,Commercial,27.575
+2009,Na h-Eileanan Siar,Domestic,267.32099999999997
+2009,Na h-Eileanan Siar,Industrial,86.47800000000001
+2009,Na h-Eileanan Siar,Industrial & Commercial,59.011
+2009,Na h-Eileanan Siar,Public Sector,5.7909999999999995
+2009,Na h-Eileanan Siar,Rail,0.0
+2009,Na h-Eileanan Siar,Road Transport,172.47899999999998
+2009,North Ayrshire,Agriculture,41.809
+2009,North Ayrshire,Commercial,1250.262
+2009,North Ayrshire,Domestic,1221.762
+2009,North Ayrshire,Industrial,2361.24
+2009,North Ayrshire,Industrial & Commercial,533.006
+2009,North Ayrshire,Public Sector,1.73
+2009,North Ayrshire,Rail,2.597
+2009,North Ayrshire,Road Transport,655.457
+2009,North Lanarkshire,Agriculture,23.971
+2009,North Lanarkshire,Commercial,965.108
+2009,North Lanarkshire,Domestic,2878.1510000000003
+2009,North Lanarkshire,Industrial,1480.679
+2009,North Lanarkshire,Industrial & Commercial,913.472
+2009,North Lanarkshire,Public Sector,0.7909999999999999
+2009,North Lanarkshire,Rail,21.542
+2009,North Lanarkshire,Road Transport,2592.094
+2009,Orkney Islands,Agriculture,110.424
+2009,Orkney Islands,Commercial,26.8
+2009,Orkney Islands,Domestic,183.748
+2009,Orkney Islands,Industrial,64.046
+2009,Orkney Islands,Industrial & Commercial,52.591
+2009,Orkney Islands,Public Sector,9.439
+2009,Orkney Islands,Rail,0.0
+2009,Orkney Islands,Road Transport,104.422
+2009,Perth and Kinross,Agriculture,146.731
+2009,Perth and Kinross,Commercial,356.01
+2009,Perth and Kinross,Domestic,1407.997
+2009,Perth and Kinross,Industrial,518.8480000000001
+2009,Perth and Kinross,Industrial & Commercial,425.498
+2009,Perth and Kinross,Public Sector,6.441
+2009,Perth and Kinross,Rail,72.814
+2009,Perth and Kinross,Road Transport,2031.194
+2009,Renfrewshire,Agriculture,16.628
+2009,Renfrewshire,Commercial,526.796
+2009,Renfrewshire,Domestic,1505.1870000000001
+2009,Renfrewshire,Industrial,751.497
+2009,Renfrewshire,Industrial & Commercial,533.564
+2009,Renfrewshire,Public Sector,0.5720000000000001
+2009,Renfrewshire,Rail,1.776
+2009,Renfrewshire,Road Transport,1190.005
+2009,Scottish Borders,Agriculture,253.637
+2009,Scottish Borders,Commercial,291.498
+2009,Scottish Borders,Domestic,1102.019
+2009,Scottish Borders,Industrial,496.10699999999997
+2009,Scottish Borders,Industrial & Commercial,308.929
+2009,Scottish Borders,Public Sector,3.709
+2009,Scottish Borders,Rail,32.043
+2009,Scottish Borders,Road Transport,947.671
+2009,Shetland Islands,Agriculture,59.522
+2009,Shetland Islands,Commercial,46.034000000000006
+2009,Shetland Islands,Domestic,187.424
+2009,Shetland Islands,Industrial,126.41199999999999
+2009,Shetland Islands,Industrial & Commercial,95.029
+2009,Shetland Islands,Public Sector,6.981999999999999
+2009,Shetland Islands,Rail,0.0
+2009,Shetland Islands,Road Transport,152.572
+2009,South Ayrshire,Agriculture,93.842
+2009,South Ayrshire,Commercial,391.006
+2009,South Ayrshire,Domestic,1087.924
+2009,South Ayrshire,Industrial,696.284
+2009,South Ayrshire,Industrial & Commercial,308.499
+2009,South Ayrshire,Public Sector,1.427
+2009,South Ayrshire,Rail,4.726
+2009,South Ayrshire,Road Transport,824.221
+2009,South Lanarkshire,Agriculture,112.082
+2009,South Lanarkshire,Commercial,664.017
+2009,South Lanarkshire,Domestic,2846.094
+2009,South Lanarkshire,Industrial,1066.359
+2009,South Lanarkshire,Industrial & Commercial,724.867
+2009,South Lanarkshire,Public Sector,5.497
+2009,South Lanarkshire,Rail,31.801
+2009,South Lanarkshire,Road Transport,2435.6800000000003
+2009,Stirling,Agriculture,57.695
+2009,Stirling,Commercial,527.999
+2009,Stirling,Domestic,832.7550000000001
+2009,Stirling,Industrial,766.0039999999999
+2009,Stirling,Industrial & Commercial,303.94
+2009,Stirling,Public Sector,3.018
+2009,Stirling,Rail,19.394
+2009,Stirling,Road Transport,1002.991
+2009,West Dunbartonshire,Agriculture,7.048
+2009,West Dunbartonshire,Commercial,225.223
+2009,West Dunbartonshire,Domestic,744.8030000000001
+2009,West Dunbartonshire,Industrial,304.63
+2009,West Dunbartonshire,Industrial & Commercial,238.254
+2009,West Dunbartonshire,Public Sector,1.078
+2009,West Dunbartonshire,Rail,1.067
+2009,West Dunbartonshire,Road Transport,552.0799999999999
+2009,West Lothian,Agriculture,26.154
+2009,West Lothian,Commercial,573.5740000000001
+2009,West Lothian,Domestic,1488.64
+2009,West Lothian,Industrial,808.49
+2009,West Lothian,Industrial & Commercial,559.767
+2009,West Lothian,Public Sector,1.2679999999999998
+2009,West Lothian,Rail,14.078
+2009,West Lothian,Road Transport,1461.317
+2010,Aberdeen City,Agriculture,10.499
+2010,Aberdeen City,Commercial,810.378
+2010,Aberdeen City,Domestic,1954.862
+2010,Aberdeen City,Industrial,1328.707
+2010,Aberdeen City,Industrial & Commercial,838.294
+2010,Aberdeen City,Public Sector,32.342
+2010,Aberdeen City,Rail,10.738
+2010,Aberdeen City,Road Transport,1116.576
+2010,Aberdeenshire,Agriculture,325.948
+2010,Aberdeenshire,Commercial,478.30600000000004
+2010,Aberdeenshire,Domestic,2585.584
+2010,Aberdeenshire,Industrial,1007.2860000000001
+2010,Aberdeenshire,Industrial & Commercial,720.713
+2010,Aberdeenshire,Public Sector,12.049000000000001
+2010,Aberdeenshire,Rail,42.942
+2010,Aberdeenshire,Road Transport,2272.5319999999997
+2010,Angus,Agriculture,76.467
+2010,Angus,Commercial,296.327
+2010,Angus,Domestic,1073.738
+2010,Angus,Industrial,477.751
+2010,Angus,Industrial & Commercial,293.342
+2010,Angus,Public Sector,2.043
+2010,Angus,Rail,38.763000000000005
+2010,Angus,Road Transport,901.163
+2010,Argyll and Bute,Agriculture,107.364
+2010,Argyll and Bute,Commercial,172.451
+2010,Argyll and Bute,Domestic,869.1850000000001
+2010,Argyll and Bute,Industrial,398.06600000000003
+2010,Argyll and Bute,Industrial & Commercial,237.516
+2010,Argyll and Bute,Public Sector,72.79499999999999
+2010,Argyll and Bute,Rail,5.438
+2010,Argyll and Bute,Road Transport,690.351
+2010,City of Edinburgh,Agriculture,9.67
+2010,City of Edinburgh,Commercial,1668.345
+2010,City of Edinburgh,Domestic,3918.533
+2010,City of Edinburgh,Industrial,2198.404
+2010,City of Edinburgh,Industrial & Commercial,1680.673
+2010,City of Edinburgh,Public Sector,8.342
+2010,City of Edinburgh,Rail,53.686
+2010,City of Edinburgh,Road Transport,2901.605
+2010,Clackmannanshire,Agriculture,9.048
+2010,Clackmannanshire,Commercial,506.89199999999994
+2010,Clackmannanshire,Domestic,454.19500000000005
+2010,Clackmannanshire,Industrial,610.9490000000001
+2010,Clackmannanshire,Industrial & Commercial,236.9
+2010,Clackmannanshire,Public Sector,0.29500000000000004
+2010,Clackmannanshire,Rail,0.241
+2010,Clackmannanshire,Road Transport,262.923
+2010,Dumfries and Galloway,Agriculture,454.16700000000003
+2010,Dumfries and Galloway,Commercial,520.961
+2010,Dumfries and Galloway,Domestic,1463.8300000000002
+2010,Dumfries and Galloway,Industrial,886.7
+2010,Dumfries and Galloway,Industrial & Commercial,570.784
+2010,Dumfries and Galloway,Public Sector,13.469999999999999
+2010,Dumfries and Galloway,Rail,26.177
+2010,Dumfries and Galloway,Road Transport,1962.158
+2010,Dundee City,Agriculture,0.949
+2010,Dundee City,Commercial,488.683
+2010,Dundee City,Domestic,1168.176
+2010,Dundee City,Industrial,746.336
+2010,Dundee City,Industrial & Commercial,446.558
+2010,Dundee City,Public Sector,0.546
+2010,Dundee City,Rail,11.517
+2010,Dundee City,Road Transport,803.046
+2010,East Ayrshire,Agriculture,87.72200000000001
+2010,East Ayrshire,Commercial,333.59599999999995
+2010,East Ayrshire,Domestic,1115.74
+2010,East Ayrshire,Industrial,641.696
+2010,East Ayrshire,Industrial & Commercial,282.846
+2010,East Ayrshire,Public Sector,3.58
+2010,East Ayrshire,Rail,4.539
+2010,East Ayrshire,Road Transport,878.412
+2010,East Dunbartonshire,Agriculture,8.197999999999999
+2010,East Dunbartonshire,Commercial,148.963
+2010,East Dunbartonshire,Domestic,1049.748
+2010,East Dunbartonshire,Industrial,225.01500000000001
+2010,East Dunbartonshire,Industrial & Commercial,179.78
+2010,East Dunbartonshire,Public Sector,0.2
+2010,East Dunbartonshire,Rail,7.275
+2010,East Dunbartonshire,Road Transport,479.243
+2010,East Lothian,Agriculture,34.682
+2010,East Lothian,Commercial,286.70799999999997
+2010,East Lothian,Domestic,871.975
+2010,East Lothian,Industrial,924.83
+2010,East Lothian,Industrial & Commercial,263.605
+2010,East Lothian,Public Sector,1.679
+2010,East Lothian,Rail,34.801
+2010,East Lothian,Road Transport,718.281
+2010,East Renfrewshire,Agriculture,13.863
+2010,East Renfrewshire,Commercial,104.569
+2010,East Renfrewshire,Domestic,886.509
+2010,East Renfrewshire,Industrial,138.019
+2010,East Renfrewshire,Industrial & Commercial,113.443
+2010,East Renfrewshire,Public Sector,0.122
+2010,East Renfrewshire,Rail,2.614
+2010,East Renfrewshire,Road Transport,616.151
+2010,Falkirk,Agriculture,21.124
+2010,Falkirk,Commercial,609.635
+2010,Falkirk,Domestic,1338.602
+2010,Falkirk,Industrial,15980.316
+2010,Falkirk,Industrial & Commercial,465.211
+2010,Falkirk,Public Sector,2.055
+2010,Falkirk,Rail,17.231
+2010,Falkirk,Road Transport,1259.439
+2010,Fife,Agriculture,81.032
+2010,Fife,Commercial,2245.07
+2010,Fife,Domestic,3364.0570000000002
+2010,Fife,Industrial,7864.719999999999
+2010,Fife,Industrial & Commercial,939.897
+2010,Fife,Public Sector,10.068000000000001
+2010,Fife,Rail,84.521
+2010,Fife,Road Transport,2289.869
+2010,Glasgow City,Agriculture,3.589
+2010,Glasgow City,Commercial,2084.564
+2010,Glasgow City,Domestic,4357.064
+2010,Glasgow City,Industrial,2741.448
+2010,Glasgow City,Industrial & Commercial,1921.655
+2010,Glasgow City,Public Sector,5.316
+2010,Glasgow City,Rail,13.035
+2010,Glasgow City,Road Transport,3147.788
+2010,Highland,Agriculture,276.95500000000004
+2010,Highland,Commercial,909.894
+2010,Highland,Domestic,2304.974
+2010,Highland,Industrial,2026.667
+2010,Highland,Industrial & Commercial,1022.349
+2010,Highland,Public Sector,68.258
+2010,Highland,Rail,58.819
+2010,Highland,Road Transport,2041.54
+2010,Inverclyde,Agriculture,6.9
+2010,Inverclyde,Commercial,186.476
+2010,Inverclyde,Domestic,689.3919999999999
+2010,Inverclyde,Industrial,239.025
+2010,Inverclyde,Industrial & Commercial,202.243
+2010,Inverclyde,Public Sector,0.501
+2010,Inverclyde,Rail,0.182
+2010,Inverclyde,Road Transport,464.976
+2010,Midlothian,Agriculture,20.218
+2010,Midlothian,Commercial,167.983
+2010,Midlothian,Domestic,720.379
+2010,Midlothian,Industrial,262.093
+2010,Midlothian,Industrial & Commercial,196.273
+2010,Midlothian,Public Sector,2.9029999999999996
+2010,Midlothian,Rail,8.883
+2010,Midlothian,Road Transport,540.5840000000001
+2010,Moray,Agriculture,84.96300000000001
+2010,Moray,Commercial,698.167
+2010,Moray,Domestic,891.059
+2010,Moray,Industrial,888.2080000000001
+2010,Moray,Industrial & Commercial,324.572
+2010,Moray,Public Sector,6.866
+2010,Moray,Rail,9.344
+2010,Moray,Road Transport,577.621
+2010,Na h-Eileanan Siar,Agriculture,32.53
+2010,Na h-Eileanan Siar,Commercial,28.21
+2010,Na h-Eileanan Siar,Domestic,293.05100000000004
+2010,Na h-Eileanan Siar,Industrial,93.916
+2010,Na h-Eileanan Siar,Industrial & Commercial,62.808
+2010,Na h-Eileanan Siar,Public Sector,5.351999999999999
+2010,Na h-Eileanan Siar,Rail,0.0
+2010,Na h-Eileanan Siar,Road Transport,173.95000000000002
+2010,North Ayrshire,Agriculture,42.149
+2010,North Ayrshire,Commercial,1255.234
+2010,North Ayrshire,Domestic,1198.955
+2010,North Ayrshire,Industrial,2552.327
+2010,North Ayrshire,Industrial & Commercial,507.281
+2010,North Ayrshire,Public Sector,1.5170000000000001
+2010,North Ayrshire,Rail,2.629
+2010,North Ayrshire,Road Transport,643.934
+2010,North Lanarkshire,Agriculture,24.201
+2010,North Lanarkshire,Commercial,871.602
+2010,North Lanarkshire,Domestic,2832.0710000000004
+2010,North Lanarkshire,Industrial,1396.997
+2010,North Lanarkshire,Industrial & Commercial,907.185
+2010,North Lanarkshire,Public Sector,0.6719999999999999
+2010,North Lanarkshire,Rail,21.706
+2010,North Lanarkshire,Road Transport,2538.176
+2010,Orkney Islands,Agriculture,111.38499999999999
+2010,Orkney Islands,Commercial,31.409
+2010,Orkney Islands,Domestic,198.19199999999998
+2010,Orkney Islands,Industrial,75.757
+2010,Orkney Islands,Industrial & Commercial,65.966
+2010,Orkney Islands,Public Sector,8.526
+2010,Orkney Islands,Rail,0.0
+2010,Orkney Islands,Road Transport,104.488
+2010,Perth and Kinross,Agriculture,148.41400000000002
+2010,Perth and Kinross,Commercial,342.019
+2010,Perth and Kinross,Domestic,1452.7749999999999
+2010,Perth and Kinross,Industrial,517.423
+2010,Perth and Kinross,Industrial & Commercial,421.924
+2010,Perth and Kinross,Public Sector,6.0089999999999995
+2010,Perth and Kinross,Rail,73.146
+2010,Perth and Kinross,Road Transport,1997.985
+2010,Renfrewshire,Agriculture,16.762999999999998
+2010,Renfrewshire,Commercial,549.125
+2010,Renfrewshire,Domestic,1481.352
+2010,Renfrewshire,Industrial,781.794
+2010,Renfrewshire,Industrial & Commercial,552.003
+2010,Renfrewshire,Public Sector,0.438
+2010,Renfrewshire,Rail,1.8
+2010,Renfrewshire,Road Transport,1169.281
+2010,Scottish Borders,Agriculture,255.82
+2010,Scottish Borders,Commercial,293.786
+2010,Scottish Borders,Domestic,1139.652
+2010,Scottish Borders,Industrial,531.495
+2010,Scottish Borders,Industrial & Commercial,322.23
+2010,Scottish Borders,Public Sector,4.052
+2010,Scottish Borders,Rail,32.22
+2010,Scottish Borders,Road Transport,933.251
+2010,Shetland Islands,Agriculture,60.102
+2010,Shetland Islands,Commercial,44.839
+2010,Shetland Islands,Domestic,199.882
+2010,Shetland Islands,Industrial,134.254
+2010,Shetland Islands,Industrial & Commercial,95.571
+2010,Shetland Islands,Public Sector,6.391
+2010,Shetland Islands,Rail,0.0
+2010,Shetland Islands,Road Transport,151.808
+2010,South Ayrshire,Agriculture,94.623
+2010,South Ayrshire,Commercial,404.015
+2010,South Ayrshire,Domestic,1077.484
+2010,South Ayrshire,Industrial,679.625
+2010,South Ayrshire,Industrial & Commercial,305.776
+2010,South Ayrshire,Public Sector,1.277
+2010,South Ayrshire,Rail,4.734
+2010,South Ayrshire,Road Transport,820.403
+2010,South Lanarkshire,Agriculture,113.061
+2010,South Lanarkshire,Commercial,677.221
+2010,South Lanarkshire,Domestic,2818.1549999999997
+2010,South Lanarkshire,Industrial,1110.919
+2010,South Lanarkshire,Industrial & Commercial,704.646
+2010,South Lanarkshire,Public Sector,5.056
+2010,South Lanarkshire,Rail,32.155
+2010,South Lanarkshire,Road Transport,2393.7549999999997
+2010,Stirling,Agriculture,58.30500000000001
+2010,Stirling,Commercial,577.7180000000001
+2010,Stirling,Domestic,852.407
+2010,Stirling,Industrial,833.5
+2010,Stirling,Industrial & Commercial,319.792
+2010,Stirling,Public Sector,2.768
+2010,Stirling,Rail,19.477
+2010,Stirling,Road Transport,986.823
+2010,West Dunbartonshire,Agriculture,7.104
+2010,West Dunbartonshire,Commercial,243.44699999999997
+2010,West Dunbartonshire,Domestic,730.552
+2010,West Dunbartonshire,Industrial,326.739
+2010,West Dunbartonshire,Industrial & Commercial,235.515
+2010,West Dunbartonshire,Public Sector,1.018
+2010,West Dunbartonshire,Rail,1.073
+2010,West Dunbartonshire,Road Transport,538.707
+2010,West Lothian,Agriculture,26.395000000000003
+2010,West Lothian,Commercial,678.4799999999999
+2010,West Lothian,Domestic,1471.6860000000001
+2010,West Lothian,Industrial,931.8530000000001
+2010,West Lothian,Industrial & Commercial,581.443
+2010,West Lothian,Public Sector,1.08
+2010,West Lothian,Rail,14.178
+2010,West Lothian,Road Transport,1440.344
+2011,Aberdeen City,Agriculture,10.678
+2011,Aberdeen City,Commercial,846.289
+2011,Aberdeen City,Domestic,1894.512
+2011,Aberdeen City,Industrial,1402.503
+2011,Aberdeen City,Industrial & Commercial,826.402
+2011,Aberdeen City,Public Sector,33.655
+2011,Aberdeen City,Rail,10.487
+2011,Aberdeen City,Road Transport,1080.835
+2011,Aberdeenshire,Agriculture,331.184
+2011,Aberdeenshire,Commercial,445.26200000000006
+2011,Aberdeenshire,Domestic,2351.456
+2011,Aberdeenshire,Industrial,926.92
+2011,Aberdeenshire,Industrial & Commercial,617.542
+2011,Aberdeenshire,Public Sector,15.448
+2011,Aberdeenshire,Rail,41.772
+2011,Aberdeenshire,Road Transport,2138.502
+2011,Angus,Agriculture,77.975
+2011,Angus,Commercial,285.921
+2011,Angus,Domestic,993.1500000000001
+2011,Angus,Industrial,474.308
+2011,Angus,Industrial & Commercial,283.157
+2011,Angus,Public Sector,2.462
+2011,Angus,Rail,37.617
+2011,Angus,Road Transport,881.577
+2011,Argyll and Bute,Agriculture,109.003
+2011,Argyll and Bute,Commercial,166.693
+2011,Argyll and Bute,Domestic,802.357
+2011,Argyll and Bute,Industrial,376.46
+2011,Argyll and Bute,Industrial & Commercial,226.762
+2011,Argyll and Bute,Public Sector,70.759
+2011,Argyll and Bute,Rail,5.172
+2011,Argyll and Bute,Road Transport,683.809
+2011,City of Edinburgh,Agriculture,9.92
+2011,City of Edinburgh,Commercial,1581.723
+2011,City of Edinburgh,Domestic,3759.0459999999994
+2011,City of Edinburgh,Industrial,2207.9649999999997
+2011,City of Edinburgh,Industrial & Commercial,1569.721
+2011,City of Edinburgh,Public Sector,7.446000000000001
+2011,City of Edinburgh,Rail,52.352
+2011,City of Edinburgh,Road Transport,2815.22
+2011,Clackmannanshire,Agriculture,9.183
+2011,Clackmannanshire,Commercial,485.499
+2011,Clackmannanshire,Domestic,431.949
+2011,Clackmannanshire,Industrial,626.286
+2011,Clackmannanshire,Industrial & Commercial,236.424
+2011,Clackmannanshire,Public Sector,0.338
+2011,Clackmannanshire,Rail,0.238
+2011,Clackmannanshire,Road Transport,258.90500000000003
+2011,Dumfries and Galloway,Agriculture,460.663
+2011,Dumfries and Galloway,Commercial,520.75
+2011,Dumfries and Galloway,Domestic,1312.148
+2011,Dumfries and Galloway,Industrial,903.4770000000001
+2011,Dumfries and Galloway,Industrial & Commercial,547.469
+2011,Dumfries and Galloway,Public Sector,16.784
+2011,Dumfries and Galloway,Rail,24.416
+2011,Dumfries and Galloway,Road Transport,1938.125
+2011,Dundee City,Agriculture,0.969
+2011,Dundee City,Commercial,476.83299999999997
+2011,Dundee City,Domestic,1125.645
+2011,Dundee City,Industrial,764.157
+2011,Dundee City,Industrial & Commercial,425.351
+2011,Dundee City,Public Sector,1.0139999999999998
+2011,Dundee City,Rail,11.179
+2011,Dundee City,Road Transport,782.127
+2011,East Ayrshire,Agriculture,88.991
+2011,East Ayrshire,Commercial,303.581
+2011,East Ayrshire,Domestic,1062.6100000000001
+2011,East Ayrshire,Industrial,631.312
+2011,East Ayrshire,Industrial & Commercial,268.764
+2011,East Ayrshire,Public Sector,4.978
+2011,East Ayrshire,Rail,4.378
+2011,East Ayrshire,Road Transport,895.42
+2011,East Dunbartonshire,Agriculture,8.322
+2011,East Dunbartonshire,Commercial,148.796
+2011,East Dunbartonshire,Domestic,1006.706
+2011,East Dunbartonshire,Industrial,228.52100000000002
+2011,East Dunbartonshire,Industrial & Commercial,188.721
+2011,East Dunbartonshire,Public Sector,0.475
+2011,East Dunbartonshire,Rail,7.158
+2011,East Dunbartonshire,Road Transport,468.858
+2011,East Lothian,Agriculture,35.28
+2011,East Lothian,Commercial,245.352
+2011,East Lothian,Domestic,814.7959999999999
+2011,East Lothian,Industrial,931.7729999999999
+2011,East Lothian,Industrial & Commercial,239.721
+2011,East Lothian,Public Sector,2.039
+2011,East Lothian,Rail,33.34
+2011,East Lothian,Road Transport,710.171
+2011,East Renfrewshire,Agriculture,14.071
+2011,East Renfrewshire,Commercial,99.142
+2011,East Renfrewshire,Domestic,858.849
+2011,East Renfrewshire,Industrial,137.356
+2011,East Renfrewshire,Industrial & Commercial,111.595
+2011,East Renfrewshire,Public Sector,0.322
+2011,East Renfrewshire,Rail,2.581
+2011,East Renfrewshire,Road Transport,606.4770000000001
+2011,Falkirk,Agriculture,21.439
+2011,Falkirk,Commercial,588.3389999999999
+2011,Falkirk,Domestic,1281.711
+2011,Falkirk,Industrial,17371.342
+2011,Falkirk,Industrial & Commercial,452.576
+2011,Falkirk,Public Sector,5.012
+2011,Falkirk,Rail,16.287
+2011,Falkirk,Road Transport,1253.275
+2011,Fife,Agriculture,82.5
+2011,Fife,Commercial,1812.781
+2011,Fife,Domestic,3208.702
+2011,Fife,Industrial,6856.607
+2011,Fife,Industrial & Commercial,950.638
+2011,Fife,Public Sector,12.254999999999999
+2011,Fife,Rail,83.328
+2011,Fife,Road Transport,2262.6319999999996
+2011,Glasgow City,Agriculture,3.644
+2011,Glasgow City,Commercial,2002.404
+2011,Glasgow City,Domestic,4173.358
+2011,Glasgow City,Industrial,2781.885
+2011,Glasgow City,Industrial & Commercial,1949.534
+2011,Glasgow City,Public Sector,3.597
+2011,Glasgow City,Rail,12.621
+2011,Glasgow City,Road Transport,3127.725
+2011,Highland,Agriculture,281.13599999999997
+2011,Highland,Commercial,887.121
+2011,Highland,Domestic,2023.511
+2011,Highland,Industrial,2060.466
+2011,Highland,Industrial & Commercial,984.886
+2011,Highland,Public Sector,79.063
+2011,Highland,Rail,55.461
+2011,Highland,Road Transport,2029.506
+2011,Inverclyde,Agriculture,6.996
+2011,Inverclyde,Commercial,176.752
+2011,Inverclyde,Domestic,668.405
+2011,Inverclyde,Industrial,238.738
+2011,Inverclyde,Industrial & Commercial,200.825
+2011,Inverclyde,Public Sector,0.86
+2011,Inverclyde,Rail,0.162
+2011,Inverclyde,Road Transport,458.814
+2011,Midlothian,Agriculture,20.504
+2011,Midlothian,Commercial,142.696
+2011,Midlothian,Domestic,683.186
+2011,Midlothian,Industrial,235.919
+2011,Midlothian,Industrial & Commercial,161.423
+2011,Midlothian,Public Sector,3.173
+2011,Midlothian,Rail,8.766
+2011,Midlothian,Road Transport,540.4820000000001
+2011,Moray,Agriculture,86.292
+2011,Moray,Commercial,691.277
+2011,Moray,Domestic,812.93
+2011,Moray,Industrial,946.063
+2011,Moray,Industrial & Commercial,318.73
+2011,Moray,Public Sector,7.768000000000001
+2011,Moray,Rail,8.991999999999999
+2011,Moray,Road Transport,597.25
+2011,Na h-Eileanan Siar,Agriculture,33.017
+2011,Na h-Eileanan Siar,Commercial,29.632
+2011,Na h-Eileanan Siar,Domestic,248.963
+2011,Na h-Eileanan Siar,Industrial,91.81099999999999
+2011,Na h-Eileanan Siar,Industrial & Commercial,64.469
+2011,Na h-Eileanan Siar,Public Sector,7.079
+2011,Na h-Eileanan Siar,Rail,0.0
+2011,Na h-Eileanan Siar,Road Transport,172.79600000000002
+2011,North Ayrshire,Agriculture,42.745000000000005
+2011,North Ayrshire,Commercial,1121.3480000000002
+2011,North Ayrshire,Domestic,1135.159
+2011,North Ayrshire,Industrial,2525.9460000000004
+2011,North Ayrshire,Industrial & Commercial,490.094
+2011,North Ayrshire,Public Sector,2.277
+2011,North Ayrshire,Rail,2.352
+2011,North Ayrshire,Road Transport,633.187
+2011,North Lanarkshire,Agriculture,24.592
+2011,North Lanarkshire,Commercial,840.991
+2011,North Lanarkshire,Domestic,2720.8269999999998
+2011,North Lanarkshire,Industrial,1414.978
+2011,North Lanarkshire,Industrial & Commercial,894.337
+2011,North Lanarkshire,Public Sector,1.0939999999999999
+2011,North Lanarkshire,Rail,20.381
+2011,North Lanarkshire,Road Transport,2487.0600000000004
+2011,Orkney Islands,Agriculture,113.002
+2011,Orkney Islands,Commercial,28.36
+2011,Orkney Islands,Domestic,174.51
+2011,Orkney Islands,Industrial,68.277
+2011,Orkney Islands,Industrial & Commercial,58.103
+2011,Orkney Islands,Public Sector,12.137
+2011,Orkney Islands,Rail,0.0
+2011,Orkney Islands,Road Transport,102.76100000000001
+2011,Perth and Kinross,Agriculture,150.981
+2011,Perth and Kinross,Commercial,323.049
+2011,Perth and Kinross,Domestic,1323.248
+2011,Perth and Kinross,Industrial,501.85099999999994
+2011,Perth and Kinross,Industrial & Commercial,403.34
+2011,Perth and Kinross,Public Sector,7.764
+2011,Perth and Kinross,Rail,69.823
+2011,Perth and Kinross,Road Transport,1992.095
+2011,Renfrewshire,Agriculture,17.003
+2011,Renfrewshire,Commercial,502.586
+2011,Renfrewshire,Domestic,1426.584
+2011,Renfrewshire,Industrial,756.0840000000001
+2011,Renfrewshire,Industrial & Commercial,525.424
+2011,Renfrewshire,Public Sector,0.8540000000000001
+2011,Renfrewshire,Rail,1.599
+2011,Renfrewshire,Road Transport,1164.0059999999999
+2011,Scottish Borders,Agriculture,259.533
+2011,Scottish Borders,Commercial,269.34000000000003
+2011,Scottish Borders,Domestic,1029.81
+2011,Scottish Borders,Industrial,504.76199999999994
+2011,Scottish Borders,Industrial & Commercial,315.19
+2011,Scottish Borders,Public Sector,4.619
+2011,Scottish Borders,Rail,31.286
+2011,Scottish Borders,Road Transport,954.191
+2011,Shetland Islands,Agriculture,61.036
+2011,Shetland Islands,Commercial,44.108
+2011,Shetland Islands,Domestic,179.82299999999998
+2011,Shetland Islands,Industrial,126.732
+2011,Shetland Islands,Industrial & Commercial,92.504
+2011,Shetland Islands,Public Sector,8.754000000000001
+2011,Shetland Islands,Rail,0.0
+2011,Shetland Islands,Road Transport,150.52700000000002
+2011,South Ayrshire,Agriculture,95.96700000000001
+2011,South Ayrshire,Commercial,381.994
+2011,South Ayrshire,Domestic,1019.125
+2011,South Ayrshire,Industrial,680.3199999999999
+2011,South Ayrshire,Industrial & Commercial,289.376
+2011,South Ayrshire,Public Sector,1.803
+2011,South Ayrshire,Rail,4.532
+2011,South Ayrshire,Road Transport,807.848
+2011,South Lanarkshire,Agriculture,114.731
+2011,South Lanarkshire,Commercial,619.115
+2011,South Lanarkshire,Domestic,2717.439
+2011,South Lanarkshire,Industrial,1050.416
+2011,South Lanarkshire,Industrial & Commercial,686.748
+2011,South Lanarkshire,Public Sector,6.667
+2011,South Lanarkshire,Rail,30.264
+2011,South Lanarkshire,Road Transport,2363.628
+2011,Stirling,Agriculture,59.293000000000006
+2011,Stirling,Commercial,527.939
+2011,Stirling,Domestic,794.636
+2011,Stirling,Industrial,847.45
+2011,Stirling,Industrial & Commercial,309.007
+2011,Stirling,Public Sector,3.641
+2011,Stirling,Rail,18.63
+2011,Stirling,Road Transport,967.374
+2011,West Dunbartonshire,Agriculture,7.203
+2011,West Dunbartonshire,Commercial,233.344
+2011,West Dunbartonshire,Domestic,701.2439999999999
+2011,West Dunbartonshire,Industrial,328.453
+2011,West Dunbartonshire,Industrial & Commercial,231.121
+2011,West Dunbartonshire,Public Sector,1.2089999999999999
+2011,West Dunbartonshire,Rail,1.007
+2011,West Dunbartonshire,Road Transport,534.057
+2011,West Lothian,Agriculture,26.803
+2011,West Lothian,Commercial,571.616
+2011,West Lothian,Domestic,1420.549
+2011,West Lothian,Industrial,845.331
+2011,West Lothian,Industrial & Commercial,587.855
+2011,West Lothian,Public Sector,1.6909999999999998
+2011,West Lothian,Rail,13.562
+2011,West Lothian,Road Transport,1403.992
+2012,Aberdeen City,Agriculture,10.982000000000001
+2012,Aberdeen City,Commercial,921.626
+2012,Aberdeen City,Domestic,1891.7740000000001
+2012,Aberdeen City,Industrial,1384.789
+2012,Aberdeen City,Industrial & Commercial,804.466
+2012,Aberdeen City,Public Sector,29.174
+2012,Aberdeen City,Rail,10.636
+2012,Aberdeen City,Road Transport,1069.12
+2012,Aberdeenshire,Agriculture,340.767
+2012,Aberdeenshire,Commercial,476.57499999999993
+2012,Aberdeenshire,Domestic,2353.723
+2012,Aberdeenshire,Industrial,898.225
+2012,Aberdeenshire,Industrial & Commercial,660.219
+2012,Aberdeenshire,Public Sector,11.206999999999999
+2012,Aberdeenshire,Rail,42.472
+2012,Aberdeenshire,Road Transport,2133.793
+2012,Angus,Agriculture,80.11
+2012,Angus,Commercial,322.012
+2012,Angus,Domestic,999.9190000000001
+2012,Angus,Industrial,471.629
+2012,Angus,Industrial & Commercial,282.129
+2012,Angus,Public Sector,1.883
+2012,Angus,Rail,38.302
+2012,Angus,Road Transport,876.402
+2012,Argyll and Bute,Agriculture,112.195
+2012,Argyll and Bute,Commercial,193.105
+2012,Argyll and Bute,Domestic,799.672
+2012,Argyll and Bute,Industrial,374.845
+2012,Argyll and Bute,Industrial & Commercial,253.351
+2012,Argyll and Bute,Public Sector,61.994
+2012,Argyll and Bute,Rail,5.346
+2012,Argyll and Bute,Road Transport,674.3059999999999
+2012,City of Edinburgh,Agriculture,10.164
+2012,City of Edinburgh,Commercial,1669.711
+2012,City of Edinburgh,Domestic,3783.449
+2012,City of Edinburgh,Industrial,2105.635
+2012,City of Edinburgh,Industrial & Commercial,1588.574
+2012,City of Edinburgh,Public Sector,4.008
+2012,City of Edinburgh,Rail,53.148
+2012,City of Edinburgh,Road Transport,2745.8849999999998
+2012,Clackmannanshire,Agriculture,9.453000000000001
+2012,Clackmannanshire,Commercial,457.368
+2012,Clackmannanshire,Domestic,429.456
+2012,Clackmannanshire,Industrial,518.356
+2012,Clackmannanshire,Industrial & Commercial,128.43
+2012,Clackmannanshire,Public Sector,0.264
+2012,Clackmannanshire,Rail,0.24
+2012,Clackmannanshire,Road Transport,252.66
+2012,Dumfries and Galloway,Agriculture,474.343
+2012,Dumfries and Galloway,Commercial,516.487
+2012,Dumfries and Galloway,Domestic,1314.873
+2012,Dumfries and Galloway,Industrial,832.4359999999999
+2012,Dumfries and Galloway,Industrial & Commercial,538.972
+2012,Dumfries and Galloway,Public Sector,12.475999999999999
+2012,Dumfries and Galloway,Rail,25.556
+2012,Dumfries and Galloway,Road Transport,1942.548
+2012,Dundee City,Agriculture,0.995
+2012,Dundee City,Commercial,498.17299999999994
+2012,Dundee City,Domestic,1115.324
+2012,Dundee City,Industrial,715.555
+2012,Dundee City,Industrial & Commercial,401.178
+2012,Dundee City,Public Sector,0.222
+2012,Dundee City,Rail,11.386
+2012,Dundee City,Road Transport,764.027
+2012,East Ayrshire,Agriculture,91.626
+2012,East Ayrshire,Commercial,320.962
+2012,East Ayrshire,Domestic,1041.257
+2012,East Ayrshire,Industrial,611.252
+2012,East Ayrshire,Industrial & Commercial,244.252
+2012,East Ayrshire,Public Sector,3.446
+2012,East Ayrshire,Rail,4.484
+2012,East Ayrshire,Road Transport,877.599
+2012,East Dunbartonshire,Agriculture,8.565999999999999
+2012,East Dunbartonshire,Commercial,142.87199999999999
+2012,East Dunbartonshire,Domestic,992.483
+2012,East Dunbartonshire,Industrial,201.07799999999997
+2012,East Dunbartonshire,Industrial & Commercial,156.233
+2012,East Dunbartonshire,Public Sector,0.20099999999999998
+2012,East Dunbartonshire,Rail,7.227
+2012,East Dunbartonshire,Road Transport,454.17699999999996
+2012,East Lothian,Agriculture,36.282
+2012,East Lothian,Commercial,272.243
+2012,East Lothian,Domestic,821.4649999999999
+2012,East Lothian,Industrial,909.578
+2012,East Lothian,Industrial & Commercial,260.58
+2012,East Lothian,Public Sector,1.563
+2012,East Lothian,Rail,34.19
+2012,East Lothian,Road Transport,686.601
+2012,East Renfrewshire,Agriculture,14.484
+2012,East Renfrewshire,Commercial,82.85300000000001
+2012,East Renfrewshire,Domestic,848.718
+2012,East Renfrewshire,Industrial,103.843
+2012,East Renfrewshire,Industrial & Commercial,69.806
+2012,East Renfrewshire,Public Sector,0.127
+2012,East Renfrewshire,Rail,2.602
+2012,East Renfrewshire,Road Transport,579.849
+2012,Falkirk,Agriculture,22.069
+2012,Falkirk,Commercial,594.656
+2012,Falkirk,Domestic,1267.7920000000001
+2012,Falkirk,Industrial,16874.95
+2012,Falkirk,Industrial & Commercial,419.089
+2012,Falkirk,Public Sector,2.881
+2012,Falkirk,Rail,16.855
+2012,Falkirk,Road Transport,1302.7510000000002
+2012,Fife,Agriculture,84.815
+2012,Fife,Commercial,1754.7930000000001
+2012,Fife,Domestic,3194.3510000000006
+2012,Fife,Industrial,6695.47
+2012,Fife,Industrial & Commercial,985.216
+2012,Fife,Public Sector,9.141
+2012,Fife,Rail,84.006
+2012,Fife,Road Transport,2207.2430000000004
+2012,Glasgow City,Agriculture,3.751
+2012,Glasgow City,Commercial,2140.3
+2012,Glasgow City,Domestic,4097.713
+2012,Glasgow City,Industrial,2670.34
+2012,Glasgow City,Industrial & Commercial,2013.265
+2012,Glasgow City,Public Sector,1.683
+2012,Glasgow City,Rail,12.884
+2012,Glasgow City,Road Transport,3179.2039999999997
+2012,Highland,Agriculture,289.388
+2012,Highland,Commercial,863.473
+2012,Highland,Domestic,2015.008
+2012,Highland,Industrial,1947.7769999999998
+2012,Highland,Industrial & Commercial,911.972
+2012,Highland,Public Sector,66.13499999999999
+2012,Highland,Rail,57.347
+2012,Highland,Road Transport,2010.114
+2012,Inverclyde,Agriculture,7.205
+2012,Inverclyde,Commercial,185.65800000000002
+2012,Inverclyde,Domestic,654.548
+2012,Inverclyde,Industrial,228.09300000000002
+2012,Inverclyde,Industrial & Commercial,197.119
+2012,Inverclyde,Public Sector,0.495
+2012,Inverclyde,Rail,0.175
+2012,Inverclyde,Road Transport,425.87100000000004
+2012,Midlothian,Agriculture,21.115
+2012,Midlothian,Commercial,171.184
+2012,Midlothian,Domestic,681.047
+2012,Midlothian,Industrial,250.579
+2012,Midlothian,Industrial & Commercial,202.257
+2012,Midlothian,Public Sector,2.719
+2012,Midlothian,Rail,8.841
+2012,Midlothian,Road Transport,532.9949999999999
+2012,Moray,Agriculture,88.804
+2012,Moray,Commercial,828.35
+2012,Moray,Domestic,816.659
+2012,Moray,Industrial,976.083
+2012,Moray,Industrial & Commercial,316.358
+2012,Moray,Public Sector,6.591
+2012,Moray,Rail,9.120999999999999
+2012,Moray,Road Transport,568.046
+2012,Na h-Eileanan Siar,Agriculture,33.988
+2012,Na h-Eileanan Siar,Commercial,29.095
+2012,Na h-Eileanan Siar,Domestic,247.93399999999997
+2012,Na h-Eileanan Siar,Industrial,88.95
+2012,Na h-Eileanan Siar,Industrial & Commercial,62.288
+2012,Na h-Eileanan Siar,Public Sector,5.013
+2012,Na h-Eileanan Siar,Rail,0.0
+2012,Na h-Eileanan Siar,Road Transport,172.17
+2012,North Ayrshire,Agriculture,44.016000000000005
+2012,North Ayrshire,Commercial,1215.288
+2012,North Ayrshire,Domestic,1114.1709999999998
+2012,North Ayrshire,Industrial,2432.4049999999997
+2012,North Ayrshire,Industrial & Commercial,480.008
+2012,North Ayrshire,Public Sector,1.452
+2012,North Ayrshire,Rail,2.537
+2012,North Ayrshire,Road Transport,608.268
+2012,North Lanarkshire,Agriculture,25.303
+2012,North Lanarkshire,Commercial,861.961
+2012,North Lanarkshire,Domestic,2678.26
+2012,North Lanarkshire,Industrial,1328.388
+2012,North Lanarkshire,Industrial & Commercial,836.114
+2012,North Lanarkshire,Public Sector,0.6679999999999999
+2012,North Lanarkshire,Rail,21.243
+2012,North Lanarkshire,Road Transport,2746.6189999999997
+2012,Orkney Islands,Agriculture,116.348
+2012,Orkney Islands,Commercial,28.762000000000004
+2012,Orkney Islands,Domestic,173.918
+2012,Orkney Islands,Industrial,65.654
+2012,Orkney Islands,Industrial & Commercial,58.805
+2012,Orkney Islands,Public Sector,8.164
+2012,Orkney Islands,Rail,0.0
+2012,Orkney Islands,Road Transport,100.59899999999999
+2012,Perth and Kinross,Agriculture,155.27100000000002
+2012,Perth and Kinross,Commercial,344.01599999999996
+2012,Perth and Kinross,Domestic,1336.042
+2012,Perth and Kinross,Industrial,491.984
+2012,Perth and Kinross,Industrial & Commercial,388.394
+2012,Perth and Kinross,Public Sector,5.568
+2012,Perth and Kinross,Rail,71.967
+2012,Perth and Kinross,Road Transport,1959.3410000000001
+2012,Renfrewshire,Agriculture,17.508
+2012,Renfrewshire,Commercial,545.727
+2012,Renfrewshire,Domestic,1395.681
+2012,Renfrewshire,Industrial,743.3050000000001
+2012,Renfrewshire,Industrial & Commercial,518.542
+2012,Renfrewshire,Public Sector,0.438
+2012,Renfrewshire,Rail,1.733
+2012,Renfrewshire,Road Transport,1142.6909999999998
+2012,Scottish Borders,Agriculture,267.217
+2012,Scottish Borders,Commercial,295.19500000000005
+2012,Scottish Borders,Domestic,1038.506
+2012,Scottish Borders,Industrial,514.453
+2012,Scottish Borders,Industrial & Commercial,320.453
+2012,Scottish Borders,Public Sector,3.186
+2012,Scottish Borders,Rail,31.833
+2012,Scottish Borders,Road Transport,933.513
+2012,Shetland Islands,Agriculture,62.815999999999995
+2012,Shetland Islands,Commercial,43.70400000000001
+2012,Shetland Islands,Domestic,178.959
+2012,Shetland Islands,Industrial,120.471
+2012,Shetland Islands,Industrial & Commercial,90.884
+2012,Shetland Islands,Public Sector,6.07
+2012,Shetland Islands,Rail,0.0
+2012,Shetland Islands,Road Transport,149.212
+2012,South Ayrshire,Agriculture,98.82
+2012,South Ayrshire,Commercial,392.12500000000006
+2012,South Ayrshire,Domestic,1009.3810000000001
+2012,South Ayrshire,Industrial,575.826
+2012,South Ayrshire,Industrial & Commercial,296.325
+2012,South Ayrshire,Public Sector,1.194
+2012,South Ayrshire,Rail,4.666
+2012,South Ayrshire,Road Transport,779.1990000000001
+2012,South Lanarkshire,Agriculture,118.114
+2012,South Lanarkshire,Commercial,666.038
+2012,South Lanarkshire,Domestic,2696.435
+2012,South Lanarkshire,Industrial,1019.7620000000001
+2012,South Lanarkshire,Industrial & Commercial,650.187
+2012,South Lanarkshire,Public Sector,4.727
+2012,South Lanarkshire,Rail,31.451
+2012,South Lanarkshire,Road Transport,2394.1079999999997
+2012,Stirling,Agriculture,60.985
+2012,Stirling,Commercial,562.157
+2012,Stirling,Domestic,789.9
+2012,Stirling,Industrial,791.829
+2012,Stirling,Industrial & Commercial,305.979
+2012,Stirling,Public Sector,2.609
+2012,Stirling,Rail,19.175
+2012,Stirling,Road Transport,949.3839999999999
+2012,West Dunbartonshire,Agriculture,7.418
+2012,West Dunbartonshire,Commercial,231.21
+2012,West Dunbartonshire,Domestic,676.73
+2012,West Dunbartonshire,Industrial,290.971
+2012,West Dunbartonshire,Industrial & Commercial,183.307
+2012,West Dunbartonshire,Public Sector,1.005
+2012,West Dunbartonshire,Rail,1.05
+2012,West Dunbartonshire,Road Transport,528.1089999999999
+2012,West Lothian,Agriculture,27.585
+2012,West Lothian,Commercial,624.596
+2012,West Lothian,Domestic,1411.366
+2012,West Lothian,Industrial,830.3679999999999
+2012,West Lothian,Industrial & Commercial,594.044
+2012,West Lothian,Public Sector,1.0190000000000001
+2012,West Lothian,Rail,13.945
+2012,West Lothian,Road Transport,1388.048
+2013,Aberdeen City,Agriculture,10.844
+2013,Aberdeen City,Commercial,862.971
+2013,Aberdeen City,Domestic,1833.2620000000002
+2013,Aberdeen City,Industrial,1288.742
+2013,Aberdeen City,Industrial & Commercial,815.663
+2013,Aberdeen City,Public Sector,29.674999999999997
+2013,Aberdeen City,Rail,10.701
+2013,Aberdeen City,Road Transport,1060.5040000000001
+2013,Aberdeenshire,Agriculture,336.463
+2013,Aberdeenshire,Commercial,490.36199999999997
+2013,Aberdeenshire,Domestic,2335.17
+2013,Aberdeenshire,Industrial,867.812
+2013,Aberdeenshire,Industrial & Commercial,665.097
+2013,Aberdeenshire,Public Sector,10.936
+2013,Aberdeenshire,Rail,42.632
+2013,Aberdeenshire,Road Transport,2176.1749999999997
+2013,Angus,Agriculture,79.038
+2013,Angus,Commercial,314.94100000000003
+2013,Angus,Domestic,982.782
+2013,Angus,Industrial,450.086
+2013,Angus,Industrial & Commercial,280.282
+2013,Angus,Public Sector,1.8920000000000001
+2013,Angus,Rail,38.387
+2013,Angus,Road Transport,888.528
+2013,Argyll and Bute,Agriculture,110.794
+2013,Argyll and Bute,Commercial,184.85500000000002
+2013,Argyll and Bute,Domestic,782.742
+2013,Argyll and Bute,Industrial,363.672
+2013,Argyll and Bute,Industrial & Commercial,237.765
+2013,Argyll and Bute,Public Sector,59.207
+2013,Argyll and Bute,Rail,5.419
+2013,Argyll and Bute,Road Transport,682.413
+2013,City of Edinburgh,Agriculture,10.034
+2013,City of Edinburgh,Commercial,1677.824
+2013,City of Edinburgh,Domestic,3686.681
+2013,City of Edinburgh,Industrial,2075.7819999999997
+2013,City of Edinburgh,Industrial & Commercial,1591.071
+2013,City of Edinburgh,Public Sector,2.983
+2013,City of Edinburgh,Rail,53.439
+2013,City of Edinburgh,Road Transport,2739.652
+2013,Clackmannanshire,Agriculture,9.338
+2013,Clackmannanshire,Commercial,462.21500000000003
+2013,Clackmannanshire,Domestic,416.755
+2013,Clackmannanshire,Industrial,501.275
+2013,Clackmannanshire,Industrial & Commercial,130.345
+2013,Clackmannanshire,Public Sector,0.277
+2013,Clackmannanshire,Rail,0.245
+2013,Clackmannanshire,Road Transport,246.343
+2013,Dumfries and Galloway,Agriculture,468.515
+2013,Dumfries and Galloway,Commercial,530.781
+2013,Dumfries and Galloway,Domestic,1296.163
+2013,Dumfries and Galloway,Industrial,812.061
+2013,Dumfries and Galloway,Industrial & Commercial,537.929
+2013,Dumfries and Galloway,Public Sector,12.264
+2013,Dumfries and Galloway,Rail,25.633
+2013,Dumfries and Galloway,Road Transport,1964.636
+2013,Dundee City,Agriculture,0.982
+2013,Dundee City,Commercial,497.943
+2013,Dundee City,Domestic,1078.2730000000001
+2013,Dundee City,Industrial,693.439
+2013,Dundee City,Industrial & Commercial,413.911
+2013,Dundee City,Public Sector,0.1
+2013,Dundee City,Rail,11.453
+2013,Dundee City,Road Transport,745.118
+2013,East Ayrshire,Agriculture,90.501
+2013,East Ayrshire,Commercial,324.527
+2013,East Ayrshire,Domestic,1025.839
+2013,East Ayrshire,Industrial,623.1999999999999
+2013,East Ayrshire,Industrial & Commercial,242.373
+2013,East Ayrshire,Public Sector,3.1780000000000004
+2013,East Ayrshire,Rail,4.567
+2013,East Ayrshire,Road Transport,879.126
+2013,East Dunbartonshire,Agriculture,8.463
+2013,East Dunbartonshire,Commercial,144.214
+2013,East Dunbartonshire,Domestic,970.6809999999999
+2013,East Dunbartonshire,Industrial,194.113
+2013,East Dunbartonshire,Industrial & Commercial,158.422
+2013,East Dunbartonshire,Public Sector,0.103
+2013,East Dunbartonshire,Rail,7.308
+2013,East Dunbartonshire,Road Transport,446.536
+2013,East Lothian,Agriculture,35.815
+2013,East Lothian,Commercial,298.728
+2013,East Lothian,Domestic,802.6590000000001
+2013,East Lothian,Industrial,928.553
+2013,East Lothian,Industrial & Commercial,274.369
+2013,East Lothian,Public Sector,1.5550000000000002
+2013,East Lothian,Rail,33.668
+2013,East Lothian,Road Transport,688.975
+2013,East Renfrewshire,Agriculture,14.307
+2013,East Renfrewshire,Commercial,82.345
+2013,East Renfrewshire,Domestic,833.881
+2013,East Renfrewshire,Industrial,100.071
+2013,East Renfrewshire,Industrial & Commercial,69.818
+2013,East Renfrewshire,Public Sector,0.053
+2013,East Renfrewshire,Rail,2.656
+2013,East Renfrewshire,Road Transport,580.615
+2013,Falkirk,Agriculture,21.804
+2013,Falkirk,Commercial,568.464
+2013,Falkirk,Domestic,1240.953
+2013,Falkirk,Industrial,15641.865
+2013,Falkirk,Industrial & Commercial,419.11
+2013,Falkirk,Public Sector,1.256
+2013,Falkirk,Rail,16.944
+2013,Falkirk,Road Transport,1302.329
+2013,Fife,Agriculture,83.73
+2013,Fife,Commercial,1399.375
+2013,Fife,Domestic,3110.584
+2013,Fife,Industrial,6062.819
+2013,Fife,Industrial & Commercial,992.644
+2013,Fife,Public Sector,9.233
+2013,Fife,Rail,84.893
+2013,Fife,Road Transport,2215.4390000000003
+2013,Glasgow City,Agriculture,3.705
+2013,Glasgow City,Commercial,2065.59
+2013,Glasgow City,Domestic,3981.013
+2013,Glasgow City,Industrial,2506.7780000000002
+2013,Glasgow City,Industrial & Commercial,1961.427
+2013,Glasgow City,Public Sector,1.637
+2013,Glasgow City,Rail,13.034
+2013,Glasgow City,Road Transport,3185.89
+2013,Highland,Agriculture,285.782
+2013,Highland,Commercial,933.0070000000001
+2013,Highland,Domestic,2000.017
+2013,Highland,Industrial,1878.612
+2013,Highland,Industrial & Commercial,951.677
+2013,Highland,Public Sector,64.666
+2013,Highland,Rail,57.496
+2013,Highland,Road Transport,2041.719
+2013,Inverclyde,Agriculture,7.118
+2013,Inverclyde,Commercial,188.148
+2013,Inverclyde,Domestic,644.652
+2013,Inverclyde,Industrial,222.923
+2013,Inverclyde,Industrial & Commercial,192.858
+2013,Inverclyde,Public Sector,0.374
+2013,Inverclyde,Rail,0.178
+2013,Inverclyde,Road Transport,421.572
+2013,Midlothian,Agriculture,20.856
+2013,Midlothian,Commercial,176.00799999999998
+2013,Midlothian,Domestic,669.082
+2013,Midlothian,Industrial,252.265
+2013,Midlothian,Industrial & Commercial,208.42
+2013,Midlothian,Public Sector,2.884
+2013,Midlothian,Rail,9.022
+2013,Midlothian,Road Transport,547.751
+2013,Moray,Agriculture,87.695
+2013,Moray,Commercial,880.817
+2013,Moray,Domestic,800.564
+2013,Moray,Industrial,1032.4270000000001
+2013,Moray,Industrial & Commercial,322.819
+2013,Moray,Public Sector,6.496
+2013,Moray,Rail,9.078
+2013,Moray,Road Transport,569.498
+2013,Na h-Eileanan Siar,Agriculture,33.565
+2013,Na h-Eileanan Siar,Commercial,30.446
+2013,Na h-Eileanan Siar,Domestic,251.317
+2013,Na h-Eileanan Siar,Industrial,93.844
+2013,Na h-Eileanan Siar,Industrial & Commercial,63.977
+2013,Na h-Eileanan Siar,Public Sector,4.76
+2013,Na h-Eileanan Siar,Rail,0.0
+2013,Na h-Eileanan Siar,Road Transport,172.486
+2013,North Ayrshire,Agriculture,43.485
+2013,North Ayrshire,Commercial,1226.324
+2013,North Ayrshire,Domestic,1095.759
+2013,North Ayrshire,Industrial,2192.291
+2013,North Ayrshire,Industrial & Commercial,476.153
+2013,North Ayrshire,Public Sector,1.268
+2013,North Ayrshire,Rail,2.568
+2013,North Ayrshire,Road Transport,603.342
+2013,North Lanarkshire,Agriculture,24.996
+2013,North Lanarkshire,Commercial,920.595
+2013,North Lanarkshire,Domestic,2622.656
+2013,North Lanarkshire,Industrial,1311.167
+2013,North Lanarkshire,Industrial & Commercial,832.669
+2013,North Lanarkshire,Public Sector,0.541
+2013,North Lanarkshire,Rail,21.391
+2013,North Lanarkshire,Road Transport,2729.684
+2013,Orkney Islands,Agriculture,114.909
+2013,Orkney Islands,Commercial,30.116
+2013,Orkney Islands,Domestic,174.12099999999998
+2013,Orkney Islands,Industrial,65.69800000000001
+2013,Orkney Islands,Industrial & Commercial,60.278
+2013,Orkney Islands,Public Sector,7.397
+2013,Orkney Islands,Rail,0.0
+2013,Orkney Islands,Road Transport,103.209
+2013,Perth and Kinross,Agriculture,153.264
+2013,Perth and Kinross,Commercial,357.627
+2013,Perth and Kinross,Domestic,1314.079
+2013,Perth and Kinross,Industrial,486.26699999999994
+2013,Perth and Kinross,Industrial & Commercial,389.421
+2013,Perth and Kinross,Public Sector,5.403
+2013,Perth and Kinross,Rail,72.652
+2013,Perth and Kinross,Road Transport,1983.575
+2013,Renfrewshire,Agriculture,17.297
+2013,Renfrewshire,Commercial,530.408
+2013,Renfrewshire,Domestic,1373.01
+2013,Renfrewshire,Industrial,702.577
+2013,Renfrewshire,Industrial & Commercial,518.455
+2013,Renfrewshire,Public Sector,0.296
+2013,Renfrewshire,Rail,1.753
+2013,Renfrewshire,Road Transport,1148.164
+2013,Scottish Borders,Agriculture,263.931
+2013,Scottish Borders,Commercial,291.195
+2013,Scottish Borders,Domestic,1021.8720000000001
+2013,Scottish Borders,Industrial,532.316
+2013,Scottish Borders,Industrial & Commercial,314.658
+2013,Scottish Borders,Public Sector,3.078
+2013,Scottish Borders,Rail,31.797
+2013,Scottish Borders,Road Transport,945.629
+2013,Shetland Islands,Agriculture,62.025
+2013,Shetland Islands,Commercial,46.613
+2013,Shetland Islands,Domestic,180.695
+2013,Shetland Islands,Industrial,121.621
+2013,Shetland Islands,Industrial & Commercial,95.145
+2013,Shetland Islands,Public Sector,5.633
+2013,Shetland Islands,Rail,0.0
+2013,Shetland Islands,Road Transport,152.334
+2013,South Ayrshire,Agriculture,97.61
+2013,South Ayrshire,Commercial,452.88599999999997
+2013,South Ayrshire,Domestic,992.669
+2013,South Ayrshire,Industrial,614.185
+2013,South Ayrshire,Industrial & Commercial,293.833
+2013,South Ayrshire,Public Sector,1.091
+2013,South Ayrshire,Rail,4.749
+2013,South Ayrshire,Road Transport,776.271
+2013,South Lanarkshire,Agriculture,116.669
+2013,South Lanarkshire,Commercial,644.822
+2013,South Lanarkshire,Domestic,2646.462
+2013,South Lanarkshire,Industrial,960.6619999999999
+2013,South Lanarkshire,Industrial & Commercial,646.187
+2013,South Lanarkshire,Public Sector,4.472
+2013,South Lanarkshire,Rail,31.283
+2013,South Lanarkshire,Road Transport,2403.581
+2013,Stirling,Agriculture,60.229
+2013,Stirling,Commercial,642.026
+2013,Stirling,Domestic,772.666
+2013,Stirling,Industrial,1030.124
+2013,Stirling,Industrial & Commercial,300.641
+2013,Stirling,Public Sector,2.452
+2013,Stirling,Rail,19.358
+2013,Stirling,Road Transport,945.4399999999999
+2013,West Dunbartonshire,Agriculture,7.328
+2013,West Dunbartonshire,Commercial,234.103
+2013,West Dunbartonshire,Domestic,663.716
+2013,West Dunbartonshire,Industrial,285.22700000000003
+2013,West Dunbartonshire,Industrial & Commercial,195.212
+2013,West Dunbartonshire,Public Sector,0.9500000000000001
+2013,West Dunbartonshire,Rail,1.063
+2013,West Dunbartonshire,Road Transport,524.37
+2013,West Lothian,Agriculture,27.249
+2013,West Lothian,Commercial,605.791
+2013,West Lothian,Domestic,1388.816
+2013,West Lothian,Industrial,776.525
+2013,West Lothian,Industrial & Commercial,567.662
+2013,West Lothian,Public Sector,0.863
+2013,West Lothian,Rail,13.953
+2013,West Lothian,Road Transport,1401.009
+2014,Aberdeen City,Agriculture,10.952
+2014,Aberdeen City,Commercial,829.345
+2014,Aberdeen City,Domestic,1835.598
+2014,Aberdeen City,Industrial,1352.094
+2014,Aberdeen City,Industrial & Commercial,829.774
+2014,Aberdeen City,Public Sector,30.594
+2014,Aberdeen City,Rail,10.954
+2014,Aberdeen City,Road Transport,1079.414
+2014,Aberdeenshire,Agriculture,339.637
+2014,Aberdeenshire,Commercial,491.115
+2014,Aberdeenshire,Domestic,2286.656
+2014,Aberdeenshire,Industrial,937.578
+2014,Aberdeenshire,Industrial & Commercial,712.734
+2014,Aberdeenshire,Public Sector,11.870000000000001
+2014,Aberdeenshire,Rail,43.62
+2014,Aberdeenshire,Road Transport,2284.719
+2014,Angus,Agriculture,79.86
+2014,Angus,Commercial,300.416
+2014,Angus,Domestic,970.583
+2014,Angus,Industrial,472.226
+2014,Angus,Industrial & Commercial,286.813
+2014,Angus,Public Sector,2.025
+2014,Angus,Rail,39.264
+2014,Angus,Road Transport,919.2860000000001
+2014,Argyll and Bute,Agriculture,111.813
+2014,Argyll and Bute,Commercial,173.831
+2014,Argyll and Bute,Domestic,757.788
+2014,Argyll and Bute,Industrial,385.563
+2014,Argyll and Bute,Industrial & Commercial,240.356
+2014,Argyll and Bute,Public Sector,65.104
+2014,Argyll and Bute,Rail,5.524
+2014,Argyll and Bute,Road Transport,703.038
+2014,City of Edinburgh,Agriculture,10.164
+2014,City of Edinburgh,Commercial,1502.6979999999999
+2014,City of Edinburgh,Domestic,3650.648
+2014,City of Edinburgh,Industrial,2010.6370000000002
+2014,City of Edinburgh,Industrial & Commercial,1377.767
+2014,City of Edinburgh,Public Sector,3.14
+2014,City of Edinburgh,Rail,54.691
+2014,City of Edinburgh,Road Transport,2772.201
+2014,Clackmannanshire,Agriculture,9.424
+2014,Clackmannanshire,Commercial,415.612
+2014,Clackmannanshire,Domestic,409.15299999999996
+2014,Clackmannanshire,Industrial,507.0609999999999
+2014,Clackmannanshire,Industrial & Commercial,122.479
+2014,Clackmannanshire,Public Sector,0.29100000000000004
+2014,Clackmannanshire,Rail,0.251
+2014,Clackmannanshire,Road Transport,254.927
+2014,Dumfries and Galloway,Agriculture,472.702
+2014,Dumfries and Galloway,Commercial,501.226
+2014,Dumfries and Galloway,Domestic,1256.9840000000002
+2014,Dumfries and Galloway,Industrial,843.9649999999999
+2014,Dumfries and Galloway,Industrial & Commercial,531.506
+2014,Dumfries and Galloway,Public Sector,13.218
+2014,Dumfries and Galloway,Rail,26.073
+2014,Dumfries and Galloway,Road Transport,1975.1109999999999
+2014,Dundee City,Agriculture,0.994
+2014,Dundee City,Commercial,479.862
+2014,Dundee City,Domestic,1064.799
+2014,Dundee City,Industrial,642.443
+2014,Dundee City,Industrial & Commercial,418.798
+2014,Dundee City,Public Sector,0.12000000000000001
+2014,Dundee City,Rail,11.713
+2014,Dundee City,Road Transport,746.2199999999999
+2014,East Ayrshire,Agriculture,91.316
+2014,East Ayrshire,Commercial,325.24
+2014,East Ayrshire,Domestic,1006.415
+2014,East Ayrshire,Industrial,702.482
+2014,East Ayrshire,Industrial & Commercial,249.556
+2014,East Ayrshire,Public Sector,3.5469999999999997
+2014,East Ayrshire,Rail,4.664
+2014,East Ayrshire,Road Transport,872.598
+2014,East Dunbartonshire,Agriculture,8.541
+2014,East Dunbartonshire,Commercial,154.897
+2014,East Dunbartonshire,Domestic,965.0049999999999
+2014,East Dunbartonshire,Industrial,222.74499999999998
+2014,East Dunbartonshire,Industrial & Commercial,164.641
+2014,East Dunbartonshire,Public Sector,0.14600000000000002
+2014,East Dunbartonshire,Rail,7.487
+2014,East Dunbartonshire,Road Transport,458.629
+2014,East Lothian,Agriculture,36.164
+2014,East Lothian,Commercial,295.168
+2014,East Lothian,Domestic,791.48
+2014,East Lothian,Industrial,985.8589999999999
+2014,East Lothian,Industrial & Commercial,273.194
+2014,East Lothian,Public Sector,1.674
+2014,East Lothian,Rail,34.402
+2014,East Lothian,Road Transport,715.931
+2014,East Renfrewshire,Agriculture,14.439
+2014,East Renfrewshire,Commercial,78.34299999999999
+2014,East Renfrewshire,Domestic,828.89
+2014,East Renfrewshire,Industrial,104.415
+2014,East Renfrewshire,Industrial & Commercial,73.032
+2014,East Renfrewshire,Public Sector,0.084
+2014,East Renfrewshire,Rail,2.721
+2014,East Renfrewshire,Road Transport,595.233
+2014,Falkirk,Agriculture,22.003
+2014,Falkirk,Commercial,495.651
+2014,Falkirk,Domestic,1235.245
+2014,Falkirk,Industrial,12237.668
+2014,Falkirk,Industrial & Commercial,382.259
+2014,Falkirk,Public Sector,1.7029999999999998
+2014,Falkirk,Rail,17.245
+2014,Falkirk,Road Transport,1350.527
+2014,Fife,Agriculture,84.564
+2014,Fife,Commercial,1377.252
+2014,Fife,Domestic,3049.386
+2014,Fife,Industrial,7866.595
+2014,Fife,Industrial & Commercial,899.698
+2014,Fife,Public Sector,9.82
+2014,Fife,Rail,86.996
+2014,Fife,Road Transport,2277.284
+2014,Glasgow City,Agriculture,3.74
+2014,Glasgow City,Commercial,1952.127
+2014,Glasgow City,Domestic,3923.127
+2014,Glasgow City,Industrial,2573.115
+2014,Glasgow City,Industrial & Commercial,1787.989
+2014,Glasgow City,Public Sector,1.895
+2014,Glasgow City,Rail,13.323
+2014,Glasgow City,Road Transport,3188.506
+2014,Highland,Agriculture,288.397
+2014,Highland,Commercial,925.5550000000001
+2014,Highland,Domestic,1937.1979999999999
+2014,Highland,Industrial,2003.4569999999999
+2014,Highland,Industrial & Commercial,927.867
+2014,Highland,Public Sector,67.57900000000001
+2014,Highland,Rail,58.437
+2014,Highland,Road Transport,2085.027
+2014,Inverclyde,Agriculture,7.181
+2014,Inverclyde,Commercial,162.256
+2014,Inverclyde,Domestic,629.471
+2014,Inverclyde,Industrial,208.713
+2014,Inverclyde,Industrial & Commercial,170.252
+2014,Inverclyde,Public Sector,0.433
+2014,Inverclyde,Rail,0.179
+2014,Inverclyde,Road Transport,450.55699999999996
+2014,Midlothian,Agriculture,21.042
+2014,Midlothian,Commercial,164.68
+2014,Midlothian,Domestic,660.2620000000001
+2014,Midlothian,Industrial,256.284
+2014,Midlothian,Industrial & Commercial,196.899
+2014,Midlothian,Public Sector,3.077
+2014,Midlothian,Rail,9.242
+2014,Midlothian,Road Transport,538.716
+2014,Moray,Agriculture,88.516
+2014,Moray,Commercial,858.552
+2014,Moray,Domestic,796.873
+2014,Moray,Industrial,1132.13
+2014,Moray,Industrial & Commercial,324.089
+2014,Moray,Public Sector,6.73
+2014,Moray,Rail,9.235999999999999
+2014,Moray,Road Transport,597.442
+2014,Na h-Eileanan Siar,Agriculture,33.87
+2014,Na h-Eileanan Siar,Commercial,32.565
+2014,Na h-Eileanan Siar,Domestic,235.079
+2014,Na h-Eileanan Siar,Industrial,102.725
+2014,Na h-Eileanan Siar,Industrial & Commercial,66.649
+2014,Na h-Eileanan Siar,Public Sector,5.207999999999999
+2014,Na h-Eileanan Siar,Rail,0.0
+2014,Na h-Eileanan Siar,Road Transport,178.066
+2014,North Ayrshire,Agriculture,43.872
+2014,North Ayrshire,Commercial,1238.355
+2014,North Ayrshire,Domestic,1076.782
+2014,North Ayrshire,Industrial,2376.248
+2014,North Ayrshire,Industrial & Commercial,451.443
+2014,North Ayrshire,Public Sector,1.434
+2014,North Ayrshire,Rail,2.596
+2014,North Ayrshire,Road Transport,620.696
+2014,North Lanarkshire,Agriculture,25.237
+2014,North Lanarkshire,Commercial,874.618
+2014,North Lanarkshire,Domestic,2595.573
+2014,North Lanarkshire,Industrial,1357.645
+2014,North Lanarkshire,Industrial & Commercial,818.282
+2014,North Lanarkshire,Public Sector,0.631
+2014,North Lanarkshire,Rail,21.775
+2014,North Lanarkshire,Road Transport,2793.558
+2014,Orkney Islands,Agriculture,115.942
+2014,Orkney Islands,Commercial,31.262
+2014,Orkney Islands,Domestic,168.779
+2014,Orkney Islands,Industrial,70.918
+2014,Orkney Islands,Industrial & Commercial,61.903
+2014,Orkney Islands,Public Sector,8.291
+2014,Orkney Islands,Rail,0.0
+2014,Orkney Islands,Road Transport,108.441
+2014,Perth and Kinross,Agriculture,154.757
+2014,Perth and Kinross,Commercial,388.171
+2014,Perth and Kinross,Domestic,1285.1870000000001
+2014,Perth and Kinross,Industrial,565.592
+2014,Perth and Kinross,Industrial & Commercial,504.264
+2014,Perth and Kinross,Public Sector,5.861
+2014,Perth and Kinross,Rail,74.12
+2014,Perth and Kinross,Road Transport,2030.728
+2014,Renfrewshire,Agriculture,17.452
+2014,Renfrewshire,Commercial,420.966
+2014,Renfrewshire,Domestic,1349.522
+2014,Renfrewshire,Industrial,623.941
+2014,Renfrewshire,Industrial & Commercial,391.995
+2014,Renfrewshire,Public Sector,0.37
+2014,Renfrewshire,Rail,1.771
+2014,Renfrewshire,Road Transport,1174.414
+2014,Scottish Borders,Agriculture,266.307
+2014,Scottish Borders,Commercial,276.618
+2014,Scottish Borders,Domestic,990.454
+2014,Scottish Borders,Industrial,553.52
+2014,Scottish Borders,Industrial & Commercial,297.468
+2014,Scottish Borders,Public Sector,3.382
+2014,Scottish Borders,Rail,32.532
+2014,Scottish Borders,Road Transport,972.395
+2014,Shetland Islands,Agriculture,62.599
+2014,Shetland Islands,Commercial,48.843
+2014,Shetland Islands,Domestic,175.797
+2014,Shetland Islands,Industrial,131.40200000000002
+2014,Shetland Islands,Industrial & Commercial,98.538
+2014,Shetland Islands,Public Sector,6.239
+2014,Shetland Islands,Rail,0.0
+2014,Shetland Islands,Road Transport,158.37199999999999
+2014,South Ayrshire,Agriculture,98.481
+2014,South Ayrshire,Commercial,421.56100000000004
+2014,South Ayrshire,Domestic,969.2090000000001
+2014,South Ayrshire,Industrial,645.34
+2014,South Ayrshire,Industrial & Commercial,283.087
+2014,South Ayrshire,Public Sector,1.206
+2014,South Ayrshire,Rail,4.846
+2014,South Ayrshire,Road Transport,798.445
+2014,South Lanarkshire,Agriculture,117.732
+2014,South Lanarkshire,Commercial,589.542
+2014,South Lanarkshire,Domestic,2599.567
+2014,South Lanarkshire,Industrial,971.121
+2014,South Lanarkshire,Industrial & Commercial,609.61
+2014,South Lanarkshire,Public Sector,4.877
+2014,South Lanarkshire,Rail,31.871
+2014,South Lanarkshire,Road Transport,2439.8199999999997
+2014,Stirling,Agriculture,60.821
+2014,Stirling,Commercial,599.064
+2014,Stirling,Domestic,760.221
+2014,Stirling,Industrial,1060.183
+2014,Stirling,Industrial & Commercial,267.026
+2014,Stirling,Public Sector,2.644
+2014,Stirling,Rail,19.755
+2014,Stirling,Road Transport,974.707
+2014,West Dunbartonshire,Agriculture,7.393
+2014,West Dunbartonshire,Commercial,209.846
+2014,West Dunbartonshire,Domestic,654.851
+2014,West Dunbartonshire,Industrial,282.728
+2014,West Dunbartonshire,Industrial & Commercial,196.205
+2014,West Dunbartonshire,Public Sector,0.986
+2014,West Dunbartonshire,Rail,1.082
+2014,West Dunbartonshire,Road Transport,535.292
+2014,West Lothian,Agriculture,27.504
+2014,West Lothian,Commercial,546.4300000000001
+2014,West Lothian,Domestic,1374.69
+2014,West Lothian,Industrial,771.129
+2014,West Lothian,Industrial & Commercial,543.203
+2014,West Lothian,Public Sector,0.978
+2014,West Lothian,Rail,14.244
+2014,West Lothian,Road Transport,1422.413
+2015,Aberdeen City,Agriculture,11.316
+2015,Aberdeen City,Commercial,854.311
+2015,Aberdeen City,Domestic,1823.035
+2015,Aberdeen City,Industrial,1377.2279999999998
+2015,Aberdeen City,Industrial & Commercial,806.766
+2015,Aberdeen City,Public Sector,20.718
+2015,Aberdeen City,Rail,10.816
+2015,Aberdeen City,Road Transport,1072.22
+2015,Aberdeenshire,Agriculture,352.67
+2015,Aberdeenshire,Commercial,468.714
+2015,Aberdeenshire,Domestic,2288.147
+2015,Aberdeenshire,Industrial,914.183
+2015,Aberdeenshire,Industrial & Commercial,673.489
+2015,Aberdeenshire,Public Sector,2.481
+2015,Aberdeenshire,Rail,42.93
+2015,Aberdeenshire,Road Transport,2324.837
+2015,Angus,Agriculture,82.592
+2015,Angus,Commercial,303.129
+2015,Angus,Domestic,958.5740000000001
+2015,Angus,Industrial,480.706
+2015,Angus,Industrial & Commercial,284.584
+2015,Angus,Public Sector,0.44799999999999995
+2015,Angus,Rail,38.573
+2015,Angus,Road Transport,918.771
+2015,Argyll and Bute,Agriculture,116.209
+2015,Argyll and Bute,Commercial,186.35399999999998
+2015,Argyll and Bute,Domestic,748.264
+2015,Argyll and Bute,Industrial,380.149
+2015,Argyll and Bute,Industrial & Commercial,236.327
+2015,Argyll and Bute,Public Sector,52.364
+2015,Argyll and Bute,Rail,5.303
+2015,Argyll and Bute,Road Transport,724.408
+2015,City of Edinburgh,Agriculture,10.227
+2015,City of Edinburgh,Commercial,1575.263
+2015,City of Edinburgh,Domestic,3621.137
+2015,City of Edinburgh,Industrial,2107.751
+2015,City of Edinburgh,Industrial & Commercial,1526.215
+2015,City of Edinburgh,Public Sector,4.207
+2015,City of Edinburgh,Rail,53.93
+2015,City of Edinburgh,Road Transport,2803.389
+2015,Clackmannanshire,Agriculture,9.791
+2015,Clackmannanshire,Commercial,442.716
+2015,Clackmannanshire,Domestic,405.068
+2015,Clackmannanshire,Industrial,547.765
+2015,Clackmannanshire,Industrial & Commercial,220.251
+2015,Clackmannanshire,Public Sector,0.11299999999999999
+2015,Clackmannanshire,Rail,0.249
+2015,Clackmannanshire,Road Transport,256.242
+2015,Dumfries and Galloway,Agriculture,491.918
+2015,Dumfries and Galloway,Commercial,515.972
+2015,Dumfries and Galloway,Domestic,1254.019
+2015,Dumfries and Galloway,Industrial,826.944
+2015,Dumfries and Galloway,Industrial & Commercial,551.991
+2015,Dumfries and Galloway,Public Sector,2.263
+2015,Dumfries and Galloway,Rail,24.607
+2015,Dumfries and Galloway,Road Transport,2045.8300000000002
+2015,Dundee City,Agriculture,1.023
+2015,Dundee City,Commercial,497.538
+2015,Dundee City,Domestic,1043.754
+2015,Dundee City,Industrial,674.468
+2015,Dundee City,Industrial & Commercial,411.621
+2015,Dundee City,Public Sector,0.648
+2015,Dundee City,Rail,11.496
+2015,Dundee City,Road Transport,731.523
+2015,East Ayrshire,Agriculture,94.953
+2015,East Ayrshire,Commercial,410.139
+2015,East Ayrshire,Domestic,997.4240000000001
+2015,East Ayrshire,Industrial,589.51
+2015,East Ayrshire,Industrial & Commercial,256.314
+2015,East Ayrshire,Public Sector,0.6599999999999999
+2015,East Ayrshire,Rail,4.533
+2015,East Ayrshire,Road Transport,878.7950000000001
+2015,East Dunbartonshire,Agriculture,8.858
+2015,East Dunbartonshire,Commercial,143.097
+2015,East Dunbartonshire,Domestic,953.063
+2015,East Dunbartonshire,Industrial,213.68699999999998
+2015,East Dunbartonshire,Industrial & Commercial,172.214
+2015,East Dunbartonshire,Public Sector,0.25
+2015,East Dunbartonshire,Rail,7.435
+2015,East Dunbartonshire,Road Transport,451.644
+2015,East Lothian,Agriculture,37.525
+2015,East Lothian,Commercial,298.933
+2015,East Lothian,Domestic,793.546
+2015,East Lothian,Industrial,814.819
+2015,East Lothian,Industrial & Commercial,270.941
+2015,East Lothian,Public Sector,0.352
+2015,East Lothian,Rail,33.527
+2015,East Lothian,Road Transport,723.8059999999999
+2015,East Renfrewshire,Agriculture,15.004
+2015,East Renfrewshire,Commercial,84.368
+2015,East Renfrewshire,Domestic,819.1399999999999
+2015,East Renfrewshire,Industrial,113.455
+2015,East Renfrewshire,Industrial & Commercial,81.831
+2015,East Renfrewshire,Public Sector,0.196
+2015,East Renfrewshire,Rail,2.703
+2015,East Renfrewshire,Road Transport,600.4069999999999
+2015,Falkirk,Agriculture,22.855
+2015,Falkirk,Commercial,405.917
+2015,Falkirk,Domestic,1225.192
+2015,Falkirk,Industrial,13509.147
+2015,Falkirk,Industrial & Commercial,436.556
+2015,Falkirk,Public Sector,0.8819999999999999
+2015,Falkirk,Rail,16.558
+2015,Falkirk,Road Transport,1374.889
+2015,Fife,Agriculture,87.66
+2015,Fife,Commercial,1085.027
+2015,Fife,Domestic,3031.643
+2015,Fife,Industrial,5561.337
+2015,Fife,Industrial & Commercial,967.955
+2015,Fife,Public Sector,3.143
+2015,Fife,Rail,86.578
+2015,Fife,Road Transport,2276.457
+2015,Glasgow City,Agriculture,3.887
+2015,Glasgow City,Commercial,1980.222
+2015,Glasgow City,Domestic,3898.2219999999998
+2015,Glasgow City,Industrial,2652.863
+2015,Glasgow City,Industrial & Commercial,1954.014
+2015,Glasgow City,Public Sector,11.259
+2015,Glasgow City,Rail,13.024
+2015,Glasgow City,Road Transport,3158.7110000000002
+2015,Highland,Agriculture,299.812
+2015,Highland,Commercial,1247.018
+2015,Highland,Domestic,1939.576
+2015,Highland,Industrial,1700.357
+2015,Highland,Industrial & Commercial,917.547
+2015,Highland,Public Sector,39.44199999999999
+2015,Highland,Rail,56.25
+2015,Highland,Road Transport,2147.172
+2015,Inverclyde,Agriculture,7.481
+2015,Inverclyde,Commercial,170.665
+2015,Inverclyde,Domestic,628.896
+2015,Inverclyde,Industrial,222.067
+2015,Inverclyde,Industrial & Commercial,193.053
+2015,Inverclyde,Public Sector,0.47700000000000004
+2015,Inverclyde,Rail,0.161
+2015,Inverclyde,Road Transport,445.167
+2015,Midlothian,Agriculture,21.936
+2015,Midlothian,Commercial,174.656
+2015,Midlothian,Domestic,665.895
+2015,Midlothian,Industrial,261.877
+2015,Midlothian,Industrial & Commercial,212.39
+2015,Midlothian,Public Sector,0.6839999999999999
+2015,Midlothian,Rail,9.18
+2015,Midlothian,Road Transport,539.363
+2015,Moray,Agriculture,91.884
+2015,Moray,Commercial,822.2520000000001
+2015,Moray,Domestic,795.609
+2015,Moray,Industrial,1059.943
+2015,Moray,Industrial & Commercial,323.375
+2015,Moray,Public Sector,4.251
+2015,Moray,Rail,9.165
+2015,Moray,Road Transport,601.676
+2015,Na h-Eileanan Siar,Agriculture,35.227
+2015,Na h-Eileanan Siar,Commercial,35.421
+2015,Na h-Eileanan Siar,Domestic,234.792
+2015,Na h-Eileanan Siar,Industrial,96.529
+2015,Na h-Eileanan Siar,Industrial & Commercial,63.414
+2015,Na h-Eileanan Siar,Public Sector,0.972
+2015,Na h-Eileanan Siar,Rail,0.0
+2015,Na h-Eileanan Siar,Road Transport,182.022
+2015,North Ayrshire,Agriculture,45.658
+2015,North Ayrshire,Commercial,1698.093
+2015,North Ayrshire,Domestic,1060.841
+2015,North Ayrshire,Industrial,1819.431
+2015,North Ayrshire,Industrial & Commercial,453.612
+2015,North Ayrshire,Public Sector,0.45399999999999996
+2015,North Ayrshire,Rail,2.341
+2015,North Ayrshire,Road Transport,624.77
+2015,North Lanarkshire,Agriculture,26.104
+2015,North Lanarkshire,Commercial,857.958
+2015,North Lanarkshire,Domestic,2583.19
+2015,North Lanarkshire,Industrial,1352.4850000000001
+2015,North Lanarkshire,Industrial & Commercial,823.019
+2015,North Lanarkshire,Public Sector,0.666
+2015,North Lanarkshire,Rail,20.67
+2015,North Lanarkshire,Road Transport,2721.145
+2015,Orkney Islands,Agriculture,120.626
+2015,Orkney Islands,Commercial,29.435
+2015,Orkney Islands,Domestic,169.86599999999999
+2015,Orkney Islands,Industrial,68.132
+2015,Orkney Islands,Industrial & Commercial,59.998
+2015,Orkney Islands,Public Sector,1.242
+2015,Orkney Islands,Rail,0.0
+2015,Orkney Islands,Road Transport,111.693
+2015,Perth and Kinross,Agriculture,160.554
+2015,Perth and Kinross,Commercial,332.609
+2015,Perth and Kinross,Domestic,1271.3329999999999
+2015,Perth and Kinross,Industrial,500.866
+2015,Perth and Kinross,Industrial & Commercial,390.233
+2015,Perth and Kinross,Public Sector,1.1640000000000001
+2015,Perth and Kinross,Rail,71.483
+2015,Perth and Kinross,Road Transport,2076.608
+2015,Renfrewshire,Agriculture,18.162
+2015,Renfrewshire,Commercial,469.307
+2015,Renfrewshire,Domestic,1340.5890000000002
+2015,Renfrewshire,Industrial,698.567
+2015,Renfrewshire,Industrial & Commercial,494.022
+2015,Renfrewshire,Public Sector,0.456
+2015,Renfrewshire,Rail,1.586
+2015,Renfrewshire,Road Transport,1186.559
+2015,Scottish Borders,Agriculture,277.004
+2015,Scottish Borders,Commercial,302.712
+2015,Scottish Borders,Domestic,992.271
+2015,Scottish Borders,Industrial,525.35
+2015,Scottish Borders,Industrial & Commercial,321.229
+2015,Scottish Borders,Public Sector,0.765
+2015,Scottish Borders,Rail,32.006
+2015,Scottish Borders,Road Transport,998.582
+2015,Shetland Islands,Agriculture,65.073
+2015,Shetland Islands,Commercial,49.077000000000005
+2015,Shetland Islands,Domestic,176.383
+2015,Shetland Islands,Industrial,130.403
+2015,Shetland Islands,Industrial & Commercial,99.658
+2015,Shetland Islands,Public Sector,0.932
+2015,Shetland Islands,Rail,0.0
+2015,Shetland Islands,Road Transport,162.701
+2015,South Ayrshire,Agriculture,102.467
+2015,South Ayrshire,Commercial,428.765
+2015,South Ayrshire,Domestic,958.895
+2015,South Ayrshire,Industrial,650.1229999999999
+2015,South Ayrshire,Industrial & Commercial,286.766
+2015,South Ayrshire,Public Sector,0.453
+2015,South Ayrshire,Rail,4.677
+2015,South Ayrshire,Road Transport,808.138
+2015,South Lanarkshire,Agriculture,122.303
+2015,South Lanarkshire,Commercial,590.673
+2015,South Lanarkshire,Domestic,2585.993
+2015,South Lanarkshire,Industrial,986.5770000000001
+2015,South Lanarkshire,Industrial & Commercial,643.388
+2015,South Lanarkshire,Public Sector,1.272
+2015,South Lanarkshire,Rail,30.424
+2015,South Lanarkshire,Road Transport,2452.122
+2015,Stirling,Agriculture,62.838
+2015,Stirling,Commercial,789.766
+2015,Stirling,Domestic,757.223
+2015,Stirling,Industrial,877.112
+2015,Stirling,Industrial & Commercial,285.667
+2015,Stirling,Public Sector,1.057
+2015,Stirling,Rail,19.091
+2015,Stirling,Road Transport,993.985
+2015,West Dunbartonshire,Agriculture,7.698
+2015,West Dunbartonshire,Commercial,211.507
+2015,West Dunbartonshire,Domestic,646.816
+2015,West Dunbartonshire,Industrial,290.01700000000005
+2015,West Dunbartonshire,Industrial & Commercial,202.885
+2015,West Dunbartonshire,Public Sector,0.974
+2015,West Dunbartonshire,Rail,1.025
+2015,West Dunbartonshire,Road Transport,537.361
+2015,West Lothian,Agriculture,28.545
+2015,West Lothian,Commercial,561.815
+2015,West Lothian,Domestic,1365.6940000000002
+2015,West Lothian,Industrial,804.439
+2015,West Lothian,Industrial & Commercial,567.892
+2015,West Lothian,Public Sector,0.609
+2015,West Lothian,Rail,13.8
+2015,West Lothian,Road Transport,1453.577
+2016,Aberdeen City,Agriculture,11.96
+2016,Aberdeen City,Commercial,594.488
+2016,Aberdeen City,Domestic,1797.866
+2016,Aberdeen City,Industrial,1500.878
+2016,Aberdeen City,Industrial & Commercial,746.179
+2016,Aberdeen City,Public Sector,20.111
+2016,Aberdeen City,Rail,10.784
+2016,Aberdeen City,Road Transport,1083.728
+2016,Aberdeenshire,Agriculture,372.804
+2016,Aberdeenshire,Commercial,359.498
+2016,Aberdeenshire,Domestic,2282.293
+2016,Aberdeenshire,Industrial,988.539
+2016,Aberdeenshire,Industrial & Commercial,653.609
+2016,Aberdeenshire,Public Sector,2.5359999999999996
+2016,Aberdeenshire,Rail,42.72
+2016,Aberdeenshire,Road Transport,2483.1609999999996
+2016,Angus,Agriculture,87.368
+2016,Angus,Commercial,206.747
+2016,Angus,Domestic,960.5649999999999
+2016,Angus,Industrial,515.5799999999999
+2016,Angus,Industrial & Commercial,266.445
+2016,Angus,Public Sector,0.45499999999999996
+2016,Angus,Rail,38.344
+2016,Angus,Road Transport,928.75
+2016,Argyll and Bute,Agriculture,122.825
+2016,Argyll and Bute,Commercial,139.92899999999997
+2016,Argyll and Bute,Domestic,746.7909999999999
+2016,Argyll and Bute,Industrial,409.93399999999997
+2016,Argyll and Bute,Industrial & Commercial,226.178
+2016,Argyll and Bute,Public Sector,45.854
+2016,Argyll and Bute,Rail,5.185
+2016,Argyll and Bute,Road Transport,742.605
+2016,City of Edinburgh,Agriculture,10.813
+2016,City of Edinburgh,Commercial,1123.769
+2016,City of Edinburgh,Domestic,3628.867
+2016,City of Edinburgh,Industrial,2408.883
+2016,City of Edinburgh,Industrial & Commercial,1459.926
+2016,City of Edinburgh,Public Sector,4.213
+2016,City of Edinburgh,Rail,53.73
+2016,City of Edinburgh,Road Transport,2842.237
+2016,Clackmannanshire,Agriculture,10.347
+2016,Clackmannanshire,Commercial,335.513
+2016,Clackmannanshire,Domestic,402.968
+2016,Clackmannanshire,Industrial,712.695
+2016,Clackmannanshire,Industrial & Commercial,224.003
+2016,Clackmannanshire,Public Sector,0.11699999999999999
+2016,Clackmannanshire,Rail,0.249
+2016,Clackmannanshire,Road Transport,260.602
+2016,Dumfries and Galloway,Agriculture,519.838
+2016,Dumfries and Galloway,Commercial,401.635
+2016,Dumfries and Galloway,Domestic,1248.791
+2016,Dumfries and Galloway,Industrial,941.394
+2016,Dumfries and Galloway,Industrial & Commercial,536.155
+2016,Dumfries and Galloway,Public Sector,2.285
+2016,Dumfries and Galloway,Rail,23.793
+2016,Dumfries and Galloway,Road Transport,2115.186
+2016,Dundee City,Agriculture,1.082
+2016,Dundee City,Commercial,353.03
+2016,Dundee City,Domestic,1043.5900000000001
+2016,Dundee City,Industrial,781.55
+2016,Dundee City,Industrial & Commercial,385.402
+2016,Dundee City,Public Sector,0.696
+2016,Dundee City,Rail,11.418
+2016,Dundee City,Road Transport,729.987
+2016,East Ayrshire,Agriculture,100.341
+2016,East Ayrshire,Commercial,247.035
+2016,East Ayrshire,Domestic,997.424
+2016,East Ayrshire,Industrial,586.744
+2016,East Ayrshire,Industrial & Commercial,238.572
+2016,East Ayrshire,Public Sector,0.6659999999999999
+2016,East Ayrshire,Rail,4.47
+2016,East Ayrshire,Road Transport,883.3530000000001
+2016,East Dunbartonshire,Agriculture,9.361
+2016,East Dunbartonshire,Commercial,106.647
+2016,East Dunbartonshire,Domestic,952.848
+2016,East Dunbartonshire,Industrial,244.425
+2016,East Dunbartonshire,Industrial & Commercial,167.152
+2016,East Dunbartonshire,Public Sector,0.252
+2016,East Dunbartonshire,Rail,7.439
+2016,East Dunbartonshire,Road Transport,455.503
+2016,East Lothian,Agriculture,39.679
+2016,East Lothian,Commercial,185.363
+2016,East Lothian,Domestic,801.8789999999999
+2016,East Lothian,Industrial,961.423
+2016,East Lothian,Industrial & Commercial,274.336
+2016,East Lothian,Public Sector,0.353
+2016,East Lothian,Rail,33.182
+2016,East Lothian,Road Transport,749.7470000000001
+2016,East Renfrewshire,Agriculture,15.857
+2016,East Renfrewshire,Commercial,62.16
+2016,East Renfrewshire,Domestic,819.434
+2016,East Renfrewshire,Industrial,133.55599999999998
+2016,East Renfrewshire,Industrial & Commercial,78.03
+2016,East Renfrewshire,Public Sector,0.199
+2016,East Renfrewshire,Rail,2.705
+2016,East Renfrewshire,Road Transport,610.754
+2016,Falkirk,Agriculture,24.152
+2016,Falkirk,Commercial,302.423
+2016,Falkirk,Domestic,1220.7730000000001
+2016,Falkirk,Industrial,14577.783000000001
+2016,Falkirk,Industrial & Commercial,430.483
+2016,Falkirk,Public Sector,1.089
+2016,Falkirk,Rail,16.252
+2016,Falkirk,Road Transport,1407.768
+2016,Fife,Agriculture,92.705
+2016,Fife,Commercial,779.739
+2016,Fife,Domestic,3034.154
+2016,Fife,Industrial,6095.99
+2016,Fife,Industrial & Commercial,941.349
+2016,Fife,Public Sector,3.2279999999999998
+2016,Fife,Rail,86.754
+2016,Fife,Road Transport,2300.859
+2016,Glasgow City,Agriculture,4.108
+2016,Glasgow City,Commercial,1355.11
+2016,Glasgow City,Domestic,3869.528
+2016,Glasgow City,Industrial,2904.448
+2016,Glasgow City,Industrial & Commercial,1800.059
+2016,Glasgow City,Public Sector,5.424
+2016,Glasgow City,Rail,12.895
+2016,Glasgow City,Road Transport,3199.777
+2016,Highland,Agriculture,316.872
+2016,Highland,Commercial,923.789
+2016,Highland,Domestic,1942.424
+2016,Highland,Industrial,1922.0140000000001
+2016,Highland,Industrial & Commercial,903.548
+2016,Highland,Public Sector,39.489999999999995
+2016,Highland,Rail,55.492000000000004
+2016,Highland,Road Transport,2195.897
+2016,Inverclyde,Agriculture,7.905
+2016,Inverclyde,Commercial,116.931
+2016,Inverclyde,Domestic,622.15
+2016,Inverclyde,Industrial,240.027
+2016,Inverclyde,Industrial & Commercial,176.2
+2016,Inverclyde,Public Sector,0.486
+2016,Inverclyde,Rail,0.15
+2016,Inverclyde,Road Transport,437.327
+2016,Midlothian,Agriculture,23.184
+2016,Midlothian,Commercial,135.665
+2016,Midlothian,Domestic,676.61
+2016,Midlothian,Industrial,305.092
+2016,Midlothian,Industrial & Commercial,207.824
+2016,Midlothian,Public Sector,0.6859999999999999
+2016,Midlothian,Rail,9.182
+2016,Midlothian,Road Transport,582.654
+2016,Moray,Agriculture,97.116
+2016,Moray,Commercial,586.986
+2016,Moray,Domestic,795.576
+2016,Moray,Industrial,1303.1
+2016,Moray,Industrial & Commercial,308.514
+2016,Moray,Public Sector,4.265
+2016,Moray,Rail,9.282
+2016,Moray,Road Transport,611.024
+2016,Na h-Eileanan Siar,Agriculture,37.232
+2016,Na h-Eileanan Siar,Commercial,29.334000000000003
+2016,Na h-Eileanan Siar,Domestic,245.162
+2016,Na h-Eileanan Siar,Industrial,101.40899999999999
+2016,Na h-Eileanan Siar,Industrial & Commercial,62.773
+2016,Na h-Eileanan Siar,Public Sector,0.98
+2016,Na h-Eileanan Siar,Rail,0.0
+2016,Na h-Eileanan Siar,Road Transport,186.922
+2016,North Ayrshire,Agriculture,48.247
+2016,North Ayrshire,Commercial,1258.345
+2016,North Ayrshire,Domestic,1053.9740000000002
+2016,North Ayrshire,Industrial,2301.072
+2016,North Ayrshire,Industrial & Commercial,412.691
+2016,North Ayrshire,Public Sector,0.46299999999999997
+2016,North Ayrshire,Rail,2.187
+2016,North Ayrshire,Road Transport,625.6719999999999
+2016,North Lanarkshire,Agriculture,27.587
+2016,North Lanarkshire,Commercial,566.681
+2016,North Lanarkshire,Domestic,2585.853
+2016,North Lanarkshire,Industrial,1394.478
+2016,North Lanarkshire,Industrial & Commercial,788.254
+2016,North Lanarkshire,Public Sector,0.652
+2016,North Lanarkshire,Rail,20.063
+2016,North Lanarkshire,Road Transport,2735.689
+2016,Orkney Islands,Agriculture,127.477
+2016,Orkney Islands,Commercial,21.913999999999998
+2016,Orkney Islands,Domestic,169.132
+2016,Orkney Islands,Industrial,69.944
+2016,Orkney Islands,Industrial & Commercial,54.068
+2016,Orkney Islands,Public Sector,1.2530000000000001
+2016,Orkney Islands,Rail,0.0
+2016,Orkney Islands,Road Transport,115.733
+2016,Perth and Kinross,Agriculture,169.767
+2016,Perth and Kinross,Commercial,244.67000000000002
+2016,Perth and Kinross,Domestic,1274.902
+2016,Perth and Kinross,Industrial,565.287
+2016,Perth and Kinross,Industrial & Commercial,378.932
+2016,Perth and Kinross,Public Sector,1.194
+2016,Perth and Kinross,Rail,70.144
+2016,Perth and Kinross,Road Transport,2109.0699999999997
+2016,Renfrewshire,Agriculture,19.193
+2016,Renfrewshire,Commercial,348.049
+2016,Renfrewshire,Domestic,1338.3249999999998
+2016,Renfrewshire,Industrial,811.741
+2016,Renfrewshire,Industrial & Commercial,478.549
+2016,Renfrewshire,Public Sector,0.447
+2016,Renfrewshire,Rail,1.474
+2016,Renfrewshire,Road Transport,1172.4279999999999
+2016,Scottish Borders,Agriculture,292.732
+2016,Scottish Borders,Commercial,237.107
+2016,Scottish Borders,Domestic,990.037
+2016,Scottish Borders,Industrial,595.243
+2016,Scottish Borders,Industrial & Commercial,311.078
+2016,Scottish Borders,Public Sector,0.874
+2016,Scottish Borders,Rail,31.851
+2016,Scottish Borders,Road Transport,980.106
+2016,Shetland Islands,Agriculture,68.784
+2016,Shetland Islands,Commercial,36.529
+2016,Shetland Islands,Domestic,174.68099999999998
+2016,Shetland Islands,Industrial,130.455
+2016,Shetland Islands,Industrial & Commercial,89.858
+2016,Shetland Islands,Public Sector,0.9380000000000001
+2016,Shetland Islands,Rail,0.0
+2016,Shetland Islands,Road Transport,168.25400000000002
+2016,South Ayrshire,Agriculture,108.279
+2016,South Ayrshire,Commercial,296.101
+2016,South Ayrshire,Domestic,953.546
+2016,South Ayrshire,Industrial,738.4090000000001
+2016,South Ayrshire,Industrial & Commercial,271.955
+2016,South Ayrshire,Public Sector,0.462
+2016,South Ayrshire,Rail,4.589
+2016,South Ayrshire,Road Transport,818.886
+2016,South Lanarkshire,Agriculture,129.243
+2016,South Lanarkshire,Commercial,402.58299999999997
+2016,South Lanarkshire,Domestic,2584.9
+2016,South Lanarkshire,Industrial,1030.433
+2016,South Lanarkshire,Industrial & Commercial,578.149
+2016,South Lanarkshire,Public Sector,1.278
+2016,South Lanarkshire,Rail,29.669
+2016,South Lanarkshire,Road Transport,2501.942
+2016,Stirling,Agriculture,66.415
+2016,Stirling,Commercial,595.687
+2016,Stirling,Domestic,758.2
+2016,Stirling,Industrial,1117.406
+2016,Stirling,Industrial & Commercial,291.259
+2016,Stirling,Public Sector,1.069
+2016,Stirling,Rail,18.759
+2016,Stirling,Road Transport,1016.383
+2016,West Dunbartonshire,Agriculture,8.135
+2016,West Dunbartonshire,Commercial,143.856
+2016,West Dunbartonshire,Domestic,642.198
+2016,West Dunbartonshire,Industrial,314.68600000000004
+2016,West Dunbartonshire,Industrial & Commercial,193.898
+2016,West Dunbartonshire,Public Sector,0.973
+2016,West Dunbartonshire,Rail,0.993
+2016,West Dunbartonshire,Road Transport,534.282
+2016,West Lothian,Agriculture,30.169
+2016,West Lothian,Commercial,416.704
+2016,West Lothian,Domestic,1371.7649999999999
+2016,West Lothian,Industrial,937.12
+2016,West Lothian,Industrial & Commercial,542.206
+2016,West Lothian,Public Sector,0.614
+2016,West Lothian,Rail,13.591
+2016,West Lothian,Road Transport,1482.1899999999998
+2017,Aberdeen City,Agriculture,11.845
+2017,Aberdeen City,Commercial,611.279
+2017,Aberdeen City,Domestic,1792.236
+2017,Aberdeen City,Industrial,1555.316
+2017,Aberdeen City,Industrial & Commercial,736.533
+2017,Aberdeen City,Public Sector,20.433
+2017,Aberdeen City,Rail,10.671
+2017,Aberdeen City,Road Transport,1091.043
+2017,Aberdeenshire,Agriculture,369.221
+2017,Aberdeenshire,Commercial,374.56399999999996
+2017,Aberdeenshire,Domestic,2260.18
+2017,Aberdeenshire,Industrial,1031.614
+2017,Aberdeenshire,Industrial & Commercial,682.561
+2017,Aberdeenshire,Public Sector,2.8280000000000003
+2017,Aberdeenshire,Rail,42.251
+2017,Aberdeenshire,Road Transport,2551.246
+2017,Angus,Agriculture,86.544
+2017,Angus,Commercial,215.959
+2017,Angus,Domestic,967.5870000000001
+2017,Angus,Industrial,533.653
+2017,Angus,Industrial & Commercial,279.08
+2017,Angus,Public Sector,0.41500000000000004
+2017,Angus,Rail,37.913000000000004
+2017,Angus,Road Transport,959.9820000000001
+2017,Argyll and Bute,Agriculture,121.64
+2017,Argyll and Bute,Commercial,151.486
+2017,Argyll and Bute,Domestic,753.088
+2017,Argyll and Bute,Industrial,432.44
+2017,Argyll and Bute,Industrial & Commercial,236.187
+2017,Argyll and Bute,Public Sector,41.588
+2017,Argyll and Bute,Rail,5.116
+2017,Argyll and Bute,Road Transport,772.767
+2017,City of Edinburgh,Agriculture,10.71
+2017,City of Edinburgh,Commercial,1160.065
+2017,City of Edinburgh,Domestic,3709.095
+2017,City of Edinburgh,Industrial,2492.8239999999996
+2017,City of Edinburgh,Industrial & Commercial,1474.931
+2017,City of Edinburgh,Public Sector,4.005
+2017,City of Edinburgh,Rail,53.155
+2017,City of Edinburgh,Road Transport,2789.8639999999996
+2017,Clackmannanshire,Agriculture,10.247
+2017,Clackmannanshire,Commercial,339.221
+2017,Clackmannanshire,Domestic,411.663
+2017,Clackmannanshire,Industrial,725.2639999999999
+2017,Clackmannanshire,Industrial & Commercial,221.838
+2017,Clackmannanshire,Public Sector,0.081
+2017,Clackmannanshire,Rail,0.247
+2017,Clackmannanshire,Road Transport,263.616
+2017,Dumfries and Galloway,Agriculture,514.799
+2017,Dumfries and Galloway,Commercial,413.01800000000003
+2017,Dumfries and Galloway,Domestic,1255.671
+2017,Dumfries and Galloway,Industrial,964.171
+2017,Dumfries and Galloway,Industrial & Commercial,543.716
+2017,Dumfries and Galloway,Public Sector,2.178
+2017,Dumfries and Galloway,Rail,23.418
+2017,Dumfries and Galloway,Road Transport,2207.7780000000002
+2017,Dundee City,Agriculture,1.072
+2017,Dundee City,Commercial,349.298
+2017,Dundee City,Domestic,1061.125
+2017,Dundee City,Industrial,782.765
+2017,Dundee City,Industrial & Commercial,364.787
+2017,Dundee City,Public Sector,0.768
+2017,Dundee City,Rail,11.29
+2017,Dundee City,Road Transport,732.4269999999999
+2017,East Ayrshire,Agriculture,99.368
+2017,East Ayrshire,Commercial,282.646
+2017,East Ayrshire,Domestic,1008.482
+2017,East Ayrshire,Industrial,640.75
+2017,East Ayrshire,Industrial & Commercial,244.832
+2017,East Ayrshire,Public Sector,0.947
+2017,East Ayrshire,Rail,4.417
+2017,East Ayrshire,Road Transport,909.709
+2017,East Dunbartonshire,Agriculture,9.27
+2017,East Dunbartonshire,Commercial,109.94800000000001
+2017,East Dunbartonshire,Domestic,971.646
+2017,East Dunbartonshire,Industrial,254.156
+2017,East Dunbartonshire,Industrial & Commercial,168.43
+2017,East Dunbartonshire,Public Sector,0.252
+2017,East Dunbartonshire,Rail,7.367
+2017,East Dunbartonshire,Road Transport,459.68600000000004
+2017,East Lothian,Agriculture,39.3
+2017,East Lothian,Commercial,233.812
+2017,East Lothian,Domestic,820.377
+2017,East Lothian,Industrial,1039.118
+2017,East Lothian,Industrial & Commercial,296.46
+2017,East Lothian,Public Sector,0.356
+2017,East Lothian,Rail,32.753
+2017,East Lothian,Road Transport,812.687
+2017,East Renfrewshire,Agriculture,15.703
+2017,East Renfrewshire,Commercial,63.002
+2017,East Renfrewshire,Domestic,827.8019999999999
+2017,East Renfrewshire,Industrial,135.976
+2017,East Renfrewshire,Industrial & Commercial,79.816
+2017,East Renfrewshire,Public Sector,0.185
+2017,East Renfrewshire,Rail,2.68
+2017,East Renfrewshire,Road Transport,607.01
+2017,Falkirk,Agriculture,23.918
+2017,Falkirk,Commercial,299.61
+2017,Falkirk,Domestic,1242.129
+2017,Falkirk,Industrial,15037.092
+2017,Falkirk,Industrial & Commercial,434.126
+2017,Falkirk,Public Sector,0.899
+2017,Falkirk,Rail,16.037
+2017,Falkirk,Road Transport,1420.067
+2017,Fife,Agriculture,91.824
+2017,Fife,Commercial,755.304
+2017,Fife,Domestic,3088.9040000000005
+2017,Fife,Industrial,7249.427
+2017,Fife,Industrial & Commercial,939.74
+2017,Fife,Public Sector,3.3209999999999997
+2017,Fife,Rail,85.93
+2017,Fife,Road Transport,2371.469
+2017,Glasgow City,Agriculture,4.068
+2017,Glasgow City,Commercial,1381.312
+2017,Glasgow City,Domestic,3925.297
+2017,Glasgow City,Industrial,2985.5420000000004
+2017,Glasgow City,Industrial & Commercial,1835.789
+2017,Glasgow City,Public Sector,4.563
+2017,Glasgow City,Rail,12.749
+2017,Glasgow City,Road Transport,3200.674
+2017,Highland,Agriculture,313.812
+2017,Highland,Commercial,955.5550000000001
+2017,Highland,Domestic,1924.846
+2017,Highland,Industrial,1984.791
+2017,Highland,Industrial & Commercial,927.84
+2017,Highland,Public Sector,39.891000000000005
+2017,Highland,Rail,54.785
+2017,Highland,Road Transport,2282.4260000000004
+2017,Inverclyde,Agriculture,7.828
+2017,Inverclyde,Commercial,125.39599999999999
+2017,Inverclyde,Domestic,630.48
+2017,Inverclyde,Industrial,259.922
+2017,Inverclyde,Industrial & Commercial,177.013
+2017,Inverclyde,Public Sector,0.42300000000000004
+2017,Inverclyde,Rail,0.146
+2017,Inverclyde,Road Transport,438.604
+2017,Midlothian,Agriculture,22.96
+2017,Midlothian,Commercial,143.90699999999998
+2017,Midlothian,Domestic,685.5450000000001
+2017,Midlothian,Industrial,318.596
+2017,Midlothian,Industrial & Commercial,210.666
+2017,Midlothian,Public Sector,1.016
+2017,Midlothian,Rail,9.097
+2017,Midlothian,Road Transport,570.94
+2017,Moray,Agriculture,96.179
+2017,Moray,Commercial,566.86
+2017,Moray,Domestic,793.822
+2017,Moray,Industrial,1270.655
+2017,Moray,Industrial & Commercial,308.483
+2017,Moray,Public Sector,4.192
+2017,Moray,Rail,9.197000000000001
+2017,Moray,Road Transport,635.048
+2017,Na h-Eileanan Siar,Agriculture,36.873
+2017,Na h-Eileanan Siar,Commercial,35.205999999999996
+2017,Na h-Eileanan Siar,Domestic,245.857
+2017,Na h-Eileanan Siar,Industrial,112.763
+2017,Na h-Eileanan Siar,Industrial & Commercial,68.921
+2017,Na h-Eileanan Siar,Public Sector,1.1219999999999999
+2017,Na h-Eileanan Siar,Rail,0.0
+2017,Na h-Eileanan Siar,Road Transport,173.12800000000001
+2017,North Ayrshire,Agriculture,47.779
+2017,North Ayrshire,Commercial,1234.838
+2017,North Ayrshire,Domestic,1070.727
+2017,North Ayrshire,Industrial,2261.426
+2017,North Ayrshire,Industrial & Commercial,438.901
+2017,North Ayrshire,Public Sector,0.465
+2017,North Ayrshire,Rail,2.141
+2017,North Ayrshire,Road Transport,639.63
+2017,North Lanarkshire,Agriculture,27.319
+2017,North Lanarkshire,Commercial,579.9010000000001
+2017,North Lanarkshire,Domestic,2621.515
+2017,North Lanarkshire,Industrial,1448.514
+2017,North Lanarkshire,Industrial & Commercial,797.033
+2017,North Lanarkshire,Public Sector,1.064
+2017,North Lanarkshire,Rail,19.764
+2017,North Lanarkshire,Road Transport,2855.2670000000003
+2017,Orkney Islands,Agriculture,126.243
+2017,Orkney Islands,Commercial,23.811
+2017,Orkney Islands,Domestic,167.00400000000002
+2017,Orkney Islands,Industrial,75.078
+2017,Orkney Islands,Industrial & Commercial,57.168
+2017,Orkney Islands,Public Sector,1.659
+2017,Orkney Islands,Rail,0.0
+2017,Orkney Islands,Road Transport,118.403
+2017,Perth and Kinross,Agriculture,168.147
+2017,Perth and Kinross,Commercial,258.919
+2017,Perth and Kinross,Domestic,1285.623
+2017,Perth and Kinross,Industrial,602.251
+2017,Perth and Kinross,Industrial & Commercial,396.741
+2017,Perth and Kinross,Public Sector,1.198
+2017,Perth and Kinross,Rail,69.236
+2017,Perth and Kinross,Road Transport,2223.6910000000003
+2017,Renfrewshire,Agriculture,19.007
+2017,Renfrewshire,Commercial,351.698
+2017,Renfrewshire,Domestic,1361.77
+2017,Renfrewshire,Industrial,828.592
+2017,Renfrewshire,Industrial & Commercial,484.335
+2017,Renfrewshire,Public Sector,0.8140000000000001
+2017,Renfrewshire,Rail,1.442
+2017,Renfrewshire,Road Transport,1205.239
+2017,Scottish Borders,Agriculture,289.896
+2017,Scottish Borders,Commercial,261.293
+2017,Scottish Borders,Domestic,994.533
+2017,Scottish Borders,Industrial,631.456
+2017,Scottish Borders,Industrial & Commercial,319.585
+2017,Scottish Borders,Public Sector,0.73
+2017,Scottish Borders,Rail,31.493
+2017,Scottish Borders,Road Transport,1030.898
+2017,Shetland Islands,Agriculture,68.122
+2017,Shetland Islands,Commercial,39.165
+2017,Shetland Islands,Domestic,170.918
+2017,Shetland Islands,Industrial,138.748
+2017,Shetland Islands,Industrial & Commercial,92.663
+2017,Shetland Islands,Public Sector,1.1360000000000001
+2017,Shetland Islands,Rail,0.0
+2017,Shetland Islands,Road Transport,171.625
+2017,South Ayrshire,Agriculture,107.228
+2017,South Ayrshire,Commercial,294.453
+2017,South Ayrshire,Domestic,964.2719999999999
+2017,South Ayrshire,Industrial,750.1
+2017,South Ayrshire,Industrial & Commercial,277.925
+2017,South Ayrshire,Public Sector,0.431
+2017,South Ayrshire,Rail,4.532
+2017,South Ayrshire,Road Transport,843.3739999999999
+2017,South Lanarkshire,Agriculture,127.99
+2017,South Lanarkshire,Commercial,422.83500000000004
+2017,South Lanarkshire,Domestic,2612.233
+2017,South Lanarkshire,Industrial,1089.828
+2017,South Lanarkshire,Industrial & Commercial,594.41
+2017,South Lanarkshire,Public Sector,1.166
+2017,South Lanarkshire,Rail,29.23
+2017,South Lanarkshire,Road Transport,2641.98
+2017,Stirling,Agriculture,65.774
+2017,Stirling,Commercial,627.035
+2017,Stirling,Domestic,770.096
+2017,Stirling,Industrial,1154.6
+2017,Stirling,Industrial & Commercial,276.938
+2017,Stirling,Public Sector,1.034
+2017,Stirling,Rail,18.52
+2017,Stirling,Road Transport,1045.223
+2017,West Dunbartonshire,Agriculture,8.056
+2017,West Dunbartonshire,Commercial,141.22
+2017,West Dunbartonshire,Domestic,649.852
+2017,West Dunbartonshire,Industrial,311.238
+2017,West Dunbartonshire,Industrial & Commercial,194.242
+2017,West Dunbartonshire,Public Sector,1.051
+2017,West Dunbartonshire,Rail,0.978
+2017,West Dunbartonshire,Road Transport,530.854
+2017,West Lothian,Agriculture,29.877
+2017,West Lothian,Commercial,452.978
+2017,West Lothian,Domestic,1400.5929999999998
+2017,West Lothian,Industrial,1026.748
+2017,West Lothian,Industrial & Commercial,542.516
+2017,West Lothian,Public Sector,0.698
+2017,West Lothian,Rail,13.416
+2017,West Lothian,Road Transport,1515.336
+2018,Aberdeen City,Agriculture,11.8
+2018,Aberdeen City,Commercial,740.0459999999999
+2018,Aberdeen City,Domestic,1771.2140000000002
+2018,Aberdeen City,Industrial,1421.7450000000001
+2018,Aberdeen City,Industrial & Commercial,742.392
+2018,Aberdeen City,Public Sector,20.663
+2018,Aberdeen City,Rail,10.11
+2018,Aberdeen City,Road Transport,1087.449
+2018,Aberdeenshire,Agriculture,367.774
+2018,Aberdeenshire,Commercial,450.755
+2018,Aberdeenshire,Domestic,2274.195
+2018,Aberdeenshire,Industrial,964.276
+2018,Aberdeenshire,Industrial & Commercial,671.246
+2018,Aberdeenshire,Public Sector,3.0060000000000002
+2018,Aberdeenshire,Rail,40.003
+2018,Aberdeenshire,Road Transport,2450.441
+2018,Angus,Agriculture,86.135
+2018,Angus,Commercial,273.049
+2018,Angus,Domestic,964.4359999999999
+2018,Angus,Industrial,501.15
+2018,Angus,Industrial & Commercial,295.091
+2018,Angus,Public Sector,0.43800000000000006
+2018,Angus,Rail,35.882000000000005
+2018,Angus,Road Transport,944.712
+2018,Argyll and Bute,Agriculture,121.184
+2018,Argyll and Bute,Commercial,186.982
+2018,Argyll and Bute,Domestic,751.145
+2018,Argyll and Bute,Industrial,416.36800000000005
+2018,Argyll and Bute,Industrial & Commercial,240.09
+2018,Argyll and Bute,Public Sector,55.114000000000004
+2018,Argyll and Bute,Rail,4.831
+2018,Argyll and Bute,Road Transport,756.659
+2018,City of Edinburgh,Agriculture,10.666
+2018,City of Edinburgh,Commercial,1412.4850000000001
+2018,City of Edinburgh,Domestic,3645.988
+2018,City of Edinburgh,Industrial,2223.0789999999997
+2018,City of Edinburgh,Industrial & Commercial,1460.594
+2018,City of Edinburgh,Public Sector,5.499
+2018,City of Edinburgh,Rail,50.35
+2018,City of Edinburgh,Road Transport,2747.025
+2018,Clackmannanshire,Agriculture,10.21
+2018,Clackmannanshire,Commercial,430.473
+2018,Clackmannanshire,Domestic,403.59499999999997
+2018,Clackmannanshire,Industrial,645.279
+2018,Clackmannanshire,Industrial & Commercial,216.443
+2018,Clackmannanshire,Public Sector,0.08299999999999999
+2018,Clackmannanshire,Rail,0.234
+2018,Clackmannanshire,Road Transport,266.769
+2018,Dumfries and Galloway,Agriculture,512.968
+2018,Dumfries and Galloway,Commercial,498.147
+2018,Dumfries and Galloway,Domestic,1252.908
+2018,Dumfries and Galloway,Industrial,881.901
+2018,Dumfries and Galloway,Industrial & Commercial,534.143
+2018,Dumfries and Galloway,Public Sector,2.318
+2018,Dumfries and Galloway,Rail,22.024
+2018,Dumfries and Galloway,Road Transport,2143.356
+2018,Dundee City,Agriculture,1.067
+2018,Dundee City,Commercial,424.068
+2018,Dundee City,Domestic,1046.209
+2018,Dundee City,Industrial,689.664
+2018,Dundee City,Industrial & Commercial,359.522
+2018,Dundee City,Public Sector,0.641
+2018,Dundee City,Rail,10.688
+2018,Dundee City,Road Transport,733.865
+2018,East Ayrshire,Agriculture,99.017
+2018,East Ayrshire,Commercial,336.724
+2018,East Ayrshire,Domestic,1002.829
+2018,East Ayrshire,Industrial,609.363
+2018,East Ayrshire,Industrial & Commercial,239.486
+2018,East Ayrshire,Public Sector,1.008
+2018,East Ayrshire,Rail,4.181
+2018,East Ayrshire,Road Transport,916.114
+2018,East Dunbartonshire,Agriculture,9.237
+2018,East Dunbartonshire,Commercial,131.815
+2018,East Dunbartonshire,Domestic,960.787
+2018,East Dunbartonshire,Industrial,228.031
+2018,East Dunbartonshire,Industrial & Commercial,167.21
+2018,East Dunbartonshire,Public Sector,0.257
+2018,East Dunbartonshire,Rail,6.99
+2018,East Dunbartonshire,Road Transport,462.809
+2018,East Lothian,Agriculture,39.134
+2018,East Lothian,Commercial,315.181
+2018,East Lothian,Domestic,818.783
+2018,East Lothian,Industrial,1002.925
+2018,East Lothian,Industrial & Commercial,295.323
+2018,East Lothian,Public Sector,0.375
+2018,East Lothian,Rail,30.903
+2018,East Lothian,Road Transport,814.326
+2018,East Renfrewshire,Agriculture,15.646
+2018,East Renfrewshire,Commercial,79.67399999999999
+2018,East Renfrewshire,Domestic,823.2439999999999
+2018,East Renfrewshire,Industrial,125.575
+2018,East Renfrewshire,Industrial & Commercial,76.128
+2018,East Renfrewshire,Public Sector,0.187
+2018,East Renfrewshire,Rail,2.545
+2018,East Renfrewshire,Road Transport,610.655
+2018,Falkirk,Agriculture,23.833
+2018,Falkirk,Commercial,362.706
+2018,Falkirk,Domestic,1230.003
+2018,Falkirk,Industrial,15054.061
+2018,Falkirk,Industrial & Commercial,420.368
+2018,Falkirk,Public Sector,1.1320000000000001
+2018,Falkirk,Rail,15.157
+2018,Falkirk,Road Transport,1403.2469999999998
+2018,Fife,Agriculture,91.418
+2018,Fife,Commercial,884.75
+2018,Fife,Domestic,3035.594
+2018,Fife,Industrial,5639.808
+2018,Fife,Industrial & Commercial,911.896
+2018,Fife,Public Sector,3.45
+2018,Fife,Rail,81.545
+2018,Fife,Road Transport,2363.2769999999996
+2018,Glasgow City,Agriculture,4.053
+2018,Glasgow City,Commercial,1687.6180000000002
+2018,Glasgow City,Domestic,3883.684
+2018,Glasgow City,Industrial,2678.267
+2018,Glasgow City,Industrial & Commercial,1803.608
+2018,Glasgow City,Public Sector,30.432
+2018,Glasgow City,Rail,12.068
+2018,Glasgow City,Road Transport,3167.773
+2018,Highland,Agriculture,312.646
+2018,Highland,Commercial,1036.081
+2018,Highland,Domestic,1955.575
+2018,Highland,Industrial,1833.4750000000001
+2018,Highland,Industrial & Commercial,921.595
+2018,Highland,Public Sector,40.357
+2018,Highland,Rail,51.882999999999996
+2018,Highland,Road Transport,2291.596
+2018,Inverclyde,Agriculture,7.801
+2018,Inverclyde,Commercial,139.656
+2018,Inverclyde,Domestic,623.215
+2018,Inverclyde,Industrial,212.495
+2018,Inverclyde,Industrial & Commercial,172.361
+2018,Inverclyde,Public Sector,0.427
+2018,Inverclyde,Rail,0.137
+2018,Inverclyde,Road Transport,432.741
+2018,Midlothian,Agriculture,22.875
+2018,Midlothian,Commercial,173.262
+2018,Midlothian,Domestic,685.477
+2018,Midlothian,Industrial,289.297
+2018,Midlothian,Industrial & Commercial,210.011
+2018,Midlothian,Public Sector,1.086
+2018,Midlothian,Rail,8.638
+2018,Midlothian,Road Transport,569.654
+2018,Moray,Agriculture,95.818
+2018,Moray,Commercial,718.4230000000001
+2018,Moray,Domestic,799.5409999999999
+2018,Moray,Industrial,1148.383
+2018,Moray,Industrial & Commercial,304.488
+2018,Moray,Public Sector,4.2250000000000005
+2018,Moray,Rail,8.770999999999999
+2018,Moray,Road Transport,642.217
+2018,Na h-Eileanan Siar,Agriculture,36.735
+2018,Na h-Eileanan Siar,Commercial,41.35
+2018,Na h-Eileanan Siar,Domestic,251.95400000000004
+2018,Na h-Eileanan Siar,Industrial,110.839
+2018,Na h-Eileanan Siar,Industrial & Commercial,65.656
+2018,Na h-Eileanan Siar,Public Sector,1.1869999999999998
+2018,Na h-Eileanan Siar,Rail,0.0
+2018,Na h-Eileanan Siar,Road Transport,171.05900000000003
+2018,North Ayrshire,Agriculture,47.611
+2018,North Ayrshire,Commercial,1324.5859999999998
+2018,North Ayrshire,Domestic,1058.128
+2018,North Ayrshire,Industrial,2003.304
+2018,North Ayrshire,Industrial & Commercial,420.853
+2018,North Ayrshire,Public Sector,0.485
+2018,North Ayrshire,Rail,2.0
+2018,North Ayrshire,Road Transport,630.672
+2018,North Lanarkshire,Agriculture,27.221
+2018,North Lanarkshire,Commercial,733.3349999999999
+2018,North Lanarkshire,Domestic,2587.583
+2018,North Lanarkshire,Industrial,1367.887
+2018,North Lanarkshire,Industrial & Commercial,793.863
+2018,North Lanarkshire,Public Sector,1.091
+2018,North Lanarkshire,Rail,18.614
+2018,North Lanarkshire,Road Transport,3085.911
+2018,Orkney Islands,Agriculture,125.788
+2018,Orkney Islands,Commercial,28.328
+2018,Orkney Islands,Domestic,169.79500000000002
+2018,Orkney Islands,Industrial,73.642
+2018,Orkney Islands,Industrial & Commercial,57.846
+2018,Orkney Islands,Public Sector,1.78
+2018,Orkney Islands,Rail,0.0
+2018,Orkney Islands,Road Transport,116.561
+2018,Perth and Kinross,Agriculture,167.435
+2018,Perth and Kinross,Commercial,306.694
+2018,Perth and Kinross,Domestic,1292.313
+2018,Perth and Kinross,Industrial,538.558
+2018,Perth and Kinross,Industrial & Commercial,393.103
+2018,Perth and Kinross,Public Sector,1.272
+2018,Perth and Kinross,Rail,65.389
+2018,Perth and Kinross,Road Transport,2187.323
+2018,Renfrewshire,Agriculture,18.94
+2018,Renfrewshire,Commercial,420.722
+2018,Renfrewshire,Domestic,1350.7740000000001
+2018,Renfrewshire,Industrial,739.452
+2018,Renfrewshire,Industrial & Commercial,476.101
+2018,Renfrewshire,Public Sector,0.8330000000000001
+2018,Renfrewshire,Rail,1.345
+2018,Renfrewshire,Road Transport,1219.104
+2018,Scottish Borders,Agriculture,288.858
+2018,Scottish Borders,Commercial,314.636
+2018,Scottish Borders,Domestic,993.8230000000001
+2018,Scottish Borders,Industrial,594.136
+2018,Scottish Borders,Industrial & Commercial,316.58
+2018,Scottish Borders,Public Sector,0.916
+2018,Scottish Borders,Rail,29.801
+2018,Scottish Borders,Road Transport,1034.175
+2018,Shetland Islands,Agriculture,67.859
+2018,Shetland Islands,Commercial,44.572
+2018,Shetland Islands,Domestic,170.96300000000002
+2018,Shetland Islands,Industrial,134.562
+2018,Shetland Islands,Industrial & Commercial,88.413
+2018,Shetland Islands,Public Sector,1.2189999999999999
+2018,Shetland Islands,Rail,0.0
+2018,Shetland Islands,Road Transport,169.375
+2018,South Ayrshire,Agriculture,106.852
+2018,South Ayrshire,Commercial,315.123
+2018,South Ayrshire,Domestic,956.663
+2018,South Ayrshire,Industrial,575.469
+2018,South Ayrshire,Industrial & Commercial,277.645
+2018,South Ayrshire,Public Sector,0.44699999999999995
+2018,South Ayrshire,Rail,4.284
+2018,South Ayrshire,Road Transport,836.209
+2018,South Lanarkshire,Agriculture,127.536
+2018,South Lanarkshire,Commercial,518.367
+2018,South Lanarkshire,Domestic,2593.279
+2018,South Lanarkshire,Industrial,1014.297
+2018,South Lanarkshire,Industrial & Commercial,581.515
+2018,South Lanarkshire,Public Sector,1.217
+2018,South Lanarkshire,Rail,27.517
+2018,South Lanarkshire,Road Transport,2625.204
+2018,Stirling,Agriculture,65.528
+2018,Stirling,Commercial,715.125
+2018,Stirling,Domestic,762.0609999999999
+2018,Stirling,Industrial,1076.234
+2018,Stirling,Industrial & Commercial,287.489
+2018,Stirling,Public Sector,1.058
+2018,Stirling,Rail,17.497
+2018,Stirling,Road Transport,1078.454
+2018,West Dunbartonshire,Agriculture,8.028
+2018,West Dunbartonshire,Commercial,164.18900000000002
+2018,West Dunbartonshire,Domestic,639.478
+2018,West Dunbartonshire,Industrial,267.823
+2018,West Dunbartonshire,Industrial & Commercial,188.953
+2018,West Dunbartonshire,Public Sector,1.059
+2018,West Dunbartonshire,Rail,0.922
+2018,West Dunbartonshire,Road Transport,528.272
+2018,West Lothian,Agriculture,29.767
+2018,West Lothian,Commercial,553.886
+2018,West Lothian,Domestic,1388.191
+2018,West Lothian,Industrial,920.1279999999999
+2018,West Lothian,Industrial & Commercial,524.667
+2018,West Lothian,Public Sector,0.715
+2018,West Lothian,Rail,12.668
+2018,West Lothian,Road Transport,1540.174
+2019,Aberdeen City,Agriculture,11.827
+2019,Aberdeen City,Commercial,791.568
+2019,Aberdeen City,Domestic,1783.1299999999999
+2019,Aberdeen City,Industrial,1223.004
+2019,Aberdeen City,Industrial & Commercial,700.199
+2019,Aberdeen City,Public Sector,20.000999999999998
+2019,Aberdeen City,Rail,10.338
+2019,Aberdeen City,Road Transport,1260.5929999999998
+2019,Aberdeenshire,Agriculture,368.639
+2019,Aberdeenshire,Commercial,503.44
+2019,Aberdeenshire,Domestic,2245.6499999999996
+2019,Aberdeenshire,Industrial,826.0260000000001
+2019,Aberdeenshire,Industrial & Commercial,657.695
+2019,Aberdeenshire,Public Sector,2.492
+2019,Aberdeenshire,Rail,41.031
+2019,Aberdeenshire,Road Transport,2540.519
+2019,Angus,Agriculture,86.368
+2019,Angus,Commercial,286.34299999999996
+2019,Angus,Domestic,963.8850000000001
+2019,Angus,Industrial,419.27799999999996
+2019,Angus,Industrial & Commercial,289.985
+2019,Angus,Public Sector,0.372
+2019,Angus,Rail,36.867000000000004
+2019,Angus,Road Transport,943.558
+2019,Argyll and Bute,Agriculture,121.46
+2019,Argyll and Bute,Commercial,208.119
+2019,Argyll and Bute,Domestic,745.3240000000001
+2019,Argyll and Bute,Industrial,354.805
+2019,Argyll and Bute,Industrial & Commercial,240.566
+2019,Argyll and Bute,Public Sector,41.817
+2019,Argyll and Bute,Rail,5.066
+2019,Argyll and Bute,Road Transport,746.8629999999999
+2019,City of Edinburgh,Agriculture,10.692
+2019,City of Edinburgh,Commercial,1535.591
+2019,City of Edinburgh,Domestic,3723.221
+2019,City of Edinburgh,Industrial,1921.5800000000002
+2019,City of Edinburgh,Industrial & Commercial,1443.164
+2019,City of Edinburgh,Public Sector,5.3759999999999994
+2019,City of Edinburgh,Rail,51.549
+2019,City of Edinburgh,Road Transport,2736.612
+2019,Clackmannanshire,Agriculture,10.232
+2019,Clackmannanshire,Commercial,475.67400000000004
+2019,Clackmannanshire,Domestic,407.45599999999996
+2019,Clackmannanshire,Industrial,571.236
+2019,Clackmannanshire,Industrial & Commercial,215.921
+2019,Clackmannanshire,Public Sector,0.07
+2019,Clackmannanshire,Rail,0.238
+2019,Clackmannanshire,Road Transport,271.613
+2019,Dumfries and Galloway,Agriculture,514.095
+2019,Dumfries and Galloway,Commercial,538.7339999999999
+2019,Dumfries and Galloway,Domestic,1235.266
+2019,Dumfries and Galloway,Industrial,750.898
+2019,Dumfries and Galloway,Industrial & Commercial,513.761
+2019,Dumfries and Galloway,Public Sector,1.964
+2019,Dumfries and Galloway,Rail,23.496
+2019,Dumfries and Galloway,Road Transport,2163.7149999999997
+2019,Dundee City,Agriculture,1.069
+2019,Dundee City,Commercial,436.013
+2019,Dundee City,Domestic,1053.726
+2019,Dundee City,Industrial,570.453
+2019,Dundee City,Industrial & Commercial,348.145
+2019,Dundee City,Public Sector,0.651
+2019,Dundee City,Rail,10.988
+2019,Dundee City,Road Transport,732.097
+2019,East Ayrshire,Agriculture,99.233
+2019,East Ayrshire,Commercial,351.005
+2019,East Ayrshire,Domestic,1006.2529999999999
+2019,East Ayrshire,Industrial,527.092
+2019,East Ayrshire,Industrial & Commercial,233.533
+2019,East Ayrshire,Public Sector,0.845
+2019,East Ayrshire,Rail,4.333
+2019,East Ayrshire,Road Transport,952.31
+2019,East Dunbartonshire,Agriculture,9.257
+2019,East Dunbartonshire,Commercial,144.97299999999998
+2019,East Dunbartonshire,Domestic,962.7059999999999
+2019,East Dunbartonshire,Industrial,194.641
+2019,East Dunbartonshire,Industrial & Commercial,160.938
+2019,East Dunbartonshire,Public Sector,0.212
+2019,East Dunbartonshire,Rail,7.109
+2019,East Dunbartonshire,Road Transport,467.433
+2019,East Lothian,Agriculture,39.231
+2019,East Lothian,Commercial,349.04200000000003
+2019,East Lothian,Domestic,837.667
+2019,East Lothian,Industrial,949.855
+2019,East Lothian,Industrial & Commercial,281.104
+2019,East Lothian,Public Sector,0.318
+2019,East Lothian,Rail,32.024
+2019,East Lothian,Road Transport,822.351
+2019,East Renfrewshire,Agriculture,15.681
+2019,East Renfrewshire,Commercial,86.04599999999999
+2019,East Renfrewshire,Domestic,833.1800000000001
+2019,East Renfrewshire,Industrial,106.992
+2019,East Renfrewshire,Industrial & Commercial,74.34
+2019,East Renfrewshire,Public Sector,0.156
+2019,East Renfrewshire,Rail,2.585
+2019,East Renfrewshire,Road Transport,609.1850000000001
+2019,Falkirk,Agriculture,23.885
+2019,Falkirk,Commercial,357.355
+2019,Falkirk,Domestic,1238.887
+2019,Falkirk,Industrial,13174.481
+2019,Falkirk,Industrial & Commercial,406.217
+2019,Falkirk,Public Sector,0.7190000000000001
+2019,Falkirk,Rail,15.891
+2019,Falkirk,Road Transport,1398.137
+2019,Fife,Agriculture,91.653
+2019,Fife,Commercial,908.759
+2019,Fife,Domestic,3068.63
+2019,Fife,Industrial,5001.326
+2019,Fife,Industrial & Commercial,878.958
+2019,Fife,Public Sector,2.822
+2019,Fife,Rail,82.781
+2019,Fife,Road Transport,2388.2030000000004
+2019,Glasgow City,Agriculture,4.062
+2019,Glasgow City,Commercial,1881.483
+2019,Glasgow City,Domestic,3920.753
+2019,Glasgow City,Industrial,2349.3379999999997
+2019,Glasgow City,Industrial & Commercial,1736.101
+2019,Glasgow City,Public Sector,4.321
+2019,Glasgow City,Rail,12.448
+2019,Glasgow City,Road Transport,3164.996
+2019,Highland,Agriculture,313.354
+2019,Highland,Commercial,1054.208
+2019,Highland,Domestic,1949.25
+2019,Highland,Industrial,1594.605
+2019,Highland,Industrial & Commercial,840.056
+2019,Highland,Public Sector,39.343
+2019,Highland,Rail,54.232
+2019,Highland,Road Transport,2293.6
+2019,Inverclyde,Agriculture,7.818
+2019,Inverclyde,Commercial,156.145
+2019,Inverclyde,Domestic,622.479
+2019,Inverclyde,Industrial,186.394
+2019,Inverclyde,Industrial & Commercial,167.891
+2019,Inverclyde,Public Sector,0.385
+2019,Inverclyde,Rail,0.153
+2019,Inverclyde,Road Transport,425.69300000000004
+2019,Midlothian,Agriculture,22.927
+2019,Midlothian,Commercial,192.19
+2019,Midlothian,Domestic,702.614
+2019,Midlothian,Industrial,251.14999999999998
+2019,Midlothian,Industrial & Commercial,201.531
+2019,Midlothian,Public Sector,0.899
+2019,Midlothian,Rail,8.779
+2019,Midlothian,Road Transport,584.1750000000001
+2019,Moray,Agriculture,96.036
+2019,Moray,Commercial,809.063
+2019,Moray,Domestic,799.844
+2019,Moray,Industrial,1101.084
+2019,Moray,Industrial & Commercial,296.027
+2019,Moray,Public Sector,4.13
+2019,Moray,Rail,8.914
+2019,Moray,Road Transport,661.187
+2019,Na h-Eileanan Siar,Agriculture,36.819
+2019,Na h-Eileanan Siar,Commercial,46.395
+2019,Na h-Eileanan Siar,Domestic,244.921
+2019,Na h-Eileanan Siar,Industrial,97.133
+2019,Na h-Eileanan Siar,Industrial & Commercial,67.721
+2019,Na h-Eileanan Siar,Public Sector,0.987
+2019,Na h-Eileanan Siar,Rail,0.0
+2019,Na h-Eileanan Siar,Road Transport,170.279
+2019,North Ayrshire,Agriculture,47.715
+2019,North Ayrshire,Commercial,1462.257
+2019,North Ayrshire,Domestic,1065.465
+2019,North Ayrshire,Industrial,1926.373
+2019,North Ayrshire,Industrial & Commercial,428.71
+2019,North Ayrshire,Public Sector,0.40700000000000003
+2019,North Ayrshire,Rail,2.234
+2019,North Ayrshire,Road Transport,631.72
+2019,North Lanarkshire,Agriculture,27.281
+2019,North Lanarkshire,Commercial,782.909
+2019,North Lanarkshire,Domestic,2616.9900000000002
+2019,North Lanarkshire,Industrial,1150.703
+2019,North Lanarkshire,Industrial & Commercial,779.805
+2019,North Lanarkshire,Public Sector,0.882
+2019,North Lanarkshire,Rail,19.741
+2019,North Lanarkshire,Road Transport,3064.366
+2019,Orkney Islands,Agriculture,126.067
+2019,Orkney Islands,Commercial,33.158
+2019,Orkney Islands,Domestic,166.55800000000002
+2019,Orkney Islands,Industrial,65.016
+2019,Orkney Islands,Industrial & Commercial,59.978
+2019,Orkney Islands,Public Sector,1.478
+2019,Orkney Islands,Rail,0.0
+2019,Orkney Islands,Road Transport,116.855
+2019,Perth and Kinross,Agriculture,167.851
+2019,Perth and Kinross,Commercial,332.692
+2019,Perth and Kinross,Domestic,1293.5900000000001
+2019,Perth and Kinross,Industrial,451.838
+2019,Perth and Kinross,Industrial & Commercial,378.532
+2019,Perth and Kinross,Public Sector,1.058
+2019,Perth and Kinross,Rail,68.299
+2019,Perth and Kinross,Road Transport,2164.52
+2019,Renfrewshire,Agriculture,18.981
+2019,Renfrewshire,Commercial,471.356
+2019,Renfrewshire,Domestic,1361.896
+2019,Renfrewshire,Industrial,659.3960000000001
+2019,Renfrewshire,Industrial & Commercial,467.563
+2019,Renfrewshire,Public Sector,0.663
+2019,Renfrewshire,Rail,1.513
+2019,Renfrewshire,Road Transport,1232.911
+2019,Scottish Borders,Agriculture,289.495
+2019,Scottish Borders,Commercial,337.108
+2019,Scottish Borders,Domestic,988.545
+2019,Scottish Borders,Industrial,507.685
+2019,Scottish Borders,Industrial & Commercial,305.994
+2019,Scottish Borders,Public Sector,0.6799999999999999
+2019,Scottish Borders,Rail,30.587
+2019,Scottish Borders,Road Transport,1020.265
+2019,Shetland Islands,Agriculture,68.017
+2019,Shetland Islands,Commercial,48.397
+2019,Shetland Islands,Domestic,168.122
+2019,Shetland Islands,Industrial,116.991
+2019,Shetland Islands,Industrial & Commercial,84.568
+2019,Shetland Islands,Public Sector,1.02
+2019,Shetland Islands,Rail,0.0
+2019,Shetland Islands,Road Transport,169.47199999999998
+2019,South Ayrshire,Agriculture,107.084
+2019,South Ayrshire,Commercial,401.791
+2019,South Ayrshire,Domestic,964.068
+2019,South Ayrshire,Industrial,573.537
+2019,South Ayrshire,Industrial & Commercial,268.228
+2019,South Ayrshire,Public Sector,0.373
+2019,South Ayrshire,Rail,4.469
+2019,South Ayrshire,Road Transport,838.5350000000001
+2019,South Lanarkshire,Agriculture,127.816
+2019,South Lanarkshire,Commercial,557.876
+2019,South Lanarkshire,Domestic,2624.012
+2019,South Lanarkshire,Industrial,855.354
+2019,South Lanarkshire,Industrial & Commercial,565.887
+2019,South Lanarkshire,Public Sector,1.037
+2019,South Lanarkshire,Rail,29.053
+2019,South Lanarkshire,Road Transport,2627.322
+2019,Stirling,Agriculture,65.677
+2019,Stirling,Commercial,746.168
+2019,Stirling,Domestic,761.223
+2019,Stirling,Industrial,977.92
+2019,Stirling,Industrial & Commercial,271.621
+2019,Stirling,Public Sector,0.9610000000000001
+2019,Stirling,Rail,18.241
+2019,Stirling,Road Transport,1075.7649999999999
+2019,West Dunbartonshire,Agriculture,8.045
+2019,West Dunbartonshire,Commercial,211.187
+2019,West Dunbartonshire,Domestic,640.2929999999999
+2019,West Dunbartonshire,Industrial,265.676
+2019,West Dunbartonshire,Industrial & Commercial,203.829
+2019,West Dunbartonshire,Public Sector,0.996
+2019,West Dunbartonshire,Rail,0.979
+2019,West Dunbartonshire,Road Transport,526.506
+2019,West Lothian,Agriculture,29.834
+2019,West Lothian,Commercial,742.853
+2019,West Lothian,Domestic,1414.971
+2019,West Lothian,Industrial,957.722
+2019,West Lothian,Industrial & Commercial,503.297
+2019,West Lothian,Public Sector,0.585
+2019,West Lothian,Rail,13.184
+2019,West Lothian,Road Transport,1544.218
+2020,Aberdeen City,Agriculture,11.7
+2020,Aberdeen City,Commercial,736.258
+2020,Aberdeen City,Domestic,1819.5240000000001
+2020,Aberdeen City,Industrial,1214.615
+2020,Aberdeen City,Industrial & Commercial,576.9
+2020,Aberdeen City,Public Sector,19.11
+2020,Aberdeen City,Rail,7.786
+2020,Aberdeen City,Road Transport,972.706
+2020,Aberdeenshire,Agriculture,364.207
+2020,Aberdeenshire,Commercial,487.271
+2020,Aberdeenshire,Domestic,2329.656
+2020,Aberdeenshire,Industrial,888.292
+2020,Aberdeenshire,Industrial & Commercial,634.078
+2020,Aberdeenshire,Public Sector,1.618
+2020,Aberdeenshire,Rail,31.044
+2020,Aberdeenshire,Road Transport,2012.664
+2020,Angus,Agriculture,84.799
+2020,Angus,Commercial,294.04
+2020,Angus,Domestic,989.3180000000001
+2020,Angus,Industrial,460.90700000000004
+2020,Angus,Industrial & Commercial,254.948
+2020,Angus,Public Sector,0.24
+2020,Angus,Rail,27.968
+2020,Angus,Road Transport,741.8449999999999
+2020,Argyll and Bute,Agriculture,120.16
+2020,Argyll and Bute,Commercial,189.64
+2020,Argyll and Bute,Domestic,768.43
+2020,Argyll and Bute,Industrial,376.486
+2020,Argyll and Bute,Industrial & Commercial,209.313
+2020,Argyll and Bute,Public Sector,46.43
+2020,Argyll and Bute,Rail,3.997
+2020,Argyll and Bute,Road Transport,566.751
+2020,City of Edinburgh,Agriculture,10.545
+2020,City of Edinburgh,Commercial,1371.178
+2020,City of Edinburgh,Domestic,3806.905
+2020,City of Edinburgh,Industrial,1841.8010000000002
+2020,City of Edinburgh,Industrial & Commercial,1169.851
+2020,City of Edinburgh,Public Sector,1.512
+2020,City of Edinburgh,Rail,38.897
+2020,City of Edinburgh,Road Transport,2107.348
+2020,Clackmannanshire,Agriculture,10.133
+2020,Clackmannanshire,Commercial,466.884
+2020,Clackmannanshire,Domestic,416.739
+2020,Clackmannanshire,Industrial,582.909
+2020,Clackmannanshire,Industrial & Commercial,209.783
+2020,Clackmannanshire,Public Sector,0.026
+2020,Clackmannanshire,Rail,0.178
+2020,Clackmannanshire,Road Transport,216.296
+2020,Dumfries and Galloway,Agriculture,509.336
+2020,Dumfries and Galloway,Commercial,520.856
+2020,Dumfries and Galloway,Domestic,1285.318
+2020,Dumfries and Galloway,Industrial,789.85
+2020,Dumfries and Galloway,Industrial & Commercial,485.478
+2020,Dumfries and Galloway,Public Sector,1.456
+2020,Dumfries and Galloway,Rail,18.993
+2020,Dumfries and Galloway,Road Transport,1692.201
+2020,Dundee City,Agriculture,1.05
+2020,Dundee City,Commercial,543.466
+2020,Dundee City,Domestic,1080.0439999999999
+2020,Dundee City,Industrial,728.05
+2020,Dundee City,Industrial & Commercial,291.288
+2020,Dundee City,Public Sector,1.809
+2020,Dundee City,Rail,8.354
+2020,Dundee City,Road Transport,591.972
+2020,East Ayrshire,Agriculture,98.332
+2020,East Ayrshire,Commercial,344.27200000000005
+2020,East Ayrshire,Domestic,1034.22
+2020,East Ayrshire,Industrial,555.738
+2020,East Ayrshire,Industrial & Commercial,203.456
+2020,East Ayrshire,Public Sector,0.653
+2020,East Ayrshire,Rail,3.355
+2020,East Ayrshire,Road Transport,733.05
+2020,East Dunbartonshire,Agriculture,9.175
+2020,East Dunbartonshire,Commercial,134.43200000000002
+2020,East Dunbartonshire,Domestic,987.1899999999999
+2020,East Dunbartonshire,Industrial,197.405
+2020,East Dunbartonshire,Industrial & Commercial,143.511
+2020,East Dunbartonshire,Public Sector,0.003
+2020,East Dunbartonshire,Rail,5.311
+2020,East Dunbartonshire,Road Transport,380.73900000000003
+2020,East Lothian,Agriculture,38.665
+2020,East Lothian,Commercial,328.807
+2020,East Lothian,Domestic,868.225
+2020,East Lothian,Industrial,785.9680000000001
+2020,East Lothian,Industrial & Commercial,256.393
+2020,East Lothian,Public Sector,0.205
+2020,East Lothian,Rail,24.502
+2020,East Lothian,Road Transport,644.78
+2020,East Renfrewshire,Agriculture,15.528
+2020,East Renfrewshire,Commercial,81.913
+2020,East Renfrewshire,Domestic,854.848
+2020,East Renfrewshire,Industrial,109.068
+2020,East Renfrewshire,Industrial & Commercial,65.657
+2020,East Renfrewshire,Public Sector,0.0
+2020,East Renfrewshire,Rail,1.934
+2020,East Renfrewshire,Road Transport,487.361
+2020,Falkirk,Agriculture,23.661
+2020,Falkirk,Commercial,337.409
+2020,Falkirk,Domestic,1261.862
+2020,Falkirk,Industrial,12626.835
+2020,Falkirk,Industrial & Commercial,356.907
+2020,Falkirk,Public Sector,0.227
+2020,Falkirk,Rail,12.579
+2020,Falkirk,Road Transport,1103.002
+2020,Fife,Agriculture,90.199
+2020,Fife,Commercial,888.404
+2020,Fife,Domestic,3140.5519999999997
+2020,Fife,Industrial,5854.946
+2020,Fife,Industrial & Commercial,819.696
+2020,Fife,Public Sector,0.905
+2020,Fife,Rail,61.62
+2020,Fife,Road Transport,1867.158
+2020,Glasgow City,Agriculture,4.02
+2020,Glasgow City,Commercial,1696.9769999999999
+2020,Glasgow City,Domestic,4014.853
+2020,Glasgow City,Industrial,2276.354
+2020,Glasgow City,Industrial & Commercial,1482.203
+2020,Glasgow City,Public Sector,1.06
+2020,Glasgow City,Rail,9.538
+2020,Glasgow City,Road Transport,2500.496
+2020,Highland,Agriculture,310.074
+2020,Highland,Commercial,1001.568
+2020,Highland,Domestic,2008.077
+2020,Highland,Industrial,1668.2240000000002
+2020,Highland,Industrial & Commercial,745.772
+2020,Highland,Public Sector,38.149
+2020,Highland,Rail,42.967
+2020,Highland,Road Transport,1778.308
+2020,Inverclyde,Agriculture,7.748
+2020,Inverclyde,Commercial,209.827
+2020,Inverclyde,Domestic,630.555
+2020,Inverclyde,Industrial,264.551
+2020,Inverclyde,Industrial & Commercial,153.79
+2020,Inverclyde,Public Sector,0.16699999999999998
+2020,Inverclyde,Rail,0.134
+2020,Inverclyde,Road Transport,356.093
+2020,Midlothian,Agriculture,22.693
+2020,Midlothian,Commercial,172.572
+2020,Midlothian,Domestic,728.3749999999999
+2020,Midlothian,Industrial,249.224
+2020,Midlothian,Industrial & Commercial,186.922
+2020,Midlothian,Public Sector,0.641
+2020,Midlothian,Rail,6.57
+2020,Midlothian,Road Transport,454.691
+2020,Moray,Agriculture,95.002
+2020,Moray,Commercial,744.1600000000001
+2020,Moray,Domestic,817.475
+2020,Moray,Industrial,1097.258
+2020,Moray,Industrial & Commercial,273.732
+2020,Moray,Public Sector,3.95
+2020,Moray,Rail,6.792
+2020,Moray,Road Transport,520.116
+2020,Na h-Eileanan Siar,Agriculture,36.431
+2020,Na h-Eileanan Siar,Commercial,43.411
+2020,Na h-Eileanan Siar,Domestic,257.235
+2020,Na h-Eileanan Siar,Industrial,103.995
+2020,Na h-Eileanan Siar,Industrial & Commercial,60.072
+2020,Na h-Eileanan Siar,Public Sector,0.605
+2020,Na h-Eileanan Siar,Rail,0.0
+2020,Na h-Eileanan Siar,Road Transport,134.99800000000002
+2020,North Ayrshire,Agriculture,47.29
+2020,North Ayrshire,Commercial,1367.477
+2020,North Ayrshire,Domestic,1093.123
+2020,North Ayrshire,Industrial,1905.676
+2020,North Ayrshire,Industrial & Commercial,354.028
+2020,North Ayrshire,Public Sector,0.175
+2020,North Ayrshire,Rail,1.941
+2020,North Ayrshire,Road Transport,497.606
+2020,North Lanarkshire,Agriculture,27.021
+2020,North Lanarkshire,Commercial,793.593
+2020,North Lanarkshire,Domestic,2671.496
+2020,North Lanarkshire,Industrial,1239.779
+2020,North Lanarkshire,Industrial & Commercial,722.776
+2020,North Lanarkshire,Public Sector,0.114
+2020,North Lanarkshire,Rail,15.828
+2020,North Lanarkshire,Road Transport,2472.605
+2020,Orkney Islands,Agriculture,124.854
+2020,Orkney Islands,Commercial,28.910999999999998
+2020,Orkney Islands,Domestic,172.791
+2020,Orkney Islands,Industrial,66.726
+2020,Orkney Islands,Industrial & Commercial,54.404
+2020,Orkney Islands,Public Sector,1.161
+2020,Orkney Islands,Rail,0.0
+2020,Orkney Islands,Road Transport,94.219
+2020,Perth and Kinross,Agriculture,165.43
+2020,Perth and Kinross,Commercial,297.315
+2020,Perth and Kinross,Domestic,1326.63
+2020,Perth and Kinross,Industrial,443.34700000000004
+2020,Perth and Kinross,Industrial & Commercial,329.811
+2020,Perth and Kinross,Public Sector,0.69
+2020,Perth and Kinross,Rail,53.439
+2020,Perth and Kinross,Road Transport,1664.191
+2020,Renfrewshire,Agriculture,18.806
+2020,Renfrewshire,Commercial,420.675
+2020,Renfrewshire,Domestic,1396.339
+2020,Renfrewshire,Industrial,626.635
+2020,Renfrewshire,Industrial & Commercial,391.328
+2020,Renfrewshire,Public Sector,0.024
+2020,Renfrewshire,Rail,1.329
+2020,Renfrewshire,Road Transport,992.341
+2020,Scottish Borders,Agriculture,286.764
+2020,Scottish Borders,Commercial,329.473
+2020,Scottish Borders,Domestic,1026.599
+2020,Scottish Borders,Industrial,539.8109999999999
+2020,Scottish Borders,Industrial & Commercial,268.487
+2020,Scottish Borders,Public Sector,0.401
+2020,Scottish Borders,Rail,23.129
+2020,Scottish Borders,Road Transport,775.967
+2020,Shetland Islands,Agriculture,67.234
+2020,Shetland Islands,Commercial,44.381
+2020,Shetland Islands,Domestic,172.861
+2020,Shetland Islands,Industrial,122.74700000000001
+2020,Shetland Islands,Industrial & Commercial,79.491
+2020,Shetland Islands,Public Sector,0.823
+2020,Shetland Islands,Rail,0.0
+2020,Shetland Islands,Road Transport,136.34900000000002
+2020,South Ayrshire,Agriculture,106.131
+2020,South Ayrshire,Commercial,379.291
+2020,South Ayrshire,Domestic,989.758
+2020,South Ayrshire,Industrial,569.0740000000001
+2020,South Ayrshire,Industrial & Commercial,229.685
+2020,South Ayrshire,Public Sector,0.123
+2020,South Ayrshire,Rail,3.499
+2020,South Ayrshire,Road Transport,656.614
+2020,South Lanarkshire,Agriculture,126.646
+2020,South Lanarkshire,Commercial,518.1400000000001
+2020,South Lanarkshire,Domestic,2701.554
+2020,South Lanarkshire,Industrial,862.245
+2020,South Lanarkshire,Industrial & Commercial,499.429
+2020,South Lanarkshire,Public Sector,0.525
+2020,South Lanarkshire,Rail,23.024
+2020,South Lanarkshire,Road Transport,2086.242
+2020,Stirling,Agriculture,64.976
+2020,Stirling,Commercial,708.588
+2020,Stirling,Domestic,781.9650000000001
+2020,Stirling,Industrial,983.304
+2020,Stirling,Industrial & Commercial,246.982
+2020,Stirling,Public Sector,0.6799999999999999
+2020,Stirling,Rail,14.227
+2020,Stirling,Road Transport,794.9359999999999
+2020,West Dunbartonshire,Agriculture,7.974
+2020,West Dunbartonshire,Commercial,199.91500000000002
+2020,West Dunbartonshire,Domestic,658.3789999999999
+2020,West Dunbartonshire,Industrial,269.929
+2020,West Dunbartonshire,Industrial & Commercial,181.817
+2020,West Dunbartonshire,Public Sector,0.749
+2020,West Dunbartonshire,Rail,0.789
+2020,West Dunbartonshire,Road Transport,420.16200000000003
+2020,West Lothian,Agriculture,29.528
+2020,West Lothian,Commercial,518.136
+2020,West Lothian,Domestic,1453.13
+2020,West Lothian,Industrial,732.513
+2020,West Lothian,Industrial & Commercial,445.442
+2020,West Lothian,Public Sector,0.076
+2020,West Lothian,Rail,10.221
+2020,West Lothian,Road Transport,1234.2189999999998
