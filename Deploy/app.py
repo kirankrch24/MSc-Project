@@ -25,3 +25,19 @@ def predict():
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
+
+
+'''
+json request
+
+
+[
+  {
+    "DateCode": 2023,
+    "FeatureName": 14,
+    "Energy Type": 5,
+    "Energy Consuming Sector": 7
+  }
+]
+
+'''
