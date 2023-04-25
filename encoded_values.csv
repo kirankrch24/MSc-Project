@@ -1,0 +1,33 @@
+Mapping,FeatureName,Mapping,Energy Type,Mapping,Energy Consuming Sector
+0,Aberdeen City,0.0,Bioenergy & Wastes,0.0,Agriculture
+1,Aberdeenshire,1.0,Coal,1.0,Commercial
+2,Angus,2.0,Electricity,2.0,Domestic
+3,Argyll and Bute,3.0,Gas,3.0,Industrial
+4,City of Edinburgh,4.0,Manufactured Fuels,4.0,Industrial & Commercial
+5,Clackmannanshire,5.0,Petroleum Products,5.0,Public Sector
+6,Dumfries and Galloway,,,6.0,Rail
+7,Dundee City,,,7.0,Road Transport
+8,East Ayrshire,,,,
+9,East Dunbartonshire,,,,
+10,East Lothian,,,,
+11,East Renfrewshire,,,,
+12,Falkirk,,,,
+13,Fife,,,,
+14,Glasgow City,,,,
+15,Highland,,,,
+16,Inverclyde,,,,
+17,Midlothian,,,,
+18,Moray,,,,
+19,Na h-Eileanan Siar,,,,
+20,North Ayrshire,,,,
+21,North Lanarkshire,,,,
+22,Orkney Islands,,,,
+23,Perth and Kinross,,,,
+24,Renfrewshire,,,,
+25,Scottish Borders,,,,
+26,Shetland Islands,,,,
+27,South Ayrshire,,,,
+28,South Lanarkshire,,,,
+29,Stirling,,,,
+30,West Dunbartonshire,,,,
+31,West Lothian,,,,
