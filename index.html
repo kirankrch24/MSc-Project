@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Energy Prediction</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+    $("#submit-btn").click(function(event) {
+        event.preventDefault();
+        var inputData = {
+            "FeatureName": $("#input-feature-name").val(),
+            "DateCode": parseInt($("#input-date-code").val()),
+            "Energy Type": $("#input-energy-type").val(),
+            "Energy Consuming Sector": $("#input-energy-consuming-sector").val()
+        };
+
+        console.log("Input data:", inputData); // Add this line to log input data
+
+        $.ajax({
+            url: '/predict',
+            contentType: "application/json",
+            type: 'POST',
+            data: JSON.stringify(inputData),
+            success: function(response) {
+                console.log("Response data:", response); // Add this line to log response data
+                $("#prediction-result").text(response.prediction);
+                $("#result").show();
+            },
+            error: function(error) {
+                console.log("Error:", error); // Add this line to log errors
+            }
+        });
+    });
+});
+
+    </script>
+</head>
+<body>
+    <h1>Enter input data for energy prediction</h1>
+    <form id="input-form">
+        <label for="input-feature-name">Feature Name:</label>
+        <select id="input-feature-name">
+            <option value="Aberdeen City">Aberdeen City</option>
+            <option value="Aberdeenshire">Aberdeenshire</option>
+            <option value="Angus">Angus</option>
+            <option value="Argyll and Bute">Argyll and Bute</option>
+            <option value="City of Edinburgh">City of Edinburgh</option>
+            <option value="Clackmannanshire">Clackmannanshire</option>
+            <option value="Dumfries and Galloway">Dumfries and Galloway</option>
+            <option value="Dundee City">Dundee City</option>
+            <option value="East Ayrshire">East Ayrshire</option>
+            <option value="East Dunbartonshire">East Dunbartonshire</option>
+            <option value="East Lothian">East Lothian</option>
+            <option value="East Renfrewshire">East Renfrewshire</option>
+            <option value="Falkirk">Falkirk</option>
+            <option value="Fife">Fife</option>
+            <option value="Glasgow City">Glasgow City</option>
+            <option value="Highland">Highland</option>
+            <option value="Inverclyde">Inverclyde</option>
+            <option value="Midlothian">Midlothian</option>
+            <option value="Moray">Moray</option>
+            <option value="Na h-Eileanan Siar">Na h-Eileanan Siar</option>
+            <option value="North Ayrshire">North Ayrshire</option>
+            <option value="North Lanarkshire">North Lanarkshire</option>
+            <option value="Orkney Islands">Orkney Islands</option>
+            <option value="Perth and Kinross">Perth and Kinross</option>
+            <option value="Renfrewshire">Renfrewshire</option>
+            <option value="Scottish Borders">Scottish Borders</option>
+            <option value="Shetland Islands">Shetland Islands</option>
+            <option value="South Ayrshire">South Ayrshire</option>
+            <option value="South Lanarkshire">South Lanarkshire</option>
+            <option value="Stirling">Stirling</option>
+            <option value="West Dunbartonshire">West Dunbartonshire</option>
+            <option value="West Lothian">West Lothian</option>
+        </select>
+        
+        <label for="input-date-code">Date Code:</label>
+        <input type="text" id="input-date-code" placeholder="Enter Date Code">
+        
+        <label for="input-energy-type">Energy Type:</label>
+        <select id="input-energy-type">
+            <!-- Add the Energy Type options here -->
+            <option value="Bioenergy & Wastes">Bioenergy & Wastes</option>
+            <option value="Coal">Coal</option>
+            <option value="Electricity">Electricity</option>
+            <option value="Gas">Gas</option>
+            <option value="Manufactured Fuels">Manufactured Fuels</option>
+            <option value="Petroleum Products">Petroleum Products</option>
+        </select>
+        
+        <label for="input-energy-consuming-sector">Energy Consuming Sector:</label>
+        <select id="input-energy-consuming-sector">
+            <!-- Add the Energy Consuming Sector options here -->
+            <option value="Agriculture">Agriculture</option>
+            <option value="Commercial">Commercial</option>
+            <option value="Domestic">Domestic</option>
+            <option value="Industrial">Industrial</option>
+            <option value="Industrial & Commercial">Industrial & Commercial</option>
+            <option value="Public Sector">Public Sector</option>
+            <option value="Rail">Rail</option>
+            <option value="Road Transport">Road Transport</option>
+        </select>
+        
+        <button id="submit-btn" type="submit">Predict</button>
+    </form>
+    <div id="result" style="display:none;">
+        <h2>Prediction Result</h2>
+        <p id="prediction-result"></p>
+    </div>
+</body>
+</html>

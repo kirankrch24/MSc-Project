@@ -1,13 +1,13 @@
 import requests
 import json
 
-url = "http://127.0.0.1:5000/predict"
+url = "http://127.0.0.1:5001/predict"
 
 data = {
-    "FeatureName": "Total electricity supplied",
-    "DateCode": 202005,
+    "FeatureName": "Aberdeen",
+    "DateCode": 2023,
     "Energy Type": "Electricity",
-    "Energy Consuming Sector": "Total final consumers",
+    "Energy Consuming Sector": "Domestic",
 }
 
 headers = {'Content-type': 'application/json'}
